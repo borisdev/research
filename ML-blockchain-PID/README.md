@@ -2,22 +2,22 @@
 
 In five years enterprise applications wll start using a new blockchain layer to get PID (personal information data) in order to train machine learning models to solve the heterogeneity prediction problem. 
 
+To solve big these human pain points AI prediction accuracy must move to the very granular subgroup level, and this requires 
+
+- economic incentives and privacy for the data doners.
+- cheap ZKP queries for the enterprise applications
+
 ## Examples of questions that can only be answered by ML trained trained on granular PID
 
 - Who has been cured from diabetes that has the same genetic make up as I?
 - What Uber drivers have a great reputation given by elderly people with poor sight and hearing?
 - Who wants to marry me even though I have the following genetic makeup?
 
-To solve big these human pain points AI prediction accuracy must move to the very granular subgroup level, and this requires 
 
-- economic incentives and privacy for the data doners.
-- cheap ZKP queries for the enterprise applications
-
-## The prediction heterogeniety problem?
+## What is the prediction heterogeniety problem?
 
 
 ## How can Blockchan + ZKP solve this problem?
-
 
 
 
