@@ -1,7 +1,5 @@
 # The big hairy prediction: ZKML will be a new layer for enterprise web applications
 
-## Timing
-
 In five years enterprise applications wll start using a new blockchain layer to get PID (personal information data) in order to train machine learning models to solve the heterogeneity prediction problem. 
 
 ## Examples of questions that can only be answered by ML trained trained on granular PID
