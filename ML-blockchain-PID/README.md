@@ -1,14 +1,27 @@
-# A new layer for enterprise web applications: ML <--> Blockchain <--> PID
+# The big hairy prediction: ZKML will be a new layer for enterprise web applications
 
-## Examples of high value predictions dependent on granular PID training data
+## Timing
+
+In five years enterprise applications wll start using a new blockchain layer to get PID (personal information data) in order to train machine learning models to solve the heterogeneity prediction problem. 
+
+## Examples of questions that can only be answered by ML trained trained on granular PID
 
 - Who has been cured from diabetes that has the same genetic make up as I?
-- What Uber drivers have a great reputation my elderly people with poor sight and hearing?
+- What Uber drivers have a great reputation given by elderly people with poor sight and hearing?
 - Who wants to marry me even though I have the following genetic makeup?
 
-## What will be the impact of blockchain on the prediction heterogeniety problem?
+To solve big these human pain points AI prediction accuracy must move to the very granular subgroup level, and this requires 
 
-In five years enterprise applications with start using a new blockchain layer to get PID (personal information data) in order to train machine learning models to solve the heterogeneity problem. In other words AI prediction accuracy will proven at the very granular subgroup level. This can solve many human problems.
+- economic incentives and privacy for the data doners.
+- cheap ZKP queries for the enterprise applications
+
+## The prediction heterogeniety problem?
+
+
+## How can Blockchan + ZKP solve this problem?
+
+
+
 
 ## Rationale
 
