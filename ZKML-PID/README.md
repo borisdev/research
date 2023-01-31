@@ -1,5 +1,16 @@
 # The big hairy prediction: ZKML will be a new layer for enterprise web applications
 
+Imagine you can help your family by getting answers to these life changing questions.
+
+- Tell me how children with the same genes as my child best survived the same chronic disease?
+- Tell me how elderly with the same genes and biomarkers as my mom best reversed their dementia?
+- Given my mom's elderly age and bad hearing, who is the best Uber driver?
+
+People will pay a very high premium for these predictions. 
+So why do enterprises not profit from developing machine learning models that make these precision, personalized predictions?
+The blocker is that companies need personal information data (PID) to develop such precision predictions and people will not share PID until they see the benefits outweighing the privacy risks.
+As cost factors decrease you will see a shift. Enterprises will use a new PID blockchain zero-knowledge (ZK) layer in their application stack to provide the consumer with privacy protection and market incentives to share their PID. And then they will charge premium prices to the consumer for these precision predictions.
+
 
 ## Examples of high value predictions dependent on granular PID training data
 
