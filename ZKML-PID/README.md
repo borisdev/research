@@ -1,4 +1,8 @@
-# The big hairy prediction: ZKML will be a new layer for enterprise web applications
+# ZKML will be a new layer for enterprise web applications
+
+In five years enterprise applications wll start using a new blockchain layer to get PID (personal information data) in order to train machine learning models to solve the precision, perosnalized prediction problem.
+
+## The big hairy prediction
 
 Imagine you can help your family by getting answers to these life changing questions.
 
@@ -13,26 +17,12 @@ The blocker is that companies need personal information data (PID) to develop su
 As a solution, in order to charge premium prices to the consumer for these precision predictions, enterprises will use a new PID blockchain zero-knowledge (ZK) layer in their application stack to provide the consumer with privacy protection and market incentives to share their PID. 
 
 
-## Examples of high value predictions dependent on granular PID training data
-
-In five years enterprise applications wll start using a new blockchain layer to get PID (personal information data) in order to train machine learning models to solve the heterogeneity prediction problem. 
-
 To solve big these human pain points AI prediction accuracy must move to the very granular subgroup level, and this requires 
 
 - economic incentives and privacy for the data doners.
 - cheap ZKP queries for the enterprise applications
 
-## Examples of questions that can only be answered by ML trained trained on granular PID
 
-- Who has been cured from diabetes that has the same genetic make up as I?
-- What Uber drivers have a great reputation given by elderly people with poor sight and hearing?
-- Who wants to marry me even though I have the following genetic makeup?
-
-
-## What is the prediction heterogeniety problem?
-
-
-## How can Blockchan + ZKP solve this problem?
 
 
 
