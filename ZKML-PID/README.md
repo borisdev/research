@@ -1,5 +1,7 @@
 # A new layer for enterprise web applications: ML <--> Blockchain <--> PID
 
+
+
 ## Examples of high value predictions dependent on granular PID training data
 
 - Who has been cured from diabetes that has the same genetic make up as I?
@@ -60,3 +62,17 @@ Diagram of protocol layer embedded within the business model
 
 ![alt text](new-layer.png)
 
+# Awesome websites
+
+# References on personalized medicine
+
+- [TechNation Radio Podcast Episode 23-03 The Right Antidepressant the First Time?](https://podcasts.apple.com/us/podcast/technation-radio-podcast/id876042622?i=1000595534762)
+- [The rise of the genome and personalised medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6297695/)
+- [Advancing precision medicine through agile governance](https://www.brookings.edu/research/advancing-precision-medicine-through-agile-governance/)
+- [Health Survey for England content](https://digital.nhs.uk/data-and-information/areas-of-interest/public-health/health-survey-for-england---health-social-care-and-lifestyles/survey-content)
+
+# Discoverability - SEO
+
+- DAG of ZKML-PID chain reaction dependencies 
+- tweet V. Buterin
+- tweet J. Pearl
