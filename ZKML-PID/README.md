@@ -2,8 +2,6 @@
 
 In five years enterprise applications wll start using a new blockchain layer to get PID (personal information data) in order to train machine learning models to solve the precision, perosnalized prediction problem.
 
-## The big hairy prediction
-
 Imagine you can help your family by getting answers to these life changing questions.
 
 - Tell me how children with the same genes as my child best survived the same chronic disease?
