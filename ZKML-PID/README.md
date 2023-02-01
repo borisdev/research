@@ -58,14 +58,6 @@ sequenceDiagram
 ```
 
 
-
-## Diagram of business model
-
-![alt text](new-layer.png)
-
-
-
-
 ## References
 
 - https://gist.github.com/martinwoodward/8ad6296118c975510766d80310db71fd
