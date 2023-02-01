@@ -41,7 +41,6 @@ The variable factor per industry sector is the massive variation in premium paym
 sequenceDiagram
     participant App
     participant Chain
-    participant Human
     App->>Chain: Offer to respond to a ZK query
     Human->>Chain: ZK hashed PID and Bid
     loop check
@@ -57,7 +56,6 @@ sequenceDiagram
     Human-->>App: Payment for prediction
 ```
 
-https://gist.github.com/martinwoodward/8ad6296118c975510766d80310db71fd
 
 
 Diagram of protocol layer embedded within the business model
