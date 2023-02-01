@@ -71,6 +71,10 @@ sequenceDiagram
 - [Advancing precision medicine through agile governance](https://www.brookings.edu/research/advancing-precision-medicine-through-agile-governance/)
 - [Health Survey for England content](https://digital.nhs.uk/data-and-information/areas-of-interest/public-health/health-survey-for-england---health-social-care-and-lifestyles/survey-content)
 
+BigchainDB
+
+https://www.bigchaindb.com/
+
 ## Discoverability - SEO
 
 - DAG of ZKML-PID chain reaction dependencies 
@@ -83,3 +87,18 @@ sequenceDiagram
 - Claim your home on Blockchain
 - LinkedIn on Blockchain - export PDF 
 
+Shipyard grants
+
+https://oceanprotocol.com/shipyard
+
+How Does Ocean Compute-to-Data Relate to Other Privacy-Preserving Approaches?
+
+https://blog.oceanprotocol.com/how-ocean-compute-to-data-relates-to-other-privacy-preserving-technology-b4e1c330483
+
+How Ocean Protocol will Change the World’s Data Economy | Review
+
+https://medium.datadriveninvestor.com/ocean-protocol-will-change-the-data-economy-blockchain-review-d48a3988296b
+
+
+- awesome ZKML
+- ZK Machine Learning, A tutorial amnd demo by Horace Pan ... etc
