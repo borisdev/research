@@ -3,7 +3,7 @@
 ## promotional ideas 
 
 - Offer human-in-the-loop ML 
-- We are looking for companies whose AI project are stuck - bad performance even with sophisticated ML
+- We are looking for companies whose AI project are stuck becasue of garbage input data - bad performance even with sophisticated ML
 - Free consultation
 
 
