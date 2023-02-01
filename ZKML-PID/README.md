@@ -33,8 +33,9 @@ The variable factor per industry sector is the massive variation in premium paym
 - avoiding death through customized medicine
 
 
+In five years enterprise applications will start using a new blockchain layer to get PID (personal information data) in order to train machine learning models to solve the precision, perosnalized prediction problem.
 
-## Protocoal Sequence Diagram
+## Protocol sequence diagram
 
 
 ```mermaid
@@ -58,25 +59,27 @@ sequenceDiagram
 
 
 
-Diagram of protocol layer embedded within the business model
+## Diagram of business model
 
 ![alt text](new-layer.png)
 
 
-# Prediction 
 
-In five years enterprise applications will start using a new blockchain layer to get PID (personal information data) in order to train machine learning models to solve the precision, perosnalized prediction problem.
 
-# Awesome websites
+## References
 
-# References on personalized medicine
+- https://gist.github.com/martinwoodward/8ad6296118c975510766d80310db71fd
+
+## Awesome websites
+
+## References on personalized medicine
 
 - [TechNation Radio Podcast Episode 23-03 The Right Antidepressant the First Time?](https://podcasts.apple.com/us/podcast/technation-radio-podcast/id876042622?i=1000595534762)
 - [The rise of the genome and personalised medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6297695/)
 - [Advancing precision medicine through agile governance](https://www.brookings.edu/research/advancing-precision-medicine-through-agile-governance/)
 - [Health Survey for England content](https://digital.nhs.uk/data-and-information/areas-of-interest/public-health/health-survey-for-england---health-social-care-and-lifestyles/survey-content)
 
-# Discoverability - SEO
+## Discoverability - SEO
 
 - DAG of ZKML-PID chain reaction dependencies 
 - tweet V. Buterin
