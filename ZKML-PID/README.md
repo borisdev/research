@@ -1,6 +1,4 @@
-# ZKML will be a new layer for enterprise web applications
-
-In five years enterprise applications wll start using a new blockchain layer to get PID (personal information data) in order to train machine learning models to solve the precision, perosnalized prediction problem.
+# ZKML will be a new layer for enterprise web applications that will depend on PID
 
 Imagine you can help your family by getting answers to these life changing questions.
 
@@ -73,6 +71,11 @@ The variable factor per industry sector is the massive variation in premium paym
 Diagram of protocol layer embedded within the business model
 
 ![alt text](new-layer.png)
+
+
+# Prediction 
+
+In five years enterprise applications will start using a new blockchain layer to get PID (personal information data) in order to train machine learning models to solve the precision, perosnalized prediction problem.
 
 # Awesome websites
 
