@@ -39,16 +39,22 @@ The variable factor per industry sector is the massive variation in premium paym
 
 ```mermaid
 sequenceDiagram
-    participant Alice
-    participant Bob
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
+    participant App
+    participant Chain
+    participant Human
+    App->>Chain: Offer to respond to a ZK query
+    Human->>Chain: ZK hashed PID and Bid
+    loop check
+        Chain->>Chain: Is there a bid-offer match?
     end
-    Note right of John: Rational thoughts <br/>prevail!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
+    Note right of Chain: App buys PID <br/> tx success!
+    Chain-->>App: ZK hashed PID
+    loop ML training
+        App->>App: Is ML performance sufficient?
+    end
+    Note left of App: ML success!
+    App->>Human: Personalized prediction offer
+    Human-->>App: Payment for prediction
 ```
 
 https://gist.github.com/martinwoodward/8ad6296118c975510766d80310db71fd
