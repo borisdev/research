@@ -20,3 +20,11 @@
 -- pre-procesing noise filters
 -- QA
 -- exploratory stats
+
+
+
+## Philosophy
+
+-- questioning will come at the cost of the perception of execution speed at the beneift of avoiding the XY problem and making a Rube Goldeberg machine -- this will be hard without circumventing the conventional heirachy that instills fear to keep the perception of execution speeds high.
+
+

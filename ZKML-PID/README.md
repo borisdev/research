@@ -76,3 +76,10 @@ sequenceDiagram
 - DAG of ZKML-PID chain reaction dependencies 
 - tweet V. Buterin
 - tweet J. Pearl
+
+
+- Other ZKML ideas
+
+- Claim your home on Blockchain
+- LinkedIn on Blockchain - export PDF 
+
