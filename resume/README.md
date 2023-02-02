@@ -4,7 +4,11 @@ boris.dev@gmail.com
 
 ## Basics
 
-I want to pull teams out of their data quagmire. To get a company unstuck from its data quagmire, I immerse myself in the ambiguities of its data flow and its different mental models of data meaning. Since data quagmires form between the expertise and ownership gaps that split internal teams, solving the puzzle requires working across team boundaries to learn and then innovate their processes, such as Human-in-the-loop ML and data science pipelines. To invite lots of feedback, I code demos and share design papers (examples). I believe that success will depend on having a work culture that is cool with questioning because it avoids the  XY Problem and waste.
+I want to pull companies out of sticky data puzzles through processes innovation in data science pipelines, such as Human-in-the-loop ML and observability. To solve data puzzles I immerse myself in the ambiguities of a company's data flow and its disparate mental models. Data puzzles, or quagmires, form between the expertise gaps and ownership gaps that split internal teams. Therefore, solving a data puzzle requires working with cognitive empathy across team boundaries.
+
+To invite lots of feedback, I code demos and share design papers ([examples](https://docs.google.com/document/d/1pMID97O4hHkK8ok7cwLH4Y4KpsgQSPUAXtYrscwcyb4/view)).
+
+I believe that success will depend on having a work culture that is open to questioning since that is key to avoid the [XY Problem](https://xyproblem.info/) and [waste](https://upload.wikimedia.org/wikipedia/commons/a/a9/Rube_Goldberg%27s_%22Self-Operating_Napkin%22_%28cropped%29.gif).
 
 ## Job experience
 
