@@ -5,7 +5,7 @@ boris.dev@gmail.com
 ## Basics
 
 I want to pull companies out of sticky data puzzles through processes innovation in data science pipelines, such as Human-in-the-loop ML and observability. 
-To solve data puzzles I immerse myself in the ambiguities of a company's data flow and its disparate mental models. 
+In order to solve data puzzles, I immerse myself in the ambiguities of a company's data flow and its disparate mental models. 
 Data puzzles, or quagmires, form between the expertise gaps and ownership gaps that split internal teams. Therefore, solving a data puzzle requires working with cognitive empathy across team boundaries. To invite lots of feedback, I code demos and share design papers ([examples](https://docs.google.com/document/d/1pMID97O4hHkK8ok7cwLH4Y4KpsgQSPUAXtYrscwcyb4/view)).
 I believe that success will depends on a culture of questioning since that is key to avoid the [XY Problem](https://xyproblem.info/) and [waste](https://upload.wikimedia.org/wikipedia/commons/a/a9/Rube_Goldberg%27s_%22Self-Operating_Napkin%22_%28cropped%29.gif).
 
