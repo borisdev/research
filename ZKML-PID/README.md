@@ -3,7 +3,7 @@
 What price would you pay to get these questions answered.
 
 - Tell me, given my child's genes and biomarkers, and the history of other with the same chronic disease, what step should I take next?
-- Tell me, given my mom's genes and biomarkers, and the history of similiar people, how can I reverse her dementia?
+- Tell me, given my dad's genes and biomarkers, and the history of similiar people, how can I reverse his memory loss?
 - Tell me, given my mom's elderly age and bad hearing, who will be her best Uber driver?
 
 The answers to these questions depend on precision, personalized predictions.
