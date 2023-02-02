@@ -52,6 +52,9 @@ In addition, I designed and built the company’s first observability system (Sp
 
 - Ph.D dissertation: [Assessing Inequality using Geographic Income Distributions](https://drive.google.com/file/d/0B3VpcoC5o49ZSzZXbnY3U0VJY2d6dWRETzh1S2Y5ZGNXRGtZ/view?pli=1&resourcekey=0-KJJYhy3nBjKMK5RSVvOisw) 2014.
 - Entry in Encyclopedia of Human Geography on Spatial Econometrics. Sage Publications. 2009 
+- [Interactive spatiotemporal modelling of health systems: the SEKS–GUI framework](https://link.springer.com/article/10.1007/s00477-007-0135-0)
+- [σ‐convergence in the presence of spatial effects](https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/j.1435-5957.2006.00083.x)
+- [Integrating Econometric and Input-Output Models in a Multiregional Context](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2257.1997.tb00771.x)
 - Co-founder of library for clustering geographic areas, [github.com/clusterpy](https://github.com/clusterpy/clusterpy).
 - A play Ethereum MEV bot, [github.com/borisdev/play_mev_bot](https://github.com/borisdev/play_mev_bot)
 - A git bare approach to version control your dot files, [github.com/borisdev/dotfiles](https://github.com/borisdev/dotfiles/blob/master/README.md)
