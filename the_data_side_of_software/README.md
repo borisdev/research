@@ -6,8 +6,15 @@
 - represent info value via data structure - simplification 
 - enormous cognitive load up front to reduce long term load ...the sorting for BIG O problem for the human brain... 
 - ROI
+- Data design to reduce cognitive load and scale humans
+- A computational model of human cognitive load
 
+## References 
 
+- Cognitive load during problem solving: Effects on learning
+- Cognitive load measurement as a means to advance cognitive load theory
+- Cognitive load while learning to use a computer program
+- Evidence for cognitive load theory
 
 ## The dilemna 
 
