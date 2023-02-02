@@ -31,9 +31,7 @@ In addition, I wrote python code to make analytic endpoints (flask, numpy, panda
 Data and product engineer tech lead at HiQ Labs, 2015 - 2018 
 My company provided predictions to our customers on whether their employees were about to quit. As tech lead, the puzzle for the CTO and I was to figure out how to get around LinkedIn’s bot detection in order to scrape millions of HTML public profiles, the raw data for our prediction pipeline. To solve the puzzle I ran and tracked experiments on different spider configurations.
 
-Another puzzle we had was to reduce the stressful, manual pipeline work involved in every monthly release. I led developers and data scientists to move from a monolithic pipeline to a microservice pipeline (spark, kafka, rancher, docker-compose). A major effort was spent in refactoring old code so it could be decoupled into separate services, achieving horizontal scaling, reduced tech debt and reduced cognitive load during releases.
-
-In addition, I designed and built the company’s first observability system, and I trained data scientists on Kafka and Spark, and junior developers on coding.
+Another puzzle we had was to reduce the stressful, manual pipeline work involved in every monthly release. I led developers and data scientists to move from a monolithic pipeline to a microservice pipeline (spark, kafka, rancher, docker-compose). A major effort was spent in refactoring old code so it could be decoupled into separate services, achieving horizontal scaling, reduced tech debt and reduced cognitive load during releases. In addition, I designed and built the company’s first observability system, and I trained data scientists on Kafka and Spark, and junior developers on coding.
 
 ### Start-up partner and developer at Map Decisions, 2014
 
@@ -41,9 +39,7 @@ I created a mobile app to automate street sign inspection (angular, django)
 
 ### Developer at Urban Mapping, 2011 - 2013
 
-We provided a location query and map tiling service to Tableau’s software. The puzzle I had was to stop embarrassing regression errors. Regression errors occur when a developer’s bug fix breaks something that had previously worked. I identified the culprit. Our developers found it too complicated to deduce analytically the impact of their bug fixes because of the very large variation in customer requests (combinatorial explosion from map rendering of hundreds of variables at a dozen scales). As an empirical solution, using clustering and histograms, sorted by frequency and latency, I formed two samples of representative test requests: 1) two hundred test requests were automatically run after every git push and 2) a dozen test requests were manually run locally by developers doing TDD.
-
-In addition, I designed and built the company’s first observability system (Splunk and Tableau) and created the company’s first Jenkins QA CI system.
+We provided a location query and map tiling service to Tableau’s software. The puzzle I had was to stop embarrassing regression errors. Regression errors occur when a developer’s bug fix breaks something that had previously worked. I identified the culprit. Our developers found it too complicated to deduce analytically the impact of their bug fixes because of the very large variation in customer requests (combinatorial explosion from map rendering of hundreds of variables at a dozen scales). As an empirical solution, using clustering and histograms, sorted by frequency and latency, I formed two samples of representative test requests: 1) two hundred test requests were automatically run after every git push and 2) a dozen test requests were manually run locally by developers doing TDD. In addition, I designed and built the company’s first observability system (Splunk and Tableau) and created the company’s first Jenkins QA CI system.
 
 ### Academics, open source, and papers
 
