@@ -1,4 +1,4 @@
-# Consulting: human-in-the-loop ML 
+# Consulting: Human-in-the-Loop annotation design for ML 
 
 ## Promotional ideas 
 
@@ -21,6 +21,8 @@ Bad prediction performance can't be fixed with sophisticated ML R&D when the tra
 ### Misc ideas
 
 - Free consultation
+- Cost = 1/3 of the $$$ you have burned
+- Don't contact us unless you have already failed.
 
 ## Success factors
 
@@ -32,3 +34,9 @@ Bad prediction performance can't be fixed with sophisticated ML R&D when the tra
 - pre-procesing noise filters like schema validation
 - QA and QC
 - exploratory stats
+
+## People
+
+- Robert
+- Boris
+- ???
