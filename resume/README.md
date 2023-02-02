@@ -50,7 +50,7 @@ In addition, I designed and built the company’s first observability system (Sp
 
 ### Academics, open source, and papers
 
-- Ph.D dissertation: Assessing Inequality using Geographic Income Distributions, URL. 2014.
+- Ph.D dissertation: [Assessing Inequality using Geographic Income Distributions](https://drive.google.com/file/d/0B3VpcoC5o49ZSzZXbnY3U0VJY2d6dWRETzh1S2Y5ZGNXRGtZ/view?pli=1&resourcekey=0-KJJYhy3nBjKMK5RSVvOisw) 2014.
 - Entry in Encyclopedia of Human Geography on Spatial Econometrics. Sage Publications. 2009 
 - Co-founder of library for clustering geographic areas, [github.com/clusterpy](https://github.com/clusterpy/clusterpy).
 - A play Ethereum MEV bot, [github.com/borisdev/play_mev_bot](https://github.com/borisdev/play_mev_bot)
