@@ -4,7 +4,10 @@ boris.dev@gmail.com
 
 ## Basics
 
-I am looking to get a company unstuck from their data puzzle, such as a poor performing Human-in-the-Loop ML process. My toolkit includes working backwards from the ambiguities of the data's value to the end user, increasing observability, inviting expert feedback by sharing demos and design papers ([examples](https://docs.google.com/document/d/1pMID97O4hHkK8ok7cwLH4Y4KpsgQSPUAXtYrscwcyb4/view)), and questioning assumptions in order to avoid the [XY Problem](https://xyproblem.info/) and [waste](https://upload.wikimedia.org/wikipedia/commons/a/a9/Rube_Goldberg%27s_%22Self-Operating_Napkin%22_%28cropped%29.gif).
+I get data projects unstuck. 
+I start with getting my head around the ambiguities of the data's human value to the end user, and then work backwards through the data flow, searching for low-hanging fruit system design changes.
+My toolkit includes increasing observability, inviting feedback by sharing demos and design papers ([examples](https://docs.google.com/document/d/1pMID97O4hHkK8ok7cwLH4Y4KpsgQSPUAXtYrscwcyb4/view)), and questioning human value assumptions in order to avoid 
+the [XY Problem](https://xyproblem.info/) and building something technically impressive but with little human value([example](https://upload.wikimedia.org/wikipedia/commons/a/a9/Rube_Goldberg%27s_%22Self-Operating_Napkin%22_%28cropped%29.gif)).
 
 ## Job experience
 
