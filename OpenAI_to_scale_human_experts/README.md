@@ -56,6 +56,9 @@ Bad prediction performance can't be fixed with sophisticated ML R&D when the tra
 ## Notes based on chat with Shawn Feb 3
 
 - [Snorkle AI](https://snorkel.ai/) -- checkout videos from conferences
+-- Programmatic Labeling
+-- Foundational Models
+-- Use Case Examples
 - Data centric AI
 - Get paid based on how far we beat benchmark
 - Stuggling NLP
