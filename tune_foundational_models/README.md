@@ -1,16 +1,20 @@
-# How do I scale experts by tuning foundational NLP models?
+# How can I scale experts by tuning foundational NLP models?
 
 # Questions
 
 1. What are the best readings?
 2. What are the best tools?
 3. Can intergrating a causal inference DAGs be an innovation?
-4. Bottlenecks (cost, complexity, time, traction)?
+4. What are my bottlenecks (cost, complexity, time, traction)?
 
-# TODOs
+# High priority TODOs
 
-- Make Landing pages and starting Google Ad experiments
-- Checkout [AIWORK](https://aiwork.io/)
+- [ ] Google Ad experiments to a landing page
+- [ ] Read all of Snorkle's readings and examples 
+
+# Low priority TODOs
+
+- [ ] Checkout [AIWORK](https://aiwork.io/)
 
 # Readings
 
