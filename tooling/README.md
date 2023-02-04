@@ -7,6 +7,7 @@
 
 - dbt (SQL)
 - airflow
+- snowflake
 - pyramid over django
 - dramatiq over celery
 - timescaleDB
