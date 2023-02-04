@@ -30,7 +30,7 @@
 - SFT (Supervised Fine-Tuned) model
 - [PPO (Proximity Policy Optmization)](https://openai.com/blog/openai-baselines-ppo/)
 
-# Toys PoCs
+# Toy PoCs
 
 - Can ChatGPT do causal inference? Use Book of Why? (J. Pearl) firing squad text. Add causal DAG and then repeat.
 - Is this dish Keto?
