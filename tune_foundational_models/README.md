@@ -10,6 +10,7 @@
 # High priority TODOs
 
 - [ ] Google Ad experiments to a landing page
+- [ ] [Read OpenAI Getting started and docs](https://platform.openai.com/docs/introduction_
 - [ ] Read all of Snorkle's readings and examples 
 
 # Low priority TODOs
