@@ -1,14 +1,13 @@
-# Scale experts by tuning foundational NLP models
+# How do I scale experts by tuning foundational NLP models?
 
 # Questions
 
-1. Can I scale a human subject matter expert by fine-tuning foundational NLP models?
-2. What are the tool dependencies?
-  * How can I fine-tune foundational models by intergrating causal inference DAGs?
-3. What are the constraints?
-  * What is the cost?
+1. What are the best readings?
+2. What are the best tools?
+3. Can intergrating a causal inference DAGs be an innovation?
+4. Bottlenecks (cost, complexity, time, traction)?
 
-# References
+# Readings
 
 - [Better not bigger: How to get GPT-3 quality at 0.1% the cost](https://snorkel.ai/better-not-bigger-how-to-get-gpt-3-quality-at-0-1-the-cost/)
 - [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
@@ -30,7 +29,7 @@
 
 - Can ChatGPT do causal inference? Use Book of Why? (J. Pearl) firing squad text. Add causal DAG and then repeat.
 
-# Papers
+# Backlog of papers
 
 - DAG of annotation on ML performance
 
