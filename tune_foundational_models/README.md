@@ -4,9 +4,9 @@
 
 1. Can I scale a human subject matter expert by fine-tuning foundational NLP models?
 2. What are the tool dependencies?
-- How can I fine-tune foundational models by intergrating causal inference DAGs?
+..* How can I fine-tune foundational models by intergrating causal inference DAGs?
 3. What are the constraints?
-- What is the cost?
+..* What is the cost?
 
 # References
 
