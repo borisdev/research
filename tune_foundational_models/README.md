@@ -6,27 +6,29 @@ LLM denotes large language models.
 - OpenAI's ChatGPT
 - Google's ...
 
-LLMs are synonomous with foundational NLP models
+LLMs are synonomous with foundational NLP models.
+
+Human expert below is synonomous with subject matter expert (SME).
 
 ## Old way 
 
 ```mermaid
 flowchart LR
-    human_expert-- guidelines -->Labeler_1
-    human_expert-- guidelines -->Labeler_2
-    human_expert-- guidelines -->Labeler_3
-    Labeler_1-- examples -->Machine
-    Labeler_2-- examples -->Machine
-    Labeler_3-- examples -->Machine
-    Machine-. slow_feedback .-> human_expert
+    niche_human_expert-- guidelines -->labeler_1
+    niche_human_expert-- guidelines -->labeler_2
+    niche_human_expert-- guidelines -->labeler_3
+    labeler_1-- examples -->niche_prediction_model
+    labeler_2-- examples -->niche_prediction_model
+    labeler_3-- examples -->niche_prediction_model
+    niche_prediction_model-. slow_feedback .-> niche_human_expert
 ```
 
 ## New way
 
 ```mermaid
 flowchart LR
-    human_expert-- labeling_function --> LLM-- examples -->Machine
-    Machine-. quick_feedback .-> human_expert
+    niche_human_expert-- labeling_function --> LLM-- examples -->niche_prediction_model
+    niche_prediction_model-. quick_feedback .-> niche_human_expert
 ```
 
 
