@@ -36,12 +36,12 @@ flowchart LR
 ```mermaid
 flowchart LR
     SME-- guidelines -->Labeler
+    SME-- guidelines -->Labeler
+    SME-- guidelines -->Labeler
+    Labeler-- examples -->Machine
+    Labeler-- examples -->Machine
+    Labeler-- examples -->Machine
 ```
-    SME-- guidelines -->Labeler 2
-    SME-- guidelines -->Labeler 3
-    Labeler 1-- examples -->Prediction Model
-    Labeler 1-- examples -->Prediction Model
-    Labeler 3-- examples -->Prediction Model
 
 
 
