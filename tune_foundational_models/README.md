@@ -25,13 +25,7 @@
 
 # Diagram
 
-
-
-```mermaid
-flowchart LR
-    A-- text -->B
-```
-
+## Old way 
 
 ```mermaid
 flowchart LR
@@ -43,6 +37,13 @@ flowchart LR
     Labeler_3-- examples -->Machine
 ```
 
+## New way
+
+```mermaid
+flowchart LR
+    SME-- labeling_function -->Machine
+    Machine-. feedback .-> SME
+```
 
 
 # Glossary
