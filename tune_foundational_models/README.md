@@ -43,8 +43,9 @@ flowchart LR
 
 # High priority TODOs
 
-- [ ] Google Ad experiments to a landing page
-- [ ] [Read OpenAI Getting started and docs](https://platform.openai.com/docs/introduction_
+- [ ] Non-tech explanation as Medium article, xyz, and linkedin post, and tweet.
+- [ ] Google Ad experiments
+- [ ] [OpenAI](https://platform.openai.com/docs/introduction)
 - [ ] Read all of Snorkle's readings and examples 
 
 # Low priority TODOs
