@@ -35,7 +35,7 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    SME-- guidelines -->Labeler 1
+    SME-- guidelines -->Labeler
 ```
     SME-- guidelines -->Labeler 2
     SME-- guidelines -->Labeler 3
