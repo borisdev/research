@@ -1,4 +1,34 @@
-# How can I scale experts by tuning foundational NLP models?
+# How can I scale experts by tuning LLM 
+
+LLM denotes large language models.
+
+- Roberta
+- OpenAI's ChatGPT
+- Google's ...
+
+LLMs are synonomous with foundational NLP models
+
+## Old way 
+
+```mermaid
+flowchart LR
+    human_expert-- guidelines -->Labeler_1
+    human_expert-- guidelines -->Labeler_2
+    human_expert-- guidelines -->Labeler_3
+    Labeler_1-- examples -->Machine
+    Labeler_2-- examples -->Machine
+    Labeler_3-- examples -->Machine
+    Machine-. slow_feedback .-> human_expert
+```
+
+## New way
+
+```mermaid
+flowchart LR
+    human_expert-- labeling_function --> LLM-- examples -->Machine
+    Machine-. quick_feedback .-> human_expert
+```
+
 
 # Questions
 
@@ -22,29 +52,6 @@
 - [Better not bigger: How to get GPT-3 quality at 0.1% the cost](https://snorkel.ai/better-not-bigger-how-to-get-gpt-3-quality-at-0-1-the-cost/)
 - [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
 
-
-# Diagram
-
-## Old way 
-
-```mermaid
-flowchart LR
-    human_expert-- guidelines -->Labeler_1
-    human_expert-- guidelines -->Labeler_2
-    human_expert-- guidelines -->Labeler_3
-    Labeler_1-- examples -->Machine
-    Labeler_2-- examples -->Machine
-    Labeler_3-- examples -->Machine
-    Machine-. slow_feedback .-> human_expert
-```
-
-## New way
-
-```mermaid
-flowchart LR
-    human_expert-- labeling_function --> LLM-- examples -->Machine
-    Machine-. quick_feedback .-> human_expert
-```
 
 
 # Glossary
