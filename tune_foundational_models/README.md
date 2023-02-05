@@ -35,14 +35,13 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-%% https://mermaid.js.org/syntax/flowchart.html
     SME-- guidelines -->Labeler 1
+```
     SME-- guidelines -->Labeler 2
     SME-- guidelines -->Labeler 3
     Labeler 1-- examples -->Prediction Model
     Labeler 1-- examples -->Prediction Model
     Labeler 3-- examples -->Prediction Model
-```
 
 
 
