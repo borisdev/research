@@ -1,4 +1,4 @@
-# How can you scale your niche human expertise by tuning a LLM? 
+# Scale your humans experts by tuning a large language model (LLM)
 
 LLM denotes large language models.
 
