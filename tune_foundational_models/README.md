@@ -1,5 +1,11 @@
 # Scale your humans experts by tuning a large language model (LLM)
 
+The is a non-technical overview of how we think you can save lots of money in your AI project.
+
+Audience: CTOs
+
+Glossary
+
 LLM denotes large language models.
 
 - Roberta
@@ -29,7 +35,9 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    niche_human_expert-- labeling_function --> LLM-- examples -->niche_prediction_model
+    LLM-- predictions -->programmatic_labeling
+    niche_human_expert-- mental_model -->programmatic_labeling
+    programmatic_labeling -- examples -->niche_prediction_model
     niche_prediction_model-. quick_feedback .-> niche_human_expert
 ```
 
