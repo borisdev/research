@@ -1,22 +1,20 @@
-# Scale your humans experts by tuning a large language model (LLM)
+# Scale your humans experts by tuning ChatGPT and other large language models (LLMs)
 
-The is a non-technical overview of how we think you can save lots of money in your AI project.
+The intended audience is CTOs with a niche business prediction problem.
 
-Audience: CTOs
+You have a niche business domain problem if an off-the-shelf version of ChatGPT will be useless for your business.
 
-Glossary
 
-LLM denotes large language models.
+The is a non-technical overview of how we think you can save lots of money in your AI project by moving away from human annotation and towards fine-tuning ChatGPT or other large language models (LLM).
 
-- Roberta
-- OpenAI's ChatGPT
-- Google's ...
+ChatGPT or other LLM can be fine-tuned using the niche human expertise at your company to scale their expertise.
 
-LLMs are synonomous with foundational NLP models.
+The economics of AI features just changed last month.
 
-The term niche human expert denotes a subject matter expert (SME) whose expertise is focused on your small business domain or niche.
+- ChatGPT made NLP AI comprehensible -- lower the barrier to entry
+- expensive labeling is obsolete
+- your competitors are rushing to AI 
 
-A niche is a business domain so small that off the shelf NLP LLL (AI) models could not be trained on relevant examples and therefore you get bad predictions.
 
 ## Old way 
 
@@ -40,6 +38,13 @@ flowchart LR
     niche_prediction_model-. quick_feedback .-> niche_human_expert
 ```
 
+# LLMs
+
+LLMs are synonomous with foundational NLP models.
+
+- Roberta
+- OpenAI's ChatGPT
+- Google's ...
 
 # Questions
 
