@@ -1,8 +1,8 @@
-# Fine-tune ChatGPT and other large language models (LLMs)
+# Stop labeling and start fine-tuning: A non-technical overview of how ChatGPT and the like might get your AI project unstuck
 
-CTOs with a niche business prediction problem are the intended audience of this writing.
+CTOs with a niche business NLP classification prediction problem are the intended audience of this writing.
 
-You have a niche business prediction problem if an off-the-shelf version of ChatGPT has no value to you. Its was never trained on the 
+You have a niche business NLP prediction problem if an off-the-shelf version of ChatGPT has no value to you in . Its was never trained on the 
 langauge and reasoning of your business niche.
 
 There is a new situation for CTOs. 
