@@ -28,12 +28,12 @@
 ```mermaid
 flowchart LR
 %% https://mermaid.js.org/syntax/flowchart.html
-    SME -- mental model guidelines --> Labeler 1
-    SME -- mental model guidelines --> Labeler 2
-    SME -- mental model guidelines --> Labeler 3
-    Labeler 1 -- training examples --> Prediction Model
-    Labeler 1 -- training examples --> Prediction Model
-    Labeler 3 -- training examples --> Prediction Model
+    SME-- mental model guidelines -->Labeler 1
+    SME-- mental model guidelines -->Labeler 2
+    SME-- mental model guidelines -->Labeler 3
+    Labeler 1-- training examples -->Prediction Model
+    Labeler 1-- training examples -->Prediction Model
+    Labeler 3-- training examples -->Prediction Model
 ```
 
 
