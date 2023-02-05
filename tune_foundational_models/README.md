@@ -29,20 +29,21 @@
 
 ```mermaid
 flowchart LR
-    SME-- guidelines -->Labeler_1
-    SME-- guidelines -->Labeler_2
-    SME-- guidelines -->Labeler_3
+    human_expert-- guidelines -->Labeler_1
+    human_expert-- guidelines -->Labeler_2
+    human_expert-- guidelines -->Labeler_3
     Labeler_1-- examples -->Machine
     Labeler_2-- examples -->Machine
     Labeler_3-- examples -->Machine
+    Machine-. slow_feedback .-> human_expert
 ```
 
 ## New way
 
 ```mermaid
 flowchart LR
-    SME-- labeling_function -->Machine
-    Machine-. feedback .-> SME
+    human_expert-- labeling_function -->Machine
+    Machine-. quick_feedback .-> human_expert
 ```
 
 
