@@ -1,4 +1,4 @@
-# How can I scale experts by tuning LLM 
+# How can you scale your niche human expertise by tuning a LLM? 
 
 LLM denotes large language models.
 
@@ -8,7 +8,9 @@ LLM denotes large language models.
 
 LLMs are synonomous with foundational NLP models.
 
-Human expert below is synonomous with subject matter expert (SME).
+The term niche human expert denotes a subject matter expert (SME) whose expertise is focused on your small business domain or niche.
+
+A niche is a business domain so small that off the shelf NLP LLL (AI) models could not be trained on relevant examples and therefore you get bad predictions.
 
 ## Old way 
 
