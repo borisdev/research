@@ -35,12 +35,12 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    SME-- guidelines -->Labeler
-    SME-- guidelines -->Labeler
-    SME-- guidelines -->Labeler
-    Labeler-- examples -->Machine
-    Labeler-- examples -->Machine
-    Labeler-- examples -->Machine
+    SME-- guidelines -->Labeler_1
+    SME-- guidelines -->Labeler_2
+    SME-- guidelines -->Labeler_3
+    Labeler_1-- examples -->Machine
+    Labeler_2-- examples -->Machine
+    Labeler_3-- examples -->Machine
 ```
 
 
