@@ -35,9 +35,8 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    LLM-- predictions -->programmatic_labeling
-    niche_human_expert-- mental_model -->programmatic_labeling
-    programmatic_labeling -- examples -->niche_prediction_model
+    niche_human_expert-- mental_model -->LLM_and_programmatic_labeling
+    LLM_and_programmatic_labeling -- examples -->niche_prediction_model
     niche_prediction_model-. quick_feedback .-> niche_human_expert
 ```
 
