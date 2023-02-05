@@ -25,6 +25,14 @@
 
 # Diagram
 
+
+
+```
+flowchart LR
+    A-- text -->B
+```
+
+
 ```mermaid
 flowchart LR
 %% https://mermaid.js.org/syntax/flowchart.html
