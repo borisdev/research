@@ -1,20 +1,17 @@
-# Scale your humans experts by tuning ChatGPT and other large language models (LLMs)
+# Fine-tune ChatGPT and other large language models (LLMs)
 
-The intended audience is CTOs with a niche business prediction problem.
+CTOs with a niche business prediction problem are the intended audience of this writing.
 
-You have a niche business domain problem if an off-the-shelf version of ChatGPT will be useless for your business.
+You have a niche business prediction problem if an off-the-shelf version of ChatGPT has no value to you. Its was never trained on the 
+langauge and reasoning of your business niche.
 
+There is a new situation for CTOs. 
 
-The is a non-technical overview of how we think you can save lots of money in your AI project by moving away from human annotation and towards fine-tuning ChatGPT or other large language models (LLM).
+- the consensus is that human labeling kills lots of projects
+- new tools have emerged making expensive labeling obsolete
+- ChatGPT makes NLP AI comprehensible and lowered the barrier to entry for making AI features
 
-ChatGPT or other LLM can be fine-tuned using the niche human expertise at your company to scale their expertise.
-
-The economics of AI features just changed last month.
-
-- ChatGPT made NLP AI comprehensible -- lower the barrier to entry
-- expensive labeling is obsolete
-- your competitors are rushing to AI 
-
+This is a non-technical overview on moving away from human annotation and towards fine-tuning ChatGPT or other large language models (LLM).
 
 ## Old way 
 
