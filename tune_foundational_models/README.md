@@ -22,6 +22,22 @@
 - [Better not bigger: How to get GPT-3 quality at 0.1% the cost](https://snorkel.ai/better-not-bigger-how-to-get-gpt-3-quality-at-0-1-the-cost/)
 - [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
 
+
+# Diagram
+
+```mermaid
+flowchart LR
+%% https://mermaid.js.org/syntax/flowchart.html
+    SME -- mental model guidelines --> Labeler 1
+    SME -- mental model guidelines --> Labeler 2
+    SME -- mental model guidelines --> Labeler 3
+    Labeler 1 -- training examples --> Prediction Model
+    Labeler 1 -- training examples --> Prediction Model
+    Labeler 3 -- training examples --> Prediction Model
+```
+
+
+
 # Glossary
 
 - programmatic labeling
