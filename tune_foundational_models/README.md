@@ -42,7 +42,7 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    human_expert-- labeling_function -->Machine
+    human_expert-- labeling_function --> LLM-- examples -->Machine
     Machine-. quick_feedback .-> human_expert
 ```
 
