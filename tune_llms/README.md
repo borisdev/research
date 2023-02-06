@@ -158,3 +158,6 @@ LLMs are synonomous with foundational NLP models.
 
 
 # First article in a series? What next then?
+
+- How can an SME inject a causal DAG into the LLM so we can ask counter factuals?
+
