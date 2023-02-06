@@ -34,3 +34,6 @@ Above depends on these prerequisites
 ## Reading list
 
 - [How Generative AI Is Changing Creative Work](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work)
+- The Leader’s Guide to Corporate Culture
+- Great Teams Are About Personalities, Not Just Skills
+
