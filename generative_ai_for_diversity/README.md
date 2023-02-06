@@ -3,10 +3,14 @@
 ## Why this question?
 
 - generative AI is big for VCs
-- diversity inclusion is huge for the C-suite 
-- Alex has credability so people will open the door for him. This question is the entrypoint into gaining ground truth knowledge on a new landscape, leavimng the option open to pivot to a more profitable b-model from the knowledge spillover in the overlapping domains of collaboration and engagement.
-- Obviously we are not going to catchup with the frenzy to build new cutting edge tech tools. But, my guess, is that the people at the cutting edge of building tech tools need a shortcut to quickly absorb domain expertise into their software models, beofre their competition (ie. absorb human mental models on emotion so they do not build something technically impressive but humanly meaningless..."No motion without emotion".)
-- You (we) will be paid by the well funded startups or be the non-tech partner.
+- diversity inclusion is big for the C-suite 
+- Alex has public credibility in this domain so people will open the door for him. 
+- This question is the entrypoint into gaining ground truth knowledge on a new landscape.
+- This question does not paint us into a corner. Its general enough to leaving the option open to pivot to a more profitable business model line of questioning from the knowledge spillover in the overlapping domains of collaboration and engagement that will be fall for free.
+
+## Vision 
+
+Obviously we are not going to catchup with the frenzy to build new cutting edge tech tools. But, my guess, is that the people at the cutting edge of building tech tools need a shortcut to quickly absorb domain expertise into their software models, beofre their competition (ie. absorb human mental models on emotion so they do not build something technically impressive but humanly meaningless..."No motion without emotion".) You (we) will be paid by the well funded startups or be the non-tech partner.
 
 ## Sequence of next steps, going backwards
 
