@@ -15,16 +15,17 @@
 3. Alex meets Heide Garder and Ivan Matviak authors of [Smarter Collaboration](https://www.amazon.com/Smarter-Collaboration-Approach-Breaking-Transforming/dp/1647822742). Why these two: because they have already done what Alex is doing at a massive scale. 
   - He asks, How can generative AI increase diversity inclusion at companies?
   - Alex then asks them who he should talk to next and what questions he missed ask so he can iterate on a checklist of questions. 
-4. Above depends on these prerequisites
-  a. Alex getting in the door. So Alex beefs up his LinkedIn page with diversity.
-  b. beef up on the theoretical frameworks of collabporation and inclusion and engagement. 
-    - *Watch Out: Illusion of Inclusion*, chapter 10 in [Smarter Collaboration](https://www.amazon.com/Smarter-Collaboration-Approach-Breaking-Transforming/dp/1647822742) 
-    - others  to research?
-  c. research competing tech tools
-    - Microsoft Teams can flag in real-time exclusion
-    - SWOOP has studies Microsoft Teams data -- I wonder what additional insights can be squeezed using the new AI
-    - Yammer
-  d. My new knowledge of prompting the AI can inform your prioritization of the questions.
+
+Above depends on these prerequisites
+
+- [ ] Alex beefs up his LinkedIn page with diversity to increase chances of getting in the door.
+- [ ] Read *Watch Out: Illusion of Inclusion*, chapter 10 in [Smarter Collaboration](https://www.amazon.com/Smarter-Collaboration-Approach-Breaking-Transforming/dp/1647822742) 
+- [ ] We beef up on the theoretical frameworks of collabporation and inclusion and engagement. 
+- [ ] Research competing tech tools
+- [ ]    - Microsoft Teams can flag in real-time exclusion
+- [ ]    - SWOOP has studies Microsoft Teams data -- I wonder what additional insights can be squeezed using the new AI
+- [ ]    - Yammer
+- [ ] Raise my new knowledge of prompting the AI to inform your research questions.
 
 ## Reading list
 
