@@ -6,7 +6,7 @@
 - diversity inclusion is big for the C-suite 
 - Alex has public credibility in this domain so people will open the door for him. 
 - This question is the entrypoint into gaining ground truth knowledge on a new landscape.
-- This question does not paint us into a corner. Its general enough to leaving the option open to pivot to a more profitable business model line of questioning from the knowledge spillover in the overlapping domains of collaboration and engagement that will be fall for free.
+- This question does not paint us into a corner. Its general enough to leaving the option open to pivot to a more profitable business model line of questioning from the knowledge spillover in the overlapping domains of collaboration and engagement that will fall for free.
 
 ## Vision 
 
