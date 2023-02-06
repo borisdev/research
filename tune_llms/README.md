@@ -107,6 +107,7 @@ LLMs are synonomous with foundational NLP models.
 - Can ChatGPT do causal inference? Use Book of Why? (J. Pearl) firing squad text. Add causal DAG and then repeat.
 - Is this dish Keto?
 - Is this sentence VAGUE?
+- Is this sentence ADMIN or tech support work?
 - Re-do my past consulting work - Does this invoice line relate to a ADMIN task?   
 - Is this article relevant to me to read?
 
