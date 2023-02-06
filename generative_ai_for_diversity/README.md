@@ -10,7 +10,7 @@
 
 ## Vision 
 
-Obviously we are not going to catchup with the frenzy to build new cutting edge tech tools. But, my guess, is that the people at the cutting edge of building tech tools need a shortcut to quickly absorb domain expertise into their software models, beofre their competition (ie. absorb human mental models on emotion so they do not build something technically impressive but humanly meaningless..."No motion without emotion".) You (we) will be paid by the well funded startups or be the non-tech partner.
+Obviously we are not going to catchup with the frenzy to build new cutting edge AI tech tools. But, my guess, is that the people now at the cutting edge of building AI tech tools need a shortcut to quickly absorb domain expertise into their software models, before their competition figure out that human piece of their puzzle. Someone needs to absorb their customer's human mental models on emotion so they do not build something technically impressive but humanly meaningless - "No motion without emotion". Our customer is the tech genuious CTO at the funded startup. We are his bridge to his customer's employees minds.
 
 ## Sequence of next steps, going backwards
 
