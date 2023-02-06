@@ -1,8 +1,8 @@
 ## Tooling to research
 
 - [ ] [DoWhy is a Python library for causal inference](https://github.com/py-why/dowhy)
-- [ ] [Mermaid diagrams](https://mermaid.js.org/intro/) using [a code block in the Github README](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
-
+- [ ] GraphGPT and DAG
+- [ ] Snorkle Flow
 
 
 - dbt (SQL)
@@ -11,3 +11,8 @@
 - pyramid over django
 - dramatiq over celery
 - timescaleDB
+
+
+
+# Done 
+- [x] [Mermaid diagrams](https://mermaid.js.org/intro/) in Github README [markup](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams). Also check [cheatsheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
