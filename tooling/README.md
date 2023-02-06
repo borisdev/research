@@ -1,6 +1,12 @@
 ## Tooling to research
 
+- [ ] GraphGPT
+- [ ] Twitter newspaper without ads
 - [ ] [DoWhy is a Python library for causal inference](https://github.com/py-why/dowhy)
+- [ ] Codex 
+- [ ] Co-pilot
+- [ ] ChatGPT to explain Solidity contracts and what if questions?
+- [ ] Index python code in neovim for gt command..jumpimg to defintions ands usages of func
 - [ ] GraphGPT and DAG
 - [ ] Snorkle Flow
 
