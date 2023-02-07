@@ -28,7 +28,7 @@ The purpose of the labeler is to scale your expert.
 
 ```mermaid
 flowchart LR
-    fa-solid fa-person expert-- written_rationale -->labeler_1
+    niche_human_expert-- written_rationale -->labeler_1
     niche_human_expert-- written_rationale -->labeler_2
     niche_human_expert-- written_rationale -->labeler_3
     labeler_1-- examples -->niche_prediction_model
