@@ -22,6 +22,8 @@ The ultimate problem is to get your experts domain knowledge into a computationa
 2. iteratively get training data for estimating models parameters (HITL observability emngineering)
 
 
+The purpose of the labeler is to scale your expert.
+
 ## Old way 
 
 ```mermaid
