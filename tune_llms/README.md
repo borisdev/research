@@ -76,6 +76,7 @@ LLMs are synonomous with foundational NLP models.
 2. What are the best tools?
 3. Can intergrating a causal inference DAGs be an innovation?
 4. What are my bottlenecks (cost, complexity, time, traction)?
+5. Ask Shawn....Robert as co-author
 
 # High priority TODOs
 
@@ -125,7 +126,7 @@ LLMs are synonomous with foundational NLP models.
 
 # Consulting 
 
-### Potential Google Ads Promotional ideas 
+### Potential Landing page or Google Ads Promotional ideas 
 
 - We are looking for companies whose AI project is stuck because of garbage input data.
 - Bad prediction performance can't be fixed with sophisticated ML R&D when the training data is garbage.
@@ -144,14 +145,10 @@ LLMs are synonomous with foundational NLP models.
 
 ## Consulting success factors
 
+- get in front of CTOs
+- get traction
 - the story of past failure
 
-## People
-
-- Robert
-- Boris
-- Shawn
-- Conner
 
 ## Notes based on chat with Shawn Feb 3
 
@@ -172,4 +169,3 @@ LLMs are synonomous with foundational NLP models.
 # First article in a series? What next then?
 
 - How can an SME inject a causal DAG into the LLM so we can ask counter factuals?
-
