@@ -1,4 +1,4 @@
-# Stop labeling and start fine-tuning: A non-technical overview of how ChatGPT and the like might get your AI project unstuck
+# Pause your labeling: A non-technical look at fine-tuning ChatGPT to rescue your AI feature
 
 Our audience are CTOs that have invest in an AI NLP classifier feature that requires internal domain expertise on some niche prediction problem. 
 
