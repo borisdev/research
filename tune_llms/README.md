@@ -39,8 +39,8 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    niche_human_expert-- coded_rationale -->LLM_and_programmatic_labeling
-    LLM_and_programmatic_labeling -- examples -->niche_prediction_model
+    niche_human_expert-- coded_rationale -->LLM
+    LLM -- examples -->niche_prediction_model
     niche_prediction_model-. quick_feedback .-> niche_human_expert
 ```
 
@@ -102,14 +102,24 @@ LLMs are synonomous with foundational NLP models.
 - SFT (Supervised Fine-Tuned) model
 - [PPO (Proximity Policy Optmization)](https://openai.com/blog/openai-baselines-ppo/)
 
-# Toy PoCs
+# Toy PoC: Classify a food dish as Keto or not.
 
-- Can ChatGPT do causal inference? Use Book of Why? (J. Pearl) firing squad text. Add causal DAG and then repeat.
-- Is this dish Keto?
-- Is this sentence VAGUE?
-- Is this sentence ADMIN or tech support work?
-- Re-do my past consulting work - Does this invoice line relate to a ADMIN task?   
-- Is this article relevant to me to read?
+- What does Keto mean? High quality omega-3 fats and low glycmic carbs (net carbs).
+- Make Golden Test set of examples.
+- Can an off the shelf ChatGPT classify food dishes as omega-3? 
+- Can an off the shelf ChatGPT classify food dishes as low glycmic?
+- Run ER for keto dishes.
+- Did it work?
+- What will it take to fine-tune it?
+- Examples for Classifier 1: omega-3 fats?
+- Examples for Classifier 2: low gycmic (net carbs)?
+- Did it work?
+
+
+# Other potential PoCs
+
+- Can ChatGPT do causal inference? Use Book of Why? (J. Pearl) firing squad text. Add causal DAG and then try couterfactual reasoning ....from J Pearl
+- Fine tune GraphGPT
 
 # Consulting 
 

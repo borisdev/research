@@ -9,6 +9,7 @@
 - [ ] Index python code in neovim for gt command..jumpimg to defintions ands usages of func
 - [ ] GraphGPT and DAG
 - [ ] Snorkle Flow
+- [ ] Obsidian
 
 
 - dbt (SQL)
