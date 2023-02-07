@@ -28,6 +28,25 @@ The purpose of the labeler is to scale your expert.
 
 ```mermaid
 flowchart LR
+    autonumber
+    actor E as Expert
+    participant L1 as Labeler_1
+    participant L2 as Labeler_2
+    participant L3 as Labeler_3
+    participant M as Model
+
+    E-- written_rationale -->L1
+    E-- written_rationale -->L2
+    E-- written_rationale -->L3
+    L1-- examples -->M
+    L2-- examples -->M
+    L3-- examples -->M
+    M-. slow_feedback .->E
+```
+## Old way 
+
+```mermaid
+flowchart LR
     niche_human_expert-- written_rationale -->labeler_1
     niche_human_expert-- written_rationale -->labeler_2
     niche_human_expert-- written_rationale -->labeler_3
