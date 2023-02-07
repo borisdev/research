@@ -27,7 +27,7 @@ The purpose of the labeler is to scale your expert.
 ## Old way 
 
 ```mermaid
-flowchart LR
+sequenceDiagram
     autonumber
     actor E as Expert
     participant L1 as Labeler_1
