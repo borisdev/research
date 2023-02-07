@@ -9,7 +9,7 @@ There is a new situation for CTOs.
 
 - the consensus is that human labeling kills lots of projects
 - new tools have emerged making expensive labeling obsolete
-- ChatGPT makes NLP AI comprehensible and lowered the barrier to entry for making AI features
+- ChatGPT just lowered the barrier to entry for making AI features; so your competitors are rushing to steal your customers by getting their AI feature working before you
 
 This is a non-technical overview on moving away from human annotation and towards fine-tuning ChatGPT or other large language models (LLM).
 
