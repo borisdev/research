@@ -36,6 +36,18 @@ sequenceDiagram
     L->>M: examples
     M->>E: predictions
 ```
+## New way 
+
+```mermaid
+sequenceDiagram
+    autonumber
+    actor E as Expert
+    participant LLM as ChatGPT
+    participant M as Model
+    E->>LLM: rationales
+    LLM->>M: examples
+    M->>E: predictions
+```
 ## Old way 
 
 ```mermaid
