@@ -32,9 +32,9 @@ sequenceDiagram
     actor E as Expert
     participant L as Labelers
     participant M as Model
-    E->>L: test
-    L->>M: test
-    M->>E: test
+    E->>L: rationales
+    L->>M: examples
+    M->>E: predictions
 ```
 ## Old way 
 
