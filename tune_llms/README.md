@@ -30,7 +30,7 @@ The purpose of the labeler is to scale your expert.
 sequenceDiagram
     autonumber
     actor E as Expert
-    participant L as Labelers
+    actor L as Labelers
     participant M as Model
     E->>L: rationales
     L->>M: examples
