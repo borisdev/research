@@ -53,17 +53,18 @@ sequenceDiagram
 ```mermaid
 sequenceDiagram
     autonumber
-    actor E as Expert
+    actor E as Expert and Analyst
     participant LLM as ChatGPT
     participant M as Fine-tuned ChatGPT
     E->>LLM: rationales
     LLM->>M: examples
     M-->>E: prediction feedback
-
+```
 
 
 
 In the new way the Expert (SME) must collaborate with a new player in the game, the LLM fine-tuning analyst.
+
 ```
 | Topic                             | Diagram node  | Old                                 | New                                  |
 | ----------------------------------| ------------- | ------------------------------------| -----------------------------------  |
