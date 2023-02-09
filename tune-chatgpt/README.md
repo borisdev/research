@@ -44,7 +44,7 @@ sequenceDiagram
     actor E as Domain expert
     actor L as Labelers
     actor NN as NN Expert
-    participant M as Model
+    participant M as ML Model
     E->>L: rationales
     L->>M: examples
     M-->>E: prediction feedback
