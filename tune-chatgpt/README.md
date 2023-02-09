@@ -47,7 +47,7 @@ sequenceDiagram
     participant M as Model
     E->>L: rationales
     L->>M: examples
-    NN->>M: parameters
+    NN->>M: build parameters
     M-->>E: prediction feedback
     M-->>NN: prediction feedback
 ```
