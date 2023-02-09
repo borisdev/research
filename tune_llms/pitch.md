@@ -12,17 +12,17 @@ To keep a their businesses competitive, CTOs must now adopt a new technology tha
 
 # Riskiest assumptions
 
-## Internal AI teams as competition
+## What about our customer's internal AI teams as competition?
 
 Although a quick PoC will be the sufficient evidence to persuade CTOs that they must change their AI development model, why would a company's CTO to hire us over their own ML internal team to make a PoC?
 
 Here are some hypotheses.
 
-- A company's internal ML team will not propose make a PoC with the new AI development model because its against there interests.
-- Its too early. The concept of an analyst-SME fine-tuning team is too new. See my paper here. What is the SME-analyst team?
-- Over time an internal analyst-SME fine-tuning team will never be able learn as quickly as a consulting team that works with many clients. This depends on us developing a agile knowledge process.
+- A company's internal ML team will not propose to make a PoC with the new AI development model because its against there interests.
+- Its too early. The concept of an analyst-SME fine-tuning team is too new. See my paper explaining the concept of a SME-analyst fine-tuning team.
+- Over time an internal analyst-SME fine-tuning team will never be able learn as quickly as a extenal consulting team that works with many clients. This depends on us developing a agile knowledge process.
 
-## Other consulting companies as competition
+## What about other consulting companies as competition?
 
 Why would a company's CTO to hire us over other consulting companies to make a PoC? What else is our special sauce? 
 
