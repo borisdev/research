@@ -54,9 +54,9 @@ sequenceDiagram
 ```
 | Topic                             | Diagram node  | Old                                 | New                                  |
 | ----------------------------------| ------------- | ------------------------------------| -----------------------------------  |
-| Expert                            | 1             | natural language to human labeler   | natural language to human coder            |
-| Labelers                          | 2             | yes                                 | none             |
-| Model work                        | 3             | NN                                  | label funcs      |
+| Expert                            | 1             | natural language to human labeler   | natural language to human coder      |
+| Labelers                          | 2             | yes                                 | replaced by human coder and chatGPT  |
+| Model work                        | 3             | NN                                  | label funcs                          |
 
 
 | Topic                             | Diagram node  | Old                  | New           |
