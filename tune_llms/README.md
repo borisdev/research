@@ -84,6 +84,7 @@ the SME sharing the mental model with the person running the experiments.
 
 ## Examples: Scale comes at a cost (linear)
 
+- Metaphor. Canon vs Drone missile
 - scale (training examples) as a function of annotation versus experiments  
 - scale human expert but how to scale annotators
 - more training
