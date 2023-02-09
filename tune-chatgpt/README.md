@@ -71,13 +71,13 @@ In the new way the Expert (SME) must collaborate with a new player in the game, 
 
 | Topic                             | Diagram node  | Old                     | New                     |
 | ----------------------------------| ------------- | ------------------------| ------------------------|
-| Representing experts mental model | 1             | natural language        | code                    |
-| Training examples                 | 2             | slow, ambiguous to repro| fast, repro             |
-| Model architecture                | 4,5           | expensive optimizations | no work                 |
-| Feedback                          | 3             | slow                    | quick, complex analysis |
 | Expert                            | 1             | natural language to human labeler   | natural language to human coder      |
+| Representing experts mental model | 1             | natural language        | code                    |
 | Labelers                          | 2             | yes                                 | replaced by human coder and chatGPT  |
+| Training examples                 | 2             | slow, ambiguous to repro| fast, repro             |
+| Feedback                          | 3             | slow                    | quick, complex analysis |
 | Model work                        | 3             | NN                                  | label funcs                          |
+| Model architecture                | 4,5           | expensive optimizations | no work                 |
 
 ## Rationale: Representing the experts mental model
 
