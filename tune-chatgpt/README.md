@@ -68,15 +68,15 @@ sequenceDiagram
 
 In the new way the Expert (SME) must collaborate with a new player in the game, the LLM fine-tuning analyst.
 
+### Summary of big differences
 
-| Topic                             | Diagram node  | Old                     | New                     |
-| ----------------------------------| ------------- | ------------------------| ------------------------|
-| Representing expert's mental model| 1             | natural language        | code                    |
-| Human annotation                  | 2             | yes                                 | replaced by human coder and chatGPT  |
-| Training examples                 | 2             | slow, ambiguous to repro| fast, repro             |
-| Feedback                          | 3             | slow                    | quick, complex analysis |
-| Model work                        | 3             | NN                                  | label funcs                          |
-| Model architecture                | 4,5           | expensive optimizations | no work                 |
+| Topic                             | Diagram node  | Old                     | New                                  |
+| ----------------------------------| ------------- | ------------------------| -------------------------------------|
+| Representing expert's mental model| 1             | natural language        | code                                 |
+| Human annotation                  | 2             | yes                     | replaced by human coder and chatGPT  |
+| Training examples                 | 2             | slow, hard to reproduce | fast, easy to reproducible                          |
+| Feedback                          | 3             | slow                    | quick, but more complex analysis     |
+| Model architecture                | 4,5           | expensive optimizations | replaced by ChatGPT external service |
 
 ## Rationale: Representing the experts mental model
 
