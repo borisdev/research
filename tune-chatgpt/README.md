@@ -46,19 +46,19 @@ sequenceDiagram
     participant M as Model
     E->>L: rationales
     L->>M: examples
-    M->>E: predictions
+    M-->>E: prediction feedback
 ```
 ## New way 
 
 ```mermaid
 sequenceDiagram
     autonumber
-    actor E as Expert
+    actor E as Fine-tune team
     participant LLM as ChatGPT
-    participant M as Model
+    participant M as Fine-tuned ChatGPT
     E->>LLM: rationales
     LLM->>M: examples
-    M->>E: predictions
+    M-->>E: prediction feedback
 ```
 | Topic                             | Diagram node  | Old                                 | New                                  |
 | ----------------------------------| ------------- | ------------------------------------| -----------------------------------  |
