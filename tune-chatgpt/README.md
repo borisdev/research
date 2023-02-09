@@ -41,19 +41,22 @@ The purpose of the labeler is to scale your expert.
 ```mermaid
 sequenceDiagram
     autonumber
-    actor E as Expert
+    actor E as Domain expert
     actor L as Labelers
+    actor NN as NN Expert
     participant M as Model
     E->>L: rationales
     L->>M: examples
+    NN->>: model parameters
     M-->>E: prediction feedback
+    M-->>MLE: prediction feedback
 ```
 ## New way 
 
 ```mermaid
 sequenceDiagram
     autonumber
-    actor E as Expert and Analyst
+    actor E as Domain expert and Analyst
     participant LLM as ChatGPT
     participant M as Fine-tuned ChatGPT
     E->>LLM: rationales
