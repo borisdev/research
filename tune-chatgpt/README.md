@@ -68,18 +68,16 @@ sequenceDiagram
 
 In the new way the Expert (SME) must collaborate with a new player in the game, the LLM fine-tuning analyst.
 
-| Topic                             | Diagram node  | Old                                 | New                                  |
-| ----------------------------------| ------------- | ------------------------------------| -----------------------------------  |
+
+| Topic                             | Diagram node  | Old                     | New                     |
+| ----------------------------------| ------------- | ------------------------| ------------------------|
+| Representing experts mental model | 1             | natural language        | code                    |
+| Training examples                 | 2             | slow, ambiguous to repro| fast, repro             |
+| Model architecture                | 4,5           | expensive optimizations | no work                 |
+| Feedback                          | 3             | slow                    | quick, complex analysis |
 | Expert                            | 1             | natural language to human labeler   | natural language to human coder      |
 | Labelers                          | 2             | yes                                 | replaced by human coder and chatGPT  |
 | Model work                        | 3             | NN                                  | label funcs                          |
-
-| Topic                             | Diagram node  | Old                  | New           |
-| ----------------------------------| ------------- | ---------------------| ------------- |
-| Representing experts mental model | 1             | natural language     | code          |
-| Scale                             | 2             | linear               | resolved      |
-| Model architecture                | 3             | fine-tune            | no work       |
-| Feedback                          | 3             | slow                 | quick         |
 
 ## Rationale: Representing the experts mental model
 
