@@ -1,3 +1,14 @@
+# Questions
+
+1. What are the best readings?
+2. What are the best tools?
+3. What are best channels Medium article, xyz, and linkedin post, and tweet?
+
+# High priority TODOs
+
+- [ ] [Read OpenAI on fine-tuning ChatGPT](https://platform.openai.com/docs/introduction)
+- [ ] Read all of Snorkle's readings and examples 
+
 # LLMs
 
 LLMs are synonomous with foundational NLP models.
@@ -6,24 +17,10 @@ LLMs are synonomous with foundational NLP models.
 - OpenAI's ChatGPT
 - Google's ...
 
-# Questions
-
-1. What are the best readings?
-2. What are the best tools?
-3. Can intergrating a causal inference DAGs be an innovation?
-4. What are my bottlenecks (cost, complexity, time, traction)?
-5. Ask Shawn....Robert as co-author
-
-# High priority TODOs
-
-- [ ] Non-tech explanation as Medium article, xyz, and linkedin post, and tweet.
-- [ ] Google Ad experiments
-- [ ] [OpenAI](https://platform.openai.com/docs/introduction)
-- [ ] Read all of Snorkle's readings and examples 
-
 # Low priority TODOs
 
 - [ ] Checkout [AIWORK](https://aiwork.io/)
+- [ ] Google Ad experiments
 
 # Readings
 
@@ -107,8 +104,3 @@ LLMs are synonomous with foundational NLP models.
 - Functions
 - Weak labeling
 - Weak supervision
-
-
-# First article in a series? What next then?
-
-- How can an SME inject a causal DAG into the LLM so we can ask counter factuals?

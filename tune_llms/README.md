@@ -7,7 +7,10 @@ This is the first article in a two part series.
 
 TLDR: If your AI feature is stuck becaause of bad quality training data you might consider pausing your labeling after reading this.
 
+
 This is a non-technical overview on moving away from human annotation and towards fine-tuning ChatGPT or other large language models (LLM).
+
+This is a simplification of material you will at these site on the internet... .
 
 In this article we try to provide non-technical high-level overview of how fine-tuning ChatGPT is new and different to conventional human labeling.
 
