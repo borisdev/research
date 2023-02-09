@@ -42,7 +42,7 @@ The purpose of the labeler is to scale your expert.
 sequenceDiagram
     autonumber
     actor E as Domain expert
-    actor L as Labelers
+    actor L as Human annotators
     actor NN as NN Expert
     participant M as ML Model
     E->>L: rationales
@@ -71,9 +71,8 @@ In the new way the Expert (SME) must collaborate with a new player in the game, 
 
 | Topic                             | Diagram node  | Old                     | New                     |
 | ----------------------------------| ------------- | ------------------------| ------------------------|
-| Expert                            | 1             | natural language to human labeler   | natural language to human coder      |
-| Representing experts mental model | 1             | natural language        | code                    |
-| Labelers                          | 2             | yes                                 | replaced by human coder and chatGPT  |
+| Representing expert's mental model| 1             | natural language        | code                    |
+| Human annotation                  | 2             | yes                                 | replaced by human coder and chatGPT  |
 | Training examples                 | 2             | slow, ambiguous to repro| fast, repro             |
 | Feedback                          | 3             | slow                    | quick, complex analysis |
 | Model work                        | 3             | NN                                  | label funcs                          |
