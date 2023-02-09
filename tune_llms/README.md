@@ -1,4 +1,8 @@
-# Pause your labeling: A non-technical look at fine-tuning ChatGPT to rescue your AI feature
+# Fine-tuning ChatGPT to replace human labeling?
+
+If your AI feature is stuck becaause of bad quality training data you might consider pausing your labeling after reading this.
+
+This non-technical high-level overview of fine-tuning ChatGPT can be an alternative to conventional human labeling.
 
 Our audience are CTOs that have invest in an AI NLP classifier feature that requires internal domain expertise on some niche prediction problem. 
 
@@ -48,7 +52,38 @@ sequenceDiagram
     LLM->>M: examples
     M->>E: predictions
 ```
-## Old way 
+
+
+| Topic                             | Diagram node  | Old                  | New           |
+| ----------------------------------| ------------- | ---------------------| ------------- |
+| Representing experts mental model | 1             | natural language     | code          |
+| Scale                             | 2             | linear               | resolved      |
+| Feedback                          | 3             | slow                 | faster        |
+
+## Representing the experts mental model
+
+
+
+## Scale comes at a cost (linear)
+
+- scale human expert but how to scale annotators
+- more training
+- less inter-annotator agreement (bias)
+- speed comes at a cost (noise)
+- more QA
+- new tooling required
+
+## Feedback
+
+- nuances of human understanding will not be captured with one initial function
+- feedback is faster but still more feedback data means more data to be analyzed
+
+
+Experimental design 
+
+Cognitive empathy with expert 
+
+## Old way (deprecated diagram) 
 
 ```mermaid
 flowchart LR
@@ -61,7 +96,7 @@ flowchart LR
     niche_prediction_model-. slow_feedback .-> niche_human_expert
 ```
 
-## New way
+## New way (deprecated diagram) 
 
 ```mermaid
 flowchart LR
@@ -117,6 +152,13 @@ LLMs are synonomous with foundational NLP models.
 
 - [Better not bigger: How to get GPT-3 quality at 0.1% the cost](https://snorkel.ai/better-not-bigger-how-to-get-gpt-3-quality-at-0-1-the-cost/)
 - [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
+
+
+# Futuristic ideas
+
+- This is not necassitrily bad for human annotation companies. They can train their workers on pandas and exporatory data analysis. Perhaps outsourcing human labeling will be replaced with outsourcing programitic labeling.
+- gamification ...baseline
+- economic markets ...incentive to work on diff sections of a prediction problem  .....DRIFT
 
 
 
