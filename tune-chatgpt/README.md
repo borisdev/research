@@ -53,7 +53,7 @@ sequenceDiagram
 ```mermaid
 sequenceDiagram
     autonumber
-    actor E as Expert + Fine-tuning Analyst
+    actor E as Expert with analyst
     participant LLM as ChatGPT
     participant M as Fine-tuned ChatGPT
     E->>LLM: rationales
