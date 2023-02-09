@@ -2,7 +2,7 @@
 
 ## The Ask
 
-Are you and Brad curious about creating a consulting firm to fine-tune LLM for big companies?
+Is Brad curious about creating a consulting firm to fine-tune LLM for big companies?
 
 ## Special timing
 
