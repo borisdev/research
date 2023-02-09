@@ -52,20 +52,31 @@ sequenceDiagram
     LLM->>M: examples
     M->>E: predictions
 ```
+| Topic                             | Diagram node  | Old                                 | New                                  |
+| ----------------------------------| ------------- | ------------------------------------| -----------------------------------  |
+| Expert                            | 1             | natural language to human labeler   | natural language to human coder            |
+| Labelers                          | 2             | yes                                 | none             |
+| Model work                        | 3             | NN                                  | label funcs      |
 
 
 | Topic                             | Diagram node  | Old                  | New           |
 | ----------------------------------| ------------- | ---------------------| ------------- |
 | Representing experts mental model | 1             | natural language     | code          |
 | Scale                             | 2             | linear               | resolved      |
-| Feedback                          | 3             | slow                 | faster        |
+| Model architecture                | 3             | fine-tune            | no work       |
+| Feedback                          | 3             | slow                 | quick         |
 
-## Representing the experts mental model
+## Rationale: Representing the experts mental model
+
+I am not sure there is any magic tech bullet. 
+
+Previously challeng was to get the annotorros to share the SME's mental model through language, and now its 
+the SME sharing the mental model with the person running the experiments.
 
 
+## Examples: Scale comes at a cost (linear)
 
-## Scale comes at a cost (linear)
-
+- scale (training examples) as a function of annotation versus experiments  
 - scale human expert but how to scale annotators
 - more training
 - less inter-annotator agreement (bias)
@@ -73,7 +84,7 @@ sequenceDiagram
 - more QA
 - new tooling required
 
-## Feedback
+## Prediction Feedback
 
 - nuances of human understanding will not be captured with one initial function
 - feedback is faster but still more feedback data means more data to be analyzed
@@ -119,7 +130,10 @@ Data centric
 - data analysis over R&D neural network architecture and finetuning
 - cognitive emapathy (praticality) over mathematics
 
+# Two part series
 
+1. Fine-tune high level
+2. Simple example using keto dish classification 
 
 # LLMs
 
