@@ -127,3 +127,10 @@ LLMs are synonomous with foundational NLP models.
 - Functions
 - Weak labeling
 - Weak supervision
+
+
+# Readings
+
+- [ChatGPT fine-tuning as a service](https://community.openai.com/t/chatgpt-fine-tuning-as-a-service/33803)
+- [Better not bigger: How to get GPT-3 quality at 0.1% the cost](https://snorkel.ai/better-not-bigger-how-to-get-gpt-3-quality-at-0-1-the-cost/)
+- [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)

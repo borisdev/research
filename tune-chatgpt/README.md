@@ -81,44 +81,18 @@ In the new way the Expert (SME) must collaborate with a new player in the game, 
 
 ## Rationale: Representing the experts mental model
 
+Unique collaboration requriements
+
 I am not sure there is any magic tech bullet. 
 
 Previously challeng was to get the annotorros to share the SME's mental model through language, and now its 
 the SME sharing the mental model with the person running the experiments.
 
-
-## Examples: Scale comes at a cost (linear)
-
-- Metaphor. Canon vs Drone missile
-- scale (training examples) as a function of annotation versus experiments  
-- scale human expert but how to scale annotators
-- more training
-- less inter-annotator agreement (bias)
-- speed comes at a cost (noise)
-- more QA
-- new tooling required
-
-## Prediction Feedback
-
 - nuances of human understanding will not be captured with one initial function
 - feedback is faster but still more feedback data means more data to be analyzed
-
-
-Experimental design 
-
-Cognitive empathy with expert 
-
-Problem 1: expert knowledge is still an issue
-
-- coherence the different mental models among many experts 
-
-
-## What does Data centric mean?
-
-- expertise moves from R&D neural network architecture to cognitive emapathy and data analysis
+- Metaphor. Canon vs Drone missile
+- new tooling required
 
 # Readings
 
 - [ChatGPT fine-tuning as a service](https://community.openai.com/t/chatgpt-fine-tuning-as-a-service/33803)
-- [Better not bigger: How to get GPT-3 quality at 0.1% the cost](https://snorkel.ai/better-not-bigger-how-to-get-gpt-3-quality-at-0-1-the-cost/)
-- [Data Centric AI](https://github.com/HazyResearch/data-centric-ai)
