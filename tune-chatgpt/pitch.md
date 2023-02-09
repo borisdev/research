@@ -22,7 +22,7 @@ Although a quick PoC will be the sufficient evidence to persuade CTOs that they 
 Here are some hypotheses.
 
 - A company's internal ML team will not propose to make a PoC with the new AI development model because its against there interests.
-- Its too early. The concept of an analyst-SME fine-tuning team is too new. See my paper explaining the concept of a SME-analyst fine-tuning team.
+- Its too early. The concept of an analyst-SME fine-tuning team is too new. See [the paper](README.md) explaining the concept of a SME-analyst fine-tuning team.
 - Over time an internal analyst-SME fine-tuning team will never be able learn as quickly as a extenal consulting team that works with many clients. This depends on us developing a agile knowledge process.
 
 ### 2. What about other consulting companies as competition?
