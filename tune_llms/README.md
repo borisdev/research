@@ -102,47 +102,14 @@ Experimental design
 
 Cognitive empathy with expert 
 
-## Old way (deprecated diagram) 
-
-```mermaid
-flowchart LR
-    niche_human_expert-- written_rationale -->labeler_1
-    niche_human_expert-- written_rationale -->labeler_2
-    niche_human_expert-- written_rationale -->labeler_3
-    labeler_1-- examples -->niche_prediction_model
-    labeler_2-- examples -->niche_prediction_model
-    labeler_3-- examples -->niche_prediction_model
-    niche_prediction_model-. slow_feedback .-> niche_human_expert
-```
-
-## New way (deprecated diagram) 
-
-```mermaid
-flowchart LR
-    niche_human_expert-- coded_rationale -->LLM
-    LLM -- examples -->niche_prediction_model
-    niche_prediction_model-. quick_feedback .-> niche_human_expert
-```
-
 Problem 1: expert knowledge is still an issue
 
 - coherence the different mental models among many experts 
 
 
-Solved the iteration speed 
-but still have problem 1
-plus a new sub-problem -- how to tranfer expertise (rationales) into code ...this will be harder than product team writing annotation guidelines
+## What does Data centric mean?
 
-Data centric
-
-- data analysis over R&D neural network architecture and finetuning
-- cognitive emapathy (praticality) over mathematics
-
-# Futuristic ideas
-
-- This is not necassitrily bad for human annotation companies. They can train their workers on pandas and exporatory data analysis. Perhaps outsourcing human labeling will be replaced with outsourcing programitic labeling.
-- gamification ...baseline
-- economic markets ...incentive to work on diff sections of a prediction problem  .....DRIFT
+- expertise moves from R&D neural network architecture to cognitive emapathy and data analysis
 
 # Readings
 

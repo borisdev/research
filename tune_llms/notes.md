@@ -4,6 +4,29 @@
 2. What are the best tools?
 3. What are best channels Medium article, xyz, and linkedin post, and tweet?
 
+## Old way (deprecated diagram) 
+
+```mermaid
+flowchart LR
+    niche_human_expert-- written_rationale -->labeler_1
+    niche_human_expert-- written_rationale -->labeler_2
+    niche_human_expert-- written_rationale -->labeler_3
+    labeler_1-- examples -->niche_prediction_model
+    labeler_2-- examples -->niche_prediction_model
+    labeler_3-- examples -->niche_prediction_model
+    niche_prediction_model-. slow_feedback .-> niche_human_expert
+```
+
+## New way (deprecated diagram) 
+
+```mermaid
+flowchart LR
+    niche_human_expert-- coded_rationale -->LLM
+    LLM -- examples -->niche_prediction_model
+    niche_prediction_model-. quick_feedback .-> niche_human_expert
+```
+
+
 # High priority TODOs
 
 - [ ] [Read OpenAI on fine-tuning ChatGPT](https://platform.openai.com/docs/introduction)
