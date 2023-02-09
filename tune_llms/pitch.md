@@ -8,9 +8,12 @@ Is Brad curious about creating a consulting firm to fine-tune LLM for big compan
 
 A few months ago, Sam Altman’s (CEO of OpenAI) said he expects that the next unicorns will focus on fine-tuning models for various verticals ([interview](https://www.youtube.com/watch?v=WHoWGNQRXb0)).
 
-To keep a their businesses competitive, CTOs must now adopt a new technology that changes their AI development model: By fine-tuning ChatGPT two expensive components of an AI project become obsolete: 1) NLP experts working in NN architecture and 2) human annotation.
+To keep a their businesses competitive, CTOs must now adopt a new technology that changes their AI development model. Specifically, fine-tuning ChatGPT makes these two components of an AI project become obsolete.
 
-# Riskiest assumptions
+1. NLP experts working in NN architecture
+2. human annotation
+
+# Riskiest assumptions to the consulting business model
 
 ## What about our customer's internal AI teams as competition?
 
