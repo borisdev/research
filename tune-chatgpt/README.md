@@ -1,4 +1,4 @@
-# Fine-tuning ChatGPT to replace human labeling?
+# A new AI development model: Fine-tuning ChatGPT to replace human labeling and optmization R&D
 
 This is the first article in a two part series.
 
