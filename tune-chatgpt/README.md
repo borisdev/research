@@ -47,8 +47,8 @@ sequenceDiagram
     participant M as Model
     E->>L: rationales
     L->>M: examples
-    NN->>M: build parameters
     M-->>E: prediction feedback
+    NN->>M: change build parameters
     M-->>NN: prediction feedback
 ```
 ## New way to run one experiment
