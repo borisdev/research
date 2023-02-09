@@ -1,10 +1,10 @@
 # The Pitch
 
-## The Ask
+## Objective
 
-Is Brad curious about creating a consulting firm to fine-tune LLM for big companies?
+I want to check if you and Brad are curious about probing the idea of creating a consulting firm to fine-tune LLM for big companies?
 
-## Special timing
+## Now the timing is special
 
 A few months ago, Sam Altman’s (CEO of OpenAI) said he expects that the next unicorns will focus on fine-tuning models for various verticals ([interview](https://www.youtube.com/watch?v=WHoWGNQRXb0)).
 
@@ -39,3 +39,7 @@ Here are some hypotheses.
 ## What's the exit plan?
 
 Sell knowledge base of processes and tooling to a big consulting firm.
+
+## Next step, and the ask
+
+Would Brad and you consider me probing demand by creating a Google Ads and a Medium article targeting a company landing web page with your names?
