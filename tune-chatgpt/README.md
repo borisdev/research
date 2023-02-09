@@ -60,10 +60,10 @@ sequenceDiagram
     LLM->>M: examples
     M-->>E: prediction feedback
 
+
+
+
 In the new way the Expert (SME) must collaborate with a new player in the game, the LLM fine-tuning analyst.
-
-
-
 ```
 | Topic                             | Diagram node  | Old                                 | New                                  |
 | ----------------------------------| ------------- | ------------------------------------| -----------------------------------  |
@@ -78,6 +78,7 @@ In the new way the Expert (SME) must collaborate with a new player in the game, 
 | Scale                             | 2             | linear               | resolved      |
 | Model architecture                | 3             | fine-tune            | no work       |
 | Feedback                          | 3             | slow                 | quick         |
+```
 
 ## Rationale: Representing the experts mental model
 
