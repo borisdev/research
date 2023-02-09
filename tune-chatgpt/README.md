@@ -36,7 +36,7 @@ The solution is to iterate
 
 The purpose of the labeler is to scale your expert.
 
-## Old way 
+## Old way to run one experiment 
 
 ```mermaid
 sequenceDiagram
@@ -51,7 +51,7 @@ sequenceDiagram
     M-->>E: prediction feedback
     M-->>NN: prediction feedback
 ```
-## New way 
+## New way to run one experiment
 
 ```mermaid
 sequenceDiagram
