@@ -68,13 +68,11 @@ sequenceDiagram
 
 In the new way the Expert (SME) must collaborate with a new player in the game, the LLM fine-tuning analyst.
 
-```
 | Topic                             | Diagram node  | Old                                 | New                                  |
 | ----------------------------------| ------------- | ------------------------------------| -----------------------------------  |
 | Expert                            | 1             | natural language to human labeler   | natural language to human coder      |
 | Labelers                          | 2             | yes                                 | replaced by human coder and chatGPT  |
 | Model work                        | 3             | NN                                  | label funcs                          |
-
 
 | Topic                             | Diagram node  | Old                  | New           |
 | ----------------------------------| ------------- | ---------------------| ------------- |
@@ -82,7 +80,6 @@ In the new way the Expert (SME) must collaborate with a new player in the game, 
 | Scale                             | 2             | linear               | resolved      |
 | Model architecture                | 3             | fine-tune            | no work       |
 | Feedback                          | 3             | slow                 | quick         |
-```
 
 ## Rationale: Representing the experts mental model
 
