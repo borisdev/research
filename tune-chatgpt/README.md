@@ -1,4 +1,4 @@
-# Fine-tuning ChatGPT for text classification
+# Fine-tuning a GPT-3 model for text classification: an example and its consequences for projects
 
 ## TLDR
 
@@ -10,6 +10,20 @@ Fine-tuning ChatGPT can solve the following problems.
 - slow labeling speed
 - no NN expertise
 - no MLOps expertise
+
+# OpenAI's Fine-tune API
+
+Now you can fine-tune these OpenAI models: davinci, curie, babbage, and ada.
+
+How will this paper provide more information that Open AI's official doc and example?
+
+- [Open AI's Fine-tuning doc](https://platform.openai.com/docs/guides/fine-tuning)
+- [Open AI's Fine tuning classification example](https://github.com/openai/openai-cookbook/blob/main/examples/Fine-tuned_classification.ipynb)
+
+
+On Jan. 16, 20923, Microsoft CEO Satya Nadella announced via Twitter: "ChatGPT is coming soon to the Azure OpenAI Service..." 
+[source](https://twitter.com/satyanadella/status/1615156218838003712?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1615156218838003712%7Ctwgr%5E96f6bbe5cc45ee8b2b8da190488bdd3169462d21%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fme.mashable.com%2Ftech%2F24100%2Fchatgpt-from-openai-will-be-offered-as-an-api-on-microsofts-azure-what-it-means)
+
 
 ## Shawn's comments
 
