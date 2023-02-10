@@ -21,10 +21,6 @@ How will this paper provide more information that Open AI's official doc and exa
 - [Open AI's Fine tuning classification example](https://github.com/openai/openai-cookbook/blob/main/examples/Fine-tuned_classification.ipynb)
 
 
-On Jan. 16, 20923, Microsoft CEO Satya Nadella announced via Twitter: "ChatGPT is coming soon to the Azure OpenAI Service..." 
-[source](https://twitter.com/satyanadella/status/1615156218838003712?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1615156218838003712%7Ctwgr%5E96f6bbe5cc45ee8b2b8da190488bdd3169462d21%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fme.mashable.com%2Ftech%2F24100%2Fchatgpt-from-openai-will-be-offered-as-an-api-on-microsofts-azure-what-it-means)
-
-
 ## Shawn's comments
 
 - Show results of an example use case up front, and show comparison benchmark
