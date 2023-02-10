@@ -30,7 +30,7 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    E((domain expert))-- coded_rationale -->A[Fine-tuning analyst]
+    E((Domain expert))-- rationales -->A((Fine-tuning analyst))
 ```
 
 # High priority TODOs
