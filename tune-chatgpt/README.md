@@ -1,7 +1,7 @@
 # ChatGPT will restructure ML text classification projects
 
 
-MAIN POINT --- Speeding 10X labeling
+### MAIN POINT --- Speeding 10X labeling
 
 ### A LOT OF POEPLE WONT BUY INTO WEAK LABELING
 
