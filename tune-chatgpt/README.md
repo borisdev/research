@@ -2,8 +2,9 @@
 
 ## TLDR
 
-Consider a switch to fine-tuning ChatGPT if your text classification model 
-is stuck because of one of these issues 
+If your AI feature is based on a text classification model, consider making a
+PoC by fine-tuning ChatGPT instead of building your own ML model from scratch.
+Fine-tuning ChatGPT can solve the following problems.
 
 - bad labeling quality
 - slow labeling speed
@@ -19,16 +20,13 @@ is stuck because of one of these issues
 ## The problem
 
 The software problem we are focused on in this article is building a niche text
-classification system. A niche text classification system in one that depends
-on domain expertise and data only existing in your business sector or company.
-An off-the-shelf LLM, such as ChatGPT, can not provide sufficiently good niche
-text classifications unless it is fine-tuned based using the mental model of your
-domain experts. Currently, the standard approach is to use human annotators to
+classification system. The purpose of a niche text classification system is to scale 
+the mental model of a domain expert. For example...
+
+Currently, the standard approach is to use human annotators to
 label examples in order to train a machine learning model that attempts to
-represent the mental model of a company's domain experts. In this article we
-conjecture how fine-tuning ChatGPT will force a fundamental change in how ML projects are organized.
-Fine-tuning ChatGPT model can replace both human annotation, as well as R&D on ML model
-optimizations, but at the risk that comes with organizational change. 
+represent the mental model of a company's domain experts.
+
 
 Some things will not change with ChatGPT. The root problem is the you need to
 get your experts domain knowledge into a computational prediction model. This
@@ -42,14 +40,30 @@ Here are the simplified steps:
 3. analyze the resulting predictions
 4. if good enough...launch...else figure out where you missed in modeling your expert's knowledge, then repeat above
 
-## Some factors of garbage output from human annotation systems
+## Human annotation problems
+
+### garbage output
 
 The purpose of human annotators is to scale your expert to train the model
 faster. The problem is that it not trivial to transfer the mental model of your
 expert to the human annotators. In addition, there is a large time lag to get
 feedback on success. 
 
+# Step through an example
+
+is a food dish keto
+
+## Fine-tuning versus good prompt design
+
+An off-the-shelf LLM, such as ChatGPT, can not provide sufficiently good niche
+text classifications unless it is fine-tuned based using the mental model of your
+domain experts. 
+
 # Fine-tuning ChatGPT will restructure data science teams
+
+In this section we speculate on how fine-tuning ChatGPT will force a fundamental change in how ML projects are organized.
+Fine-tuning ChatGPT model can replace both human annotation, as well as R&D on ML model
+optimizations, but at the risk that comes with organizational change. 
 
 ## Old way to run one experiment 
 
