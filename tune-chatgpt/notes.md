@@ -26,6 +26,14 @@ flowchart LR
     niche_prediction_model-. quick_feedback .-> niche_human_expert
 ```
 
+## New way (deprecated diagram) 
+
+```mermaid
+flowchart LR
+    niche_human_expert[qqq]-- coded_rationale -->LLM
+    LLM -- examples -->niche_prediction_model
+    niche_prediction_model-. quick_feedback .-> niche_human_expert
+```
 
 # High priority TODOs
 
