@@ -1,12 +1,22 @@
-# ChatGPT will restructure ML text classification projects
+# Fine-tuning ChatGPT for text classification
 
+## TLDR
 
-### MAIN POINT --- Speeding 10X labeling
+Consider a switch to fine-tuning ChatGPT if your text classification model 
+is stuck because of one of these issues 
 
-### A LOT OF POEPLE WONT BUY INTO WEAK LABELING
+- bad labeling quality
+- slow labeling speed
+- no NN expertise
+- no MLOps expertise
 
-TLDR: If your text classification AI feature is stuck, consider pausing your
-project and making a PoC based on fine-tuning ChatGPT.
+## Shawn's comments
+
+- Show results of an example use case up front, and show comparison benchmark
+- MAIN POINT of passive labeling --- Speeding 10X labeling
+- A LOT OF POEPLE WONT BUY INTO WEAK LABELING
+
+## The problem
 
 The software problem we are focused on in this article is building a niche text
 classification system. A niche text classification system in one that depends
@@ -19,9 +29,6 @@ represent the mental model of a company's domain experts. In this article we
 conjecture how fine-tuning ChatGPT will force a fundamental change in how ML projects are organized.
 Fine-tuning ChatGPT model can replace both human annotation, as well as R&D on ML model
 optimizations, but at the risk that comes with organizational change. 
-
-This is the first article in a two part series. In next article we will walk
-through an example of fine-tuning.
 
 Some things will not change with ChatGPT. The root problem is the you need to
 get your experts domain knowledge into a computational prediction model. This
@@ -41,6 +48,8 @@ The purpose of human annotators is to scale your expert to train the model
 faster. The problem is that it not trivial to transfer the mental model of your
 expert to the human annotators. In addition, there is a large time lag to get
 feedback on success. 
+
+# Fine-tuning ChatGPT will restructure data science teams
 
 ## Old way to run one experiment 
 
