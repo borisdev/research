@@ -3,6 +3,8 @@
 
 MAIN POINT --- Speeding 10X labeling
 
+### A LOT OF POEPLE WONT BUY INTO WEAK LABELING
+
 TLDR: If your text classification AI feature is stuck, consider pausing your
 project and making a PoC based on fine-tuning ChatGPT.
 
