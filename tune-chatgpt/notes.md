@@ -31,7 +31,7 @@ flowchart LR
 ```mermaid
 flowchart LR
     E((Expert))-- rationales -->A((Analyst))
-    A((Analyst))-. metrics .->E((Expert))
+    A((Analyst))-. reports .->E((Expert))
 ```
 
 # High priority TODOs
