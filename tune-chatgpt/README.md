@@ -77,19 +77,22 @@ sequenceDiagram
 | Model architecture                | 4,5           | expensive optimizations | replaced by ChatGPT external service |
 
 
-## New collaboration of your expert and the fine-tuning analyst
+## A new relationship: the expert and the analyst
+
+The fine-tuning analyst is a new player in the game.
+The analyst transforms the experts rationales into code that creates examples
+to train or fine-tune ChatGPT. The analyst then reports the results back to the
+expert to see how they can improve the predictions through a more nuanced
+understanding of the expert's mental model.
 
 ```mermaid
 flowchart LR
     E((Expert))-- rationales -->A((Analyst))
     A((Analyst))-. reports .->E((Expert))
-```
 
-In the new way the Expert (SME) must collaborate with a new player in the game, the LLM fine-tuning analyst.
-
-The analyst transforms the experts rationales into code that creates examples to train or fine-tune ChatGPT.
-
-The analyst then reports the results back to the expert to see how they can improve the predictions through a more nuanced understanding of the expert's mental model.
+Success will depend on collaboration between domain expert and the fine-tuning
+analyst. This is a new relationship that did not exist before and will demand a
+different skill set.
 
 How is the fine-tuning analyst of the new way different from the NN optimization scientist of the old way? 
 
