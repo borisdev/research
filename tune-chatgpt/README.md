@@ -1,5 +1,8 @@
 # ChatGPT will restructure ML text classification projects
 
+
+MAIN POINT --- Speeding 10X labeling
+
 TLDR: If your text classification AI feature is stuck, consider pausing your
 project and making a PoC based on fine-tuning ChatGPT.
 
@@ -74,9 +77,9 @@ sequenceDiagram
 | Human annotation                  | 2             | the fine-tuning analyst replaces the human annotators                 |
 | Training examples                 | 2             | a fast, reproducible process replaces a slow, non-reproducible one    |
 | Feedback                          | 3             | quick, but more complex feedback analysis replaces a slow, simple one |
-| MLOps for model deploy            | 4             | external service makes obsolete the MLOps deployment work obsolete    |
 | Model architecture                | 4,5           | external service makes obsolete the expensive NN R&D optimization work|
 
+??| MLOps for model deploy            | 4             | external service makes obsolete the MLOps deployment work obsolete    |
 
 ## A new relationship: the expert and the analyst
 
@@ -88,8 +91,8 @@ understanding of the expert's mental model.
 
 ```mermaid
 flowchart LR
-    E((Expert))-- rationales -->A((Analyst))
-    A((Analyst))-. reports .->E((Expert))
+    E((Expert))-- rationales -->A((Data Scientist))
+    A((Data Scientist))-. reports .->E((Expert))
 ```
 
 Success will depend on collaboration between domain expert and the fine-tuning
