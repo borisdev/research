@@ -89,6 +89,7 @@ understanding of the expert's mental model.
 flowchart LR
     E((Expert))-- rationales -->A((Analyst))
     A((Analyst))-. reports .->E((Expert))
+```
 
 Success will depend on collaboration between domain expert and the fine-tuning
 analyst. This is a new relationship that did not exist before and will demand a
