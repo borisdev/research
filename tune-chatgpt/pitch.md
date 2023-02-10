@@ -48,6 +48,9 @@ and tooling, we can sell the startup to a big consulting firm.
 
 ## My big hairy, "going out on a limb" ask regarding the next step
 
-Would Brad and you consider me probing demand out there letting me creating a
-Google Ads and a co-authored Medium article targeting a company landing web
-page with your names?
+(I know this might be a very goofy idea.)
+
+Would Brad and you consider using your names to make the following experiment.
+In order to probe demand out there I would make a company landing web page with
+your names, then have Google Ads and a co-authored Medium article with you, based on
+[this paper](README.md), targeting that landing page.
