@@ -30,9 +30,7 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    niche_human_expert[qqq]-- coded_rationale -->LLM
-    LLM -- examples -->niche_prediction_model
-    niche_prediction_model-. quick_feedback .-> niche_human_expert
+    E[domain expert]-- coded_rationale -->A[Fine-tuning analyst]
 ```
 
 # High priority TODOs
