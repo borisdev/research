@@ -1,40 +1,41 @@
-# Fine-tuning ChatGPT to replace human annotation and ML model optmization R&D
+# How ChatGPT will revamp your company's machine learning text classification project
 
-This is the first article in a two part series.
+TLDR: If your text classification AI feature is stuck, consider pausing your
+project and making a PoC based on fine-tuning ChatGPT.
 
-1. Fine-tune high level
-2. Simple example using keto dish classification 
+The software problem we are focused on in this article is building a niche text
+classification system. A niche text classification system in one that depends
+on domain expertise and data only existing in your business sector or company.
+An off-the-shelf LLM, such as ChatGPT, can not provide sufficiently good niche
+text classifications unless it is fine-tuned based using the mental model of your
+domain experts. Currently, the standard approach is to use human annotators to
+label examples in order to train a machine learning model that attempts to
+represent the mental model of a company's domain experts. In this article we
+conjecture how fine-tuning ChatGPT will force a fundamental change in how ML projects are organized.
+Fine-tuning ChatGPT model can replace both human annotation, as well as R&D on ML model
+optimizations, but at the risk that comes with organizational change. 
 
-TLDR: If your AI feature is stuck becaause of bad quality training data you might consider pausing your labeling after reading this.
+This is the first article in a two part series. In next article we will walk
+through an example of fine-tuning.
 
+Some things will not change with ChatGPT. The root problem is the you need to
+get your experts domain knowledge into a computational prediction model. This
+remains the same whether you use human annotators or fine-tune ChatGPT to make
+your niche text classifier. Also the experimental or iterative nature of the
+solution is the same whether you use human annotators or fine-tune ChatGPT. 
+Here are the simplified steps:
 
-This is a non-technical overview on moving away from human annotation and towards fine-tuning ChatGPT or other large language models (LLM).
+1. distill your expert's mental models into labeled examples
+2. train a computer model with the labeled examples
+3. analyze the resulting predictions
+4. if good enough...launch...else figure out where you missed in modeling your expert's knowledge, then repeat above
 
-This is a simplification of material you will at these site on the internet... .
+## Some factors of garbage output from human annotation systems
 
-In this article we try to provide non-technical high-level overview of how fine-tuning ChatGPT is new and different to conventional human labeling.
-
-Our audience are CTOs that have invest in an AI NLP classifier feature that requires internal domain expertise on some niche prediction problem. 
-
-There is a new situation for CTOs. 
-
-- the consensus is that human labeling kills lots of projects
-- new tools have emerged making expensive labeling obsolete
-- ChatGPT just lowered the barrier to entry for making AI features; so your competitors are rushing to steal your customers by getting their AI feature working before you
-
-The ultimate problem is the same whether you use human labelers or a LLM -- you need to get your experts domain knowledge into a computational prediction model.
-
-The solution is to iterate
-
-- distill or model your expert's knowledge
-- run an experiment
-  - train model
-  - analyze prediction
-- if good enough...launch
-- else repeat, and try to do a better job modeling your expert's knowledge and repeat
-
-
-The purpose of the labeler is to scale your expert.
+The purpose of human annotators is to scale your expert to train the model
+faster. The problem is that it not trivial to transfer the mental model of your
+expert to the human annotators. In addition, there is a large time lag to get
+feedback on success. 
 
 ## Old way to run one experiment 
 
@@ -65,9 +66,6 @@ sequenceDiagram
 ```
 
 
-
-In the new way the Expert (SME) must collaborate with a new player in the game, the LLM fine-tuning analyst.
-
 ### Summary of big differences
 
 | Topic                             | Diagram node  | Old                     | New                                  |
@@ -78,19 +76,16 @@ In the new way the Expert (SME) must collaborate with a new player in the game, 
 | Feedback                          | 3             | slow                    | quick, but more complex analysis     |
 | Model architecture                | 4,5           | expensive optimizations | replaced by ChatGPT external service |
 
-## Rationale: Representing the experts mental model
 
-Unique collaboration requriements
+## New collaboration of your expert and the fine-tuning analyst
 
-I am not sure there is any magic tech bullet. 
+In the new way the Expert (SME) must collaborate with a new player in the game, the LLM fine-tuning analyst.
 
-Previously challeng was to get the annotorros to share the SME's mental model through language, and now its 
-the SME sharing the mental model with the person running the experiments.
+How is the fine-tuning analyst different from the NN optimization scientist?
 
-- nuances of human understanding will not be captured with one initial function
-- feedback is faster but still more feedback data means more data to be analyzed
-- Metaphor. Canon vs Drone missile
-- new tooling required
+## A decision framework on whether to jump ship to the new approach
+
+We propose a PoC experiment to determine if the cost to get to benchmark is cheaper with a fine-tuning analyst then human annotators and ML NN expert.
 
 # Readings
 
