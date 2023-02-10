@@ -1,4 +1,4 @@
-# How ChatGPT will revamp your company's machine learning text classification project
+# ChatGPT will restructure ML text classification projects
 
 TLDR: If your text classification AI feature is stuck, consider pausing your
 project and making a PoC based on fine-tuning ChatGPT.
