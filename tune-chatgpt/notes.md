@@ -26,7 +26,7 @@ flowchart LR
     niche_prediction_model-. quick_feedback .-> niche_human_expert
 ```
 
-## New way (deprecated diagram) 
+## Relationship 
 
 ```mermaid
 flowchart LR

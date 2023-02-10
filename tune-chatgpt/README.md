@@ -79,9 +79,23 @@ sequenceDiagram
 
 ## New collaboration of your expert and the fine-tuning analyst
 
+```mermaid
+flowchart LR
+    E((Expert))-- rationales -->A((Analyst))
+    A((Analyst))-. reports .->E((Expert))
+```
+
 In the new way the Expert (SME) must collaborate with a new player in the game, the LLM fine-tuning analyst.
 
-How is the fine-tuning analyst different from the NN optimization scientist?
+The analyst transforms the experts rationales into code that creates examples to train or fine-tune ChatGPT.
+
+The analyst then reports the results back to the expert to see how they can improve the predictions through a more nuanced understanding of the expert's mental model.
+
+How is the fine-tuning analyst of the new way different from the NN optimization scientist of the old way? 
+
+- The analyst works more intensely with the expert, which will require cognotive emapthy skills.
+- The analyst does not need a sophisticed knowledge of the neural network architecture.
+- The analyst performs heavy exploratory data analysis. [Here](https://hbr.org/2018/12/what-great-data-analysts-do-and-why-every-organization-needs-them) is a nice article explaining how this part of data science is different.
 
 ## A decision framework on whether to jump ship to the new approach
 
