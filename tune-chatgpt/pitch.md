@@ -11,7 +11,7 @@ A few months ago, Sam Altman’s (CEO of OpenAI) said he expects that the next
 unicorns will focus on fine-tuning models for various verticals
 ([interview](https://www.youtube.com/watch?v=WHoWGNQRXb0)).
 
-[This paper](README.md) explains how fine-tuning large LLM will fundamentally restructure text classification projects.
+[This paper](README.md) explains how fine-tuning large LLMs will fundamentally restructure text classification projects at companies.
 
 A consulting business can exploit this restructuring.
 
