@@ -2,44 +2,52 @@
 
 ## Objective
 
-I want to check if you and Brad are curious about probing the idea of creating a consulting firm to fine-tune LLM for big companies?
+I want to check if you and Brad are curious about probing the idea of creating
+a consulting firm to fine-tune LLM for big companies?
 
 ## Now the timing is special
 
-A few months ago, Sam Altman’s (CEO of OpenAI) said he expects that the next unicorns will focus on fine-tuning models for various verticals ([interview](https://www.youtube.com/watch?v=WHoWGNQRXb0)).
+A few months ago, Sam Altman’s (CEO of OpenAI) said he expects that the next
+unicorns will focus on fine-tuning models for various verticals
+([interview](https://www.youtube.com/watch?v=WHoWGNQRXb0)).
 
-To keep a their businesses competitive, CTOs must now adopt a new technology that changes their AI development model. Specifically, fine-tuning ChatGPT makes these two components of an AI project become obsolete.
+To keep a their businesses competitive, CTOs must now adopt a new technology
+that changes their AI development model. Specifically, fine-tuning ChatGPT
+makes these two components of an AI project become obsolete.
+
 
 1. NLP experts working in NN architecture
 2. human annotation
 
-## Two riskiest assumptions to the consulting business model
+[This paper](README.md) goes into more detail.
 
-### 1. What about our customer's internal AI teams as competition?
+explaining the concept of a SME-analyst fine-tuning team.
 
-Although a quick PoC will be the sufficient evidence to persuade CTOs that they must change their AI development model, why would a company's CTO to hire us over their own ML internal team to make a PoC?
+## Questions on risky assumptions
+
+### 1. How can we compete against a prospective customer's internal ML team?
 
 Here are some hypotheses.
 
 - A company's internal ML team will not propose to make a PoC with the new AI development model because its against there interests.
-- Its too early. The concept of an analyst-SME fine-tuning team is too new. See [the paper](README.md) explaining the concept of a SME-analyst fine-tuning team.
-- Over time an internal analyst-SME fine-tuning team will never be able learn as quickly as a extenal consulting team that works with many clients. This depends on us developing a agile knowledge process.
+- Its too costly to change their organizational structure. [This paper](README.md) explain the organizational change needed.
 
-### 2. What about other consulting companies as competition?
-
-Why would a company's CTO to hire us over other consulting companies to make a PoC? What else is our special sauce? 
+### 2. How can we compete against other consulting companies?
 
 Here are some hypotheses.
 
-- There might be more demand than supply?
-- We have talent and experience working with SMEs (cognitive empathy and technical know-how). 
-- We have credibility with other CTOs and venture firms. 
-- We can get a jump start on the competition because we don't have jobs.
+- Its too early for other fine-tuning consulting firm to have sprouted.
+- Shawn has credibility working with SMEs
+- Brad has credibility with other CTOs and venture firms. 
+- We can get a jump start on the competition because I am not working for a few weeks.
 
 ## What's the exit plan?
 
-Sell knowledge base of processes and tooling to a big consulting firm.
+After developing an agile knowledge process for tine-tuning LLM, human experts,
+and tooling, we can sell the startup to a big consulting firm.
 
-## Next step, and the ask
+## My big hairy, "going out on a limb" ask regarding the next step
 
-Would Brad and you consider me probing demand by creating a Google Ads and a Medium article targeting a company landing web page with your names?
+Would Brad and you consider me probing demand out there letting me creating a
+Google Ads and a co-authored Medium article targeting a company landing web
+page with your names?
