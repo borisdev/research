@@ -8,6 +8,8 @@ boris.dev@gmail.com
 
 ## Basics
 
+I excel at solving ambiguous data problems to get software projects unstuck. 
+
 I get data projects unstuck. 
 I start by using cognitive empathy to get my head around the ambiguities of the data's value to the end user (data scientist, developer, customer), and then, I work backwards through the data flow, searching for the "low-hanging fruit" system design changes that maximize data value at a minimal cost.
 My toolkit includes increasing observability, inviting feedback by sharing demos and design papers ([examples](https://docs.google.com/document/d/1pMID97O4hHkK8ok7cwLH4Y4KpsgQSPUAXtYrscwcyb4/view)), and questioning assumptions on the human problem in order to avoid 

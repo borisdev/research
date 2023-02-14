@@ -6,14 +6,26 @@ colorlinks: true
 
 boris.dev@gmail.com
 
-## Stack 
 
-The stack that I have worked with includes Python, Docker Compose, Postgres, Linux, Pandas, Splunk, Tableau, Flask, PyTorch, AWS Sagemaker and AWS Groundtruth.
+## Tools
 
-## Style 
+- LAPP stack: Linux, Apache, Python, Postgres
+- Infrastructure: Docker Compose, Kubctl, Kafka, Celery, Helm, LightStep, Splunk, AWS Sagemaker
+- Data: Pandas, Numpy, Tableau, AWS Groundtruth
+- Writing papers
 
-I excel at solving ambiguous data problems to get software projects unstuck. 
-My toolkit includes probing with cognitive empathy, increasing observability, inviting feedback with demos, sharing design papers ([examples](https://docs.google.com/document/d/1pMID97O4hHkK8ok7cwLH4Y4KpsgQSPUAXtYrscwcyb4/view)), and questioning expensive assumptions to avoid the [XY Problem](https://xyproblem.info/) and its result ([example](https://upload.wikimedia.org/wikipedia/commons/a/a9/Rube_Goldberg%27s_%22Self-Operating_Napkin%22_%28cropped%29.gif)).
+## Interests
+
+- clarifying the data's value to the customer 
+- Human in the loop design 
+
+
+## Learning
+
+- fine-tuning large language models
+- causal inference
+- Ethereum 
+
 
 ## Job experience
 
