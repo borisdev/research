@@ -22,15 +22,15 @@ Salmon is a great source of healthy fats and protein, while arugula is a low-car
 2. Prompt
 
 ```
-        Decide whether a dish is keto, and then give your rationale.
+Decide whether a dish is keto, and then give your rationale.
 
-        Dish: salmon and argula
-        Keto: yes
-        Rationale: Because salmon is a great source of healthy fats and protein, while arugula is a low-carb vegetable.
+Dish: salmon and argula
+Keto: yes
+Rationale: Because salmon is a great source of healthy fats and protein, while arugula is a low-carb vegetable.
 
-        Dish: bagel and argula
-        Keto:
-        Rationale:
+Dish: bagel and argula
+Keto:
+Rationale:
 
 ```
 
