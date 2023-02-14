@@ -8,7 +8,7 @@ boris.dev@gmail.com
 
 ## Stack 
 
-The stack that I have worked with includes Python, Docker-compose, Postgres, Linux, Pandas, Splunk, Tableau, Flask, PyTorch, AWS Sagemaker and AWS Groundtruth.
+The stack that I have worked with includes Python, Docker Compose, Postgres, Linux, Pandas, Splunk, Tableau, Flask, PyTorch, AWS Sagemaker and AWS Groundtruth.
 
 ## Style 
 
