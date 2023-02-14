@@ -24,7 +24,6 @@ response = openai.Completion.create(
 )
 pprint(response.to_dict_recursive)
 
-"""
 PROMPT = '''
         Decide whether a dish is keto, and then give your rationale.
 
@@ -33,6 +32,28 @@ PROMPT = '''
         Rationale: Because salmon is a great source of healthy fats and protein, while arugula is a low-carb vegetable.
 
         Dish: bagel and argula
+        Keto:
+        Rationale:
+        '''
+
+response = openai.Completion.create(
+    model="text-davinci-003",
+    prompt=PROMPT,
+    temperature=0,
+    max_tokens=40
+)
+pprint(response.to_dict_recursive)
+"""
+
+
+PROMPT = '''
+        Decide whether a dish is keto, and then give your rationale.
+
+        Dish: salmon and argula
+        Keto: yes
+        Rationale: Because salmon is a great source of healthy fats and protein, while arugula is a low-carb vegetable.
+
+        Dish: Grass-fed hamburger
         Keto:
         Rationale:
         '''
