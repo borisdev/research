@@ -1,6 +1,7 @@
 # Job titles
 
-- ML reseacher
+- ML researcher
 - Business analyst
 - Business system analyst
 - Business intelligence analyst
+- Solutions Architect

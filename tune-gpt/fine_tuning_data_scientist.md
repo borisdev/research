@@ -1,9 +1,9 @@
-# Fine-tuning a GPT-3 model for text classification: an example and its consequences for projects
+# The emergence of the fine-tuning data scientist: a new role for enterprise AI
 
-Two issue here:
+Two new situations
 
 - AI as a service - fine-tuning GPT-3 models
-- Programmatic or weak labeling
+- Tools for programmatic or weak labeling
 
 ## TLDR
 
