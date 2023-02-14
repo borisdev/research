@@ -6,20 +6,50 @@
 
 # Examples
 
-Prompt
+1. Prompt
 
 ```
 Is salmon and arugula a keto dish?
 ```
 
-Response
+1. Response
 
 ```
 Yes, salmon and arugula can be part of a keto diet.
 Salmon is a great source of healthy fats and protein, while arugula is a low-carb vegetable.
 ```
 
+2. Prompt
+
+```
+        Decide whether a dish is keto, and then give your rationale.
+
+        Dish: salmon and argula
+        Keto: yes
+        Rationale: Because salmon is a great source of healthy fats and protein, while arugula is a low-carb vegetable.
+
+        Dish: bagel and argula
+        Keto:
+        Rationale:
+
+```
+
+Response
+
+```
+No, because a bagel is high in carbohydrates and not suitable for a keto diet.
+```
+
 # Docs
 
+[prompt design](https://platform.openai.com/docs/guides/completion/prompt-design)
+
+Prompt
+```
+Decide whether a dish's keto sentiment is positive, neutral, or negative.
+
+Dish: salmon and argula
+Sentiment:
+```
 
 https://platform.openai.com/docs/libraries
