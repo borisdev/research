@@ -15,7 +15,8 @@ Prompt
 Response
 
 ```
-Yes, salmon and arugula can be part of a keto diet. Salmon is a great source of healthy fats and protein, while arugula is a low-carb vegetable."
+Yes, salmon and arugula can be part of a keto diet.
+Salmon is a great source of healthy fats and protein, while arugula is a low-carb vegetable."
 ```
 
 # Docs
