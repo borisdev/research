@@ -8,19 +8,16 @@ boris.dev@gmail.com
 
 ## Summary 
 
-I immerse myself in the data-side of software projects to get them unstuck. 
+I immerse myself in the ambiguous data problems of software projects to get them unstuck. 
 My toolkit includes probing with cognitive empathy, increasing observability, inviting feedback with demos, sharing design papers ([examples](https://docs.google.com/document/d/1pMID97O4hHkK8ok7cwLH4Y4KpsgQSPUAXtYrscwcyb4/view)), and questioning expensive assumptions to avoid the [XY Problem](https://xyproblem.info/) and its result ([example](https://upload.wikimedia.org/wikipedia/commons/a/a9/Rube_Goldberg%27s_%22Self-Operating_Napkin%22_%28cropped%29.gif)).
 
 ## Job experience
 
 ### Data Science consultant at SimpleLegal, 2022 - 2023
 
-The situation when I arrived was that development on company's first AI feature was stuck. 
-The purpose of the feature was to flag questionable invoice items that were billed to the company's customers. 
-As tech lead, my puzzle was to
-figure out why the peformance of the machine learning models for text classification was flat even after the company had been
+The company's first AI feature was stuck. As tech lead, my puzzle was to figure out why the performance of their machine learning models for text classification was flat even after the company had been
 spending more money on human annotation. The actions I took resulted in
-the company launching their first AI feature, with positive feeback from
+the company launching their first AI feature, with positive feedback from
 customers and the sales team. Below are the sequence of actions that I took.
 
 - I stopped the human annotation process ([pulled the Andon Cord](https://medium.com/@jjruescas/to-improve-pull-the-cord-ec309fa9d701#:~:text=%E2%80%9CAndon%20Cord%E2%80%9D%20is%20a%20principle,stops%20to%20get%20them%20fixed.)).
