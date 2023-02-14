@@ -1,4 +1,4 @@
-# ZKML will be a new layer for enterprise web applications that will depend on PID
+# ZKML and Personal Information Data (PID): a new enterprise app layer
 
 What price would you pay to get these questions answered.
 
@@ -58,47 +58,16 @@ sequenceDiagram
 ```
 
 
+
 ## References
-
-- https://gist.github.com/martinwoodward/8ad6296118c975510766d80310db71fd
-
-## Awesome websites
-
-## References on personalized medicine
 
 - [TechNation Radio Podcast Episode 23-03 The Right Antidepressant the First Time?](https://podcasts.apple.com/us/podcast/technation-radio-podcast/id876042622?i=1000595534762)
 - [The rise of the genome and personalised medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6297695/)
 - [Advancing precision medicine through agile governance](https://www.brookings.edu/research/advancing-precision-medicine-through-agile-governance/)
 - [Health Survey for England content](https://digital.nhs.uk/data-and-information/areas-of-interest/public-health/health-survey-for-england---health-social-care-and-lifestyles/survey-content)
-
-BigchainDB
-
-https://www.bigchaindb.com/
-
-## Discoverability - SEO
-
-- DAG of ZKML-PID chain reaction dependencies 
-- tweet V. Buterin
-- tweet J. Pearl
-
-
-- Other ZKML ideas
-
-- Claim your home on Blockchain
-- LinkedIn on Blockchain - export PDF 
-
-Shipyard grants
-
-https://oceanprotocol.com/shipyard
-
-How Does Ocean Compute-to-Data Relate to Other Privacy-Preserving Approaches?
-
-https://blog.oceanprotocol.com/how-ocean-compute-to-data-relates-to-other-privacy-preserving-technology-b4e1c330483
-
-How Ocean Protocol will Change the World’s Data Economy | Review
-
-https://medium.datadriveninvestor.com/ocean-protocol-will-change-the-data-economy-blockchain-review-d48a3988296b
-
-
+- [BigchainDB](https://www.bigchaindb.com/)
+- [Mina: what-are-zk-snarks](https://minaprotocol.com/blog/what-are-zk-snarks)
+- https://oceanprotocol.com/shipyard
+- https://medium.datadriveninvestor.com/ocean-protocol-will-change-the-data-economy-blockchain-review-d48a3988296b
 - awesome ZKML
 - ZK Machine Learning, A tutorial amnd demo by Horace Pan ... etc
