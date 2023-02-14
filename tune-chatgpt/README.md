@@ -1,5 +1,10 @@
 # Fine-tuning a GPT-3 model for text classification: an example and its consequences for projects
 
+Two issue here:
+
+- AI as a service - fine-tuning GPT-3 models
+- Programmatic or weak labeling
+
 ## TLDR
 
 If your AI feature is based on a text classification model, consider making a
