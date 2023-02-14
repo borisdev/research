@@ -40,16 +40,7 @@ Response
 No, because a bagel is high in carbohydrates and not suitable for a keto diet.
 ```
 
-# Docs
+# References
 
-[prompt design](https://platform.openai.com/docs/guides/completion/prompt-design)
-
-Prompt
-```
-Decide whether a dish's keto sentiment is positive, neutral, or negative.
-
-Dish: salmon and argula
-Sentiment:
-```
-
-https://platform.openai.com/docs/libraries
+- [prompt design](https://platform.openai.com/docs/guides/completion/prompt-design)
+- [OpenAI Libraries](https://platform.openai.com/docs/libraries)
