@@ -15,15 +15,17 @@ My toolkit includes probing with cognitive empathy, increasing observability, in
 
 ### Data Science consultant at SimpleLegal, 2022 - 2023
 
-The company's AI feature that had been stuck. As tech lead, my puzzle was to
-figure out why prediction performance was flat even after the company had been
-spending more money on human annotation. The below sequence of actions resulted in
+The situation when I arrived was that development on company's first AI feature was stuck. 
+The purpose of the feature was to flag questionable invoice items that were billed to the company's customers. 
+As tech lead, my puzzle was to
+figure out why the peformance of the machine learning models for text classification was flat even after the company had been
+spending more money on human annotation. The actions I took resulted in
 the company launching their first AI feature, with positive feeback from
-customers and the sales team. 
+customers and the sales team. Below are the sequence of actions that I took.
 
 - I stopped the human annotation process ([pulled the Andon Cord](https://medium.com/@jjruescas/to-improve-pull-the-cord-ec309fa9d701#:~:text=%E2%80%9CAndon%20Cord%E2%80%9D%20is%20a%20principle,stops%20to%20get%20them%20fixed.)).
-- I identified an incorrect assumption: our performance blocker was not training data quantity, but quality. Then I identified two main culprits of the poor training data quality: 1) convoluted annotation guidelines and 2) missing pre-processing noise filters. I took the following sequence of execution steps.
-- I immersed myself in the metrics to perform triage: Of 11 ML models, 1 was never needed, 2 were replaced by expert rules, 5 were sufficient, and 2 were targeted for relabeling.
+- I identified an incorrect assumption: our performance blocker was not training data quantity, but quality. Then I identified two main culprits of the poor training data quality: 1) convoluted annotation guidelines and 2) missing pre-processing noise filters. 
+- I immersed myself in the metrics to perform triage: Of eleven machine learning classifier models, 1 was never needed, 2 were replaced by expert rules, 5 were sufficient, and 2 were targeted for relabeling.
 - I immersed myself in the company's legal invoice data through [exploratory data analysis](https://hbr.org/2018/12/what-great-data-analysts-do-and-why-every-organization-needs-them) and by labeling several thousand sentences while continuously getting feedback from our subject matter expert (SME).
 - I simplified the annotation guidelines in collaboration with both the SME and annotation team.
 - I designed a new annotation Human-in-the-loop ML QA process in collaboration with the SME and annotation team. This included a CI (continuous improvement) process where the annotators, our SME, and myself reached consensus to fix the guidelines as we hit edge cases (ie. feedback).
