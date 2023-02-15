@@ -11,12 +11,12 @@ boris.dev@gmail.com
 
 - LAPP stack: Linux, Apache, Python, Postgres
 - Infrastructure: Docker Compose, Kubectl, Kafka, Celery, Helm, LightStep, Splunk, AWS Sagemaker, Grafana, Prometheus
-- Data science: Pandas, Numpy, Tableau, AWS Groundtruth
+- Data science: PyTorch, Pandas, Numpy, Tableau, AWS Groundtruth
 
 ## Interests
 
 - Domain Driven Design - translating the expert's mental model into working models then code
-- Process optimization - working backwards from presumptions about the data's value to the customer
+- process optimization - working backwards from presumptions about the data's value to the customer
 
 ## Learning
 

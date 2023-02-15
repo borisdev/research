@@ -1,9 +1,13 @@
-# The emergence of the fine-tuning data scientist: a new role for enterprise AI
+# Rethinking the costs of developing an NLP AI classification feature: Speculating on the impact of GTP-3 and Snorkle
+
+## 
+## Opportunity cost of not is loosing customer
+## The emergence of the fine-tuning data scientist: a new role for enterprise AI
 
 Two new situations
 
 - AI as a service - fine-tuning GPT-3 models
-- Tools for programmatic or weak labeling
+- Programmatic labeling analysis as a service - Snorkle
 
 ## TLDR
 
