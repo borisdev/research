@@ -11,18 +11,20 @@ boris.dev@gmail.com
 
 - LAPP stack: Linux, Apache, Python, Postgres
 - Infrastructure: Docker Compose, Kubectl, Kafka, Celery, Helm, LightStep, Splunk, AWS Sagemaker, Grafana, Prometheus
-- Data science: PyTorch, Pandas, Numpy, Tableau, AWS Groundtruth
+- Data science: cognitive empathy, PyTorch, Pandas, Numpy, Tableau, AWS Groundtruth
 
 ## Interests
 
-- Domain Driven Design - translating the expert's mental model into working models then code
-- process optimization - working backwards from presumptions about the data's value to the customer
-
-## Learning
-
-- fine-tuning large language models
-- causal inference
-- Ethereum 
+- translating subject matter expertise into code 
+- exploratory data analysis
+- iteratively designing and building a system
+- observability systems
+- process optimization
+- debugging data hand-off toil or [extraneous cognitive load](https://en.wikipedia.org/wiki/Cognitive_load#Extraneous)
+- Domain Driven Design
+- fine-tuning large language models, ie. GPT-3 (learning)
+- causal inference (learning)
+- Ethereum protocol design (learning)
 
 
 ## Job experience

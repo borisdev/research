@@ -5,3 +5,5 @@
 - Business system analyst
 - Business intelligence analyst
 - Solutions Architect
+- Data Solutions Architect
+- Analytics engineer
