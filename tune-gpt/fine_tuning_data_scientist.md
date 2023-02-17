@@ -1,8 +1,8 @@
-# Rethinking the costs of developing an NLP AI classification feature: Speculating on the impact of GTP-3 and Snorkle
+# Use GPT-3 to jump start your AI text classifier, and save your company money
 
-## 
-## Opportunity cost of not is loosing customer
-## The emergence of the fine-tuning data scientist: a new role for enterprise AI
+- Rethinking the costs of developing an NLP AI classification feature: Speculating on the impact of GTP-3 and Snorkle
+- Opportunity cost of not is loosing customer
+- The emergence of the fine-tuning data scientist: a new role for enterprise AI
 
 Two new situations
 
