@@ -9,7 +9,7 @@ boris.dev@gmail.com
 
 ## Summary
 
-I build with a spirit of entrepreneurialism, design, and ABQ (Always Be Questioning). I have a history of getting stuck data processes unstuck by searching for low hanging fruit in the gaps splitting team silos. I can save companies a lot of money on their AI projects by fine-tuning GPT-3. I handle ambiguity.
+I build with a spirit of entrepreneurialism, design, and ABQ (Always Be Questioning). I have a history of getting stuck data processes unstuck by searching for low hanging fruit in the gaps splitting team silos. I handle ambiguity.
 
 ## Tools
 
