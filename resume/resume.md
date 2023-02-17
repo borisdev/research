@@ -29,7 +29,7 @@ boris.dev@gmail.com
 
 ## Job experience
 
-### Data Science consultant at SimpleLegal, 2022 - 2023
+### Technical AI Product Manager consultant at SimpleLegal, 2022 - 2023
 
 The company's first AI feature was stuck. As tech lead, my puzzle was to figure out why the performance of their machine learning models for text classification was flat even after the company had been
 spending more money on human annotation. The actions I took resulted in
