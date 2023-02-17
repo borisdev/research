@@ -7,6 +7,10 @@ colorlinks: true
 boris.dev@gmail.com
 
 
+## Summary
+
+I build with a spirit of entrepreneurialism, design, and ABQ (Always Be Questioning). I have a history of getting stuck data processes unstuck by searching for low hanging fruit in the gaps splitting team silos. I can save companies a lot of money on their AI projects by fine-tuning GPT-3. I handle ambiguity.
+
 ## Tools
 
 - LAPP stack: Linux, Apache, Python, Postgres
@@ -15,16 +19,14 @@ boris.dev@gmail.com
 
 ## Interests
 
-- translating subject matter expertise into code 
-- exploratory data analysis
-- iteratively designing and building a system
+- uncovering [extraneous cognitive load](https://en.wikipedia.org/wiki/Cognitive_load#Extraneous)
 - observability systems
-- process optimization
-- debugging data hand-off toil or [extraneous cognitive load](https://en.wikipedia.org/wiki/Cognitive_load#Extraneous)
-- Domain Driven Design
-- fine-tuning large language models, ie. GPT-3 (learning)
-- causal inference (learning)
-- Ethereum protocol design (learning)
+- translating subject matter expertise into code (Domain Driven Design)
+- exploratory data analysis
+- process optimization, debugging data hand-off toil
+- fine-tuning large language models, ie. GPT-3
+- causal inference
+- Ethereum protocol design
 
 
 ## Job experience
