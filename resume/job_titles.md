@@ -7,3 +7,4 @@
 - Solutions Architect
 - Data Solutions Architect
 - Analytics engineer
+- Solutions Engineer
