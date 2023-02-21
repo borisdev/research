@@ -7,27 +7,20 @@ colorlinks: true
 boris.dev@gmail.com
 
 
-## Summary
-
-I build with a spirit of entrepreneurialism, design, and ABQ (Always Be Questioning). I have a history of getting stuck data processes unstuck by searching for low hanging fruit in the gaps splitting team silos. I handle ambiguity.
-
-## Tools
-
-- LAPP stack: Linux, Apache, Python, Postgres
-- Infrastructure: Docker Compose, Kubectl, Kafka, Celery, Helm, LightStep, Splunk, AWS Sagemaker, Grafana, Prometheus
-- Data science: cognitive empathy, PyTorch, Pandas, Numpy, Tableau, AWS Groundtruth
-
 ## Interests
 
-- uncovering [extraneous cognitive load](https://en.wikipedia.org/wiki/Cognitive_load#Extraneous)
-- observability systems
-- translating subject matter expertise into code (Domain Driven Design)
-- exploratory data analysis
-- process optimization, debugging data hand-off toil
-- fine-tuning large language models, ie. GPT-3
-- causal inference
-- Ethereum protocol design
+I get data projects unstuck. I start by using cognitive empathy to get my head around the mental model of the end user (CEO, developer, data scientist, customer, SME, etc), and then work backwards, searching for the "low-hanging fruit" changes. Often this optimization involves uncovering extraneous cognitive load and wrong assumptions that build up in the split between two siloed teams. My toolkit to continuously question assumptions, and experiment, includes agile code refactoring, demos, papers (examples), and building observability systems.
 
+- Process optimization and system design: domain modeling, debugging hand-off toil, uncovering [extraneous cognitive load](https://en.wikipedia.org/wiki/Cognitive_load#Extraneous), building observability systems (monitoring and KPIs)
+- Data Analysis: exploratory data analysis, causal inference
+- Token economics: Ethereum, token curated registries
+- NLP AI: fine-tuning large language models (GPT-3)
+
+## Coding tools
+
+- Product developer: Linux, Python, Postgres, Flask, Django
+- Infrastructure: Docker Compose, Kubectl, Kafka, Celery, Helm, LightStep, ELK, Splunk, AWS Sagemaker, AWS Lambda, Grafana, Prometheus
+- Data science: Pandas, Numpy, PyTorch, Tableau, AWS Groundtruth
 
 ## Job experience
 

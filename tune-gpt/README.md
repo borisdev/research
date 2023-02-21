@@ -1,5 +1,12 @@
 # Fine-tune GPT
 
+
+```
+pip install -r requirements.txt
+python open_ai_test.py
+```
+
+
 # TODOs
 
 - [ ] [Menu's in Google Business Profile API](https://developers.google.com/my-business/reference/rest/v4/FoodMenus)
