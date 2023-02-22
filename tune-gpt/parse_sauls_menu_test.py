@@ -26,7 +26,7 @@ html = '''
     </html>
     '''
 
-logger.add("sauls_menu.log")
+logger.add("sauls_menu.log", format="{time} {message}")
 with open("allmenus_sauls.html", "r") as f:
     sauls_html_page = f.read()
     result = Selector(text=sauls_html_page).xpath('//script/text()').get()
@@ -58,4 +58,4 @@ with open("allmenus_sauls.html", "r") as f:
                 description = description.replace("&amp;amp;", "&")
                 # print("name:", name)
                 # print("description:", description)
-                logger.debug(f"{name} | {description} | keto friendly....")
+                logger.debug(f"{name} {description}")
