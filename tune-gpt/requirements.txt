@@ -3,3 +3,4 @@ python-dotenv
 # doordash api
 pyjwt
 scrapy
+loguru
