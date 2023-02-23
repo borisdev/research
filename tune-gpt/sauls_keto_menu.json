@@ -1,27 +1,1052 @@
 [
     {
-        "1. dish_name": "Hummus or Eggplant Appetizer",
-        "2. dish_description": "With tahini, parsley and pita",
-        "3. answer": "No, hummus and eggplant appetizer is not keto friendly. While tahini and parsley are low-carb, the pita bread is not, and it would add too many carbs to the dish to make it keto friendly."
+        "1. dish name": "Hummus or Eggplant Appetizer",
+        "2. dish description": "With tahini, parsley and pita",
+        "3. AI's answer on keto": "No, hummus and eggplant appetizer is not keto friendly. Hummus is made from chickpeas, which are high in carbohydrates, and pita bread is also high in carbohydrates."
     },
     {
-        "1. dish_name": "Hummus with Mushrooms & Onions Appetizer",
-        "2. dish_description": "Hummus with caramelized onions, sauteed mushrooms,  parsley and pita",
-        "3. answer": "No, this dish is not keto friendly. Hummus is high in carbohydrates, and the pita bread adds even more carbs. The mushrooms and onions are low-carb, but not enough to make this dish keto-friendly."
+        "1. dish name": "Hummus with Mushrooms & Onions Appetizer",
+        "2. dish description": "Hummus with caramelized onions, sauteed mushrooms,  parsley and pita",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Hummus is high in carbohydrates, and the pita bread adds even more carbs. The mushrooms and onions are low-carb, but not enough to make this dish keto-friendly."
     },
     {
-        "1. dish_name": "Labne Zataar Appetizer",
-        "2. dish_description": "With pine, nuts, olive oil and pita",
-        "3. answer": "No, this dish is not keto friendly. Labne Zataar contains pita, which is a high-carb food, as well as pine nuts and olive oil, which are both high in fat but also contain some carbohydrates."
+        "1. dish name": "Labne Zataar Appetizer",
+        "2. dish description": "With pine, nuts, olive oil and pita",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Labne Zataar contains pita, which is high in carbohydrates, as well as pine nuts and olive oil, which are both high in fat but also contain some carbohydrates."
     },
     {
-        "1. dish_name": "Falafel Platter",
-        "2. dish_description": "Hummus, tabouleh, babaganouj, tahini, feta, olives and pita with falafel balls and house made pickles",
-        "3. answer": "No, this dish is not keto friendly. While some of the components, such as hummus, tabouleh, babaganouj, tahini, feta, and olives are low in carbs, the pita and falafel balls are high in carbs and"
+        "1. dish name": "Falafel Platter",
+        "2. dish description": "Hummus, tabouleh, babaganouj, tahini, feta, olives and pita with falafel balls and house made pickles",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. While some of the ingredients, such as hummus, tabouleh, and olives, are low in carbs, the falafel balls and pita bread are high in carbs and"
     },
     {
-        "1. dish_name": "Knish",
-        "2. dish_description": "Baked in a house made crust with chefs filling",
-        "3. answer": "No, a knish is not keto friendly. The crust is usually made with flour, which is high in carbohydrates, and the filling is usually made with potatoes, which are also high in carbohydrates."
+        "1. dish name": "Knish",
+        "2. dish description": "Baked in a house made crust with chefs filling",
+        "3. AI's answer on keto": "No, a knish is not keto friendly. The crust is usually made with flour, which is high in carbohydrates, and the filling is usually made with potatoes, which are also high in carbohydrates."
+    },
+    {
+        "1. dish name": "French Fries Small",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, French fries are not keto friendly. French fries are usually made with potatoes, which are high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "French Fries Large",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, French fries are not keto friendly. French fries are usually made with potatoes, which are high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Saul's Poutine",
+        "2. dish description": "Our take on the classic. Fries smothered in  aujus, mozzarella curd and herbs",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Poutine is traditionally made with french fries, which are high in carbohydrates, and the cheese curd and aujus add additional carbohydrates."
+    },
+    {
+        "1. dish name": "Saul's Poutine",
+        "2. dish description": "Add pastrami",
+        "3. AI's answer on keto": "No, Poutine is not keto friendly because it is made with french fries, which are high in carbohydrates. Additionally, the addition of pastrami adds more carbohydrates to the dish."
+    },
+    {
+        "1. dish name": "Chopped Liver Appetizer",
+        "2. dish description": "Sauls famous traditional chopped chicken liver with rye",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Chopped liver is high in fat, but it is also high in carbohydrates due to the rye bread."
+    },
+    {
+        "1. dish name": "Potato Latke One",
+        "2. dish description": "Delicious pancakes of grated potatoes and onions, seasoned to  perfection and then fried. Served with housemade applesauce  and sour cream",
+        "3. AI's answer on keto": "No, Potato Latke One is not keto friendly. Potatoes are high in carbohydrates and therefore not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Potato Latke Three",
+        "2. dish description": "Delicious pancakes of grated potatoes and onions, seasoned to  perfection and then fried. Served with housemade applesauce  and sour cream",
+        "3. AI's answer on keto": "No, potato latkes are not keto friendly because potatoes are high in carbohydrates."
+    },
+    {
+        "1. dish name": "Latkes & Lox One",
+        "2. dish description": "Crispy latke topped with arugula, smoked salmon and sour cream",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Latkes are made from potatoes, which are high in carbohydrates, and sour cream is also high in carbohydrates."
+    },
+    {
+        "1. dish name": "Latkes & Lox Two",
+        "2. dish description": "Crispy latke topped with arugula, smoked salmon and sour cream",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Latkes are made from potatoes, which are high in carbohydrates, and sour cream is also high in carbohydrates."
+    },
+    {
+        "1. dish name": "Kale Salad Small",
+        "2. dish description": "Apple, walnut, sumac onions, pomegranate and pickled persimmon with lemon dressing",
+        "3. AI's answer on keto": "Yes, this dish is keto friendly. Kale is a low-carb vegetable, and the other ingredients are all low-carb as well. The lemon dressing is also low-carb, making this a great option for a keto diet"
+    },
+    {
+        "1. dish name": "Kale Salad Large",
+        "2. dish description": "Apple, walnut, sumac onions, pomegranate and pickled persimmon with lemon dressing",
+        "3. AI's answer on keto": "Yes, this dish is keto friendly. Kale is a low-carb vegetable, and the other ingredients are all low-carb as well. The lemon dressing is also low-carb, making this a great option for a keto diet"
+    },
+    {
+        "1. dish name": "Jordan River Mezze Platter",
+        "2. dish description": "Chopped mango and cucumber salad with mint and sumac onions, spiced carrot salad, beet tahina, pickled persimmon and mixed greens with vinaigrette",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. While some of the ingredients are low-carb, such as the cucumber and mixed greens, the mango, carrots, and beets are all high-carb vegetables that would not fit into a"
+    },
+    {
+        "1. dish name": "Jordan River Mezze Platter",
+        "2. dish description": "Add rare agu",
+        "3. AI's answer on keto": "No, the Jordan River Mezze Platter is not keto friendly. The platter includes a variety of items such as hummus, tabbouleh, and pita bread, which are all high in carbohydrates and not suitable"
+    },
+    {
+        "1. dish name": "Cobbish Salad Small",
+        "2. dish description": "Romaine with ranch dressing, grilled pastrami, chicken, chopped egg, avocado, tomato and bleu cheese",
+        "3. AI's answer on keto": "Yes, this dish is keto friendly. The romaine lettuce is a low-carb vegetable, and the grilled pastrami, chicken, and avocado are all good sources of healthy fats and protein. The ranch dressing and bleu cheese are"
+    },
+    {
+        "1. dish name": "Cobbish Salad Large",
+        "2. dish description": "Romaine with ranch dressing, grilled pastrami, chicken, chopped egg, avocado, tomato and bleu cheese",
+        "3. AI's answer on keto": "Yes, this dish is keto friendly. The romaine lettuce is a low-carb vegetable, and the grilled pastrami, chicken, and avocado are all good sources of healthy fats and protein. The ranch dressing and bleu cheese are"
+    },
+    {
+        "1. dish name": "Happy Boy Salad",
+        "2. dish description": "Mixed greens or romaine with grated red cabbage, carrots, and sweet pickled onions, choice of dressing: vinaigrette, oil & vinegar, russian or ranch, small",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The mixed greens, red cabbage, carrots, and sweet pickled onions are all high in carbohydrates, and the dressings are also high in sugar."
+    },
+    {
+        "1. dish name": "Happy Boy Salad Large",
+        "2. dish description": "Mixed greens or romaine with grated red cabbage, carrots, and sweet pickled onions, choice of dressing: vinaigrette, oil & vinegar, russian or ranch, small",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Mixed greens and romaine are high in carbohydrates, as are carrots and sweet pickled onions. The dressings are also high in carbohydrates, so this dish would not be suitable for a keto"
+    },
+    {
+        "1. dish name": "Soup of the Day",
+        "2. dish description": "",
+        "3. AI's answer on keto": "It depends on the ingredients of the soup. If the soup contains high-carb ingredients such as potatoes, corn, or beans, then it would not be keto-friendly. However, if the soup contains low-carb ingredients such as vegetables"
+    },
+    {
+        "1. dish name": "Chicken or Turkey in a Pot",
+        "2. dish description": "Light and dark meat, served with matzo ball and noodles",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The matzo ball and noodles are high in carbohydrates, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Chicken Soup with Matzo Balls",
+        "2. dish description": "Carrot, parsnip, celery and chicken with dill and matzo balls",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Matzo balls are made from wheat flour, which is high in carbohydrates, and the soup contains other high-carb vegetables such as carrots, parsnips, and celery."
+    },
+    {
+        "1. dish name": "Soup & Salad Special",
+        "2. dish description": "Small Happy Boy salad and bowl of chicken soup or soup of the day",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The Happy Boy salad contains high-carb ingredients such as croutons, cheese, and a sweet dressing, while the soup of the day could contain high-carb ingredients such as potatoes, beans"
+    },
+    {
+        "1. dish name": "Matzo Ball Soup Cup",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Matzo Ball Soup Cup is not keto friendly. Matzo balls are made from matzo meal, which is a type of flour made from wheat, and is high in carbohydrates."
+    },
+    {
+        "1. dish name": "Stuffed Cabbage Roll",
+        "2. dish description": "Ground beef and rice stuffing. Served with sweets sour tomato sauce, vegetables and mashed potatoes",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The ground beef and vegetables are keto friendly, but the rice and mashed potatoes are high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Cabbage Roll A La Carte",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Cabbage Roll A La Carte is not keto friendly. Cabbage is a low-carb vegetable, but it is also high in carbohydrates. The dish also likely contains other ingredients that are high in carbohydrates, such as rice or"
+    },
+    {
+        "1. dish name": "Baked Eggplant Pomegrante Small",
+        "2. dish description": "Topped with pistachios and tahini sauce, served with grain and mixed greens",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The eggplant is a low-carb vegetable, but the grain and mixed greens are high in carbohydrates, as are the pistachios and tahini sauce."
+    },
+    {
+        "1. dish name": "Baked Eggplant Pomegrante Large",
+        "2. dish description": "Topped with pistachios and tahini sauce, served with grain and mixed greens",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The eggplant and pomegranate are low-carb vegetables, but the pistachios and tahini sauce are high in carbs, and the grain and mixed greens add even more carbs"
+    },
+    {
+        "1. dish name": "Grilled Chicken Liver",
+        "2. dish description": "Bahrats spice, marinade pickled sumac onions and tahini date molasses, served with vegetables and grain",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Grilled chicken liver is a great source of protein, but the marinade, pickled sumac onions, tahini date molasses, vegetables, and grain all contain carbohydrates, which"
+    },
+    {
+        "1. dish name": "Brisk4et Piergoi Two",
+        "2. dish description": "With vegetables and mushrooms au jus",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Vegetables and mushrooms are high in carbohydrates, and the au jus sauce is likely to contain added sugar, making it unsuitable for a keto diet."
+    },
+    {
+        "1. dish name": "Brisk4et Piergoi Three",
+        "2. dish description": "With vegetables and mushrooms au jus",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Brisket Piergoi Three is usually served with vegetables and mushrooms in a sauce, which can contain high amounts of carbohydrates."
+    },
+    {
+        "1. dish name": "BN Ranch Braised Brisket Au Jus",
+        "2. dish description": "Lakte horsefadish and vegetables",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The brisket is likely to be high in carbohydrates due to the added ingredients such as the lakte horsefadish and vegetables."
+    },
+    {
+        "1. dish name": "Leo",
+        "2. dish description": "Lox, eggs and onions, scrambled served with latke and mixed green salad",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Lox is a type of smoked salmon, which is high in carbohydrates, and latkes are a type of potato pancake, which is also high in carbohydrates. The eggs and onions are ket"
+    },
+    {
+        "1. dish name": "Malawach Yemeni Pancake",
+        "2. dish description": "With tomatoes, zhoug, labne and a chopped egg",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Malawach is a type of flatbread made with wheat flour, which is high in carbohydrates. The tomatoes, zhoug, labne and egg are all high in carbohydrates as well."
+    },
+    {
+        "1. dish name": "Malawach Yemeni Pancake",
+        "2. dish description": "With shawarma",
+        "3. AI's answer on keto": "No, Malawach Yemeni Pancake with shawarma is not keto friendly. Shawarma is usually made with a combination of meats, which are high in carbohydrates and fats. Additionally, the pancake itself is made with flour, which"
+    },
+    {
+        "1. dish name": "Kippers and Eggs",
+        "2. dish description": "Whole kipper with sracmbled eggs and roasted onions, served with latke",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Kippers are a type of fish that is high in carbohydrates, and the latke is a potato-based dish that is also high in carbohydrates. The scrambled eggs and roasted onions are low-carb"
+    },
+    {
+        "1. dish name": "Todays Fish",
+        "2. dish description": "Chefs selections and preparations",
+        "3. AI's answer on keto": "It depends on the type of fish and the preparation. If the fish is a fatty fish like salmon or mackerel, and it is served without any high-carb sides, then it can be keto-friendly. However, if the"
+    },
+    {
+        "1. dish name": "Chicken Schnitzel",
+        "2. dish description": "Crispy challah breading seasoned with zatzara over tahini with lemon and parsley, served with vegetables and mashed potatoes",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The challah breading and mashed potatoes are high in carbohydrates, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Turkey Karnatzlach",
+        "2. dish description": "Ground bn ranch turkey patties grilled over mequite coals, served with tzatziki, vegetables and grain",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The ground turkey patties are likely breaded, and the grain and vegetables are high in carbohydrates."
+    },
+    {
+        "1. dish name": "Roast BN Ranch Turkey",
+        "2. dish description": "Light and dark meat, gravy stuffing cranberry sauce, vegetables and mashed potatoes",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The turkey is a good source of protein, but the gravy, stuffing, cranberry sauce, vegetables, and mashed potatoes are all high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Dark Meat Only Platter",
+        "2. dish description": "",
+        "3. AI's answer on keto": "Yes, a dark meat only platter can be keto friendly. Dark meat is a great source of healthy fats and protein, and when served without any starchy sides, it can be a great option for a keto diet."
+    },
+    {
+        "1. dish name": "Grass Fed Ribeye Steak",
+        "2. dish description": "Aged 21 days geavily marbled, on the mesquuite fire served with vegetables and mashed potatoes ",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Ribeye steak is a great source of healthy fats and protein, but the mashed potatoes and vegetables are high in carbohydrates, making this dish not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Vegetables of the Day",
+        "2. dish description": "",
+        "3. AI's answer on keto": "It depends on the vegetables. Some vegetables, such as broccoli, cauliflower, and spinach, are low in carbs and can be part of a keto diet. Other vegetables, such as potatoes and corn, are higher in carbs and should be"
+    },
+    {
+        "1. dish name": "Grain of the Day",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Grain of the Day is not keto friendly. Grains are high in carbohydrates and should be avoided on a keto diet."
+    },
+    {
+        "1. dish name": "Mashed Potatoes",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Mashed Potatoes are not keto friendly. Potatoes are high in carbohydrates, which can make them difficult to fit into a keto diet."
+    },
+    {
+        "1. dish name": "House Smoked Pastrami",
+        "2. dish description": "Brined for days, spice rubbed, long-smoked, steamed and served on warm acme rye",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Pastrami is usually high in carbohydrates due to the brining and spice rub, and the rye bread adds additional carbs."
+    },
+    {
+        "1. dish name": "House Smoked Pastrami (Retro old style big 9oz)",
+        "2. dish description": "Brined for days, spice rubbed, long-smoked, steamed and served on warm acme rye",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The pastrami is likely high in carbohydrates due to the brining and spice rub, and the acme rye bread is also high in carbohydrates."
+    },
+    {
+        "1. dish name": "House Smoked Pastrami (Half 3oz)",
+        "2. dish description": "Brined for days, spice rubbed, long-smoked, steamed and served on warm acme rye",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The pastrami is likely high in carbohydrates due to the brining and spice rub, and the Acme rye bread is also high in carbohydrates."
+    },
+    {
+        "1. dish name": "House Smoked Pastrami (Half 3oz)",
+        "2. dish description": "Half with a cup of soup",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Pastrami is usually high in carbohydrates and sodium, and the soup is likely to contain high-carb ingredients such as potatoes or beans."
+    },
+    {
+        "1. dish name": "Corned Beef Full Size (6oz)",
+        "2. dish description": "Simmered in pickling spices then steamed to perfection",
+        "3. AI's answer on keto": "No, corned beef is not keto friendly. Corned beef is high in carbohydrates and sodium, making it not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Corned Beef Full Size (Half 3oz)",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, corned beef is not keto friendly. Corned beef is high in carbohydrates and sodium, making it an unsuitable choice for a keto diet."
+    },
+    {
+        "1. dish name": "Corned Beef Full Size (Retro old style big 3oz)",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, corned beef is not keto friendly. Corned beef is high in carbohydrates and sodium, making it an unsuitable choice for a keto diet."
+    },
+    {
+        "1. dish name": "Corned Beef Full Size (Half with a cup of soup)",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Corned Beef Full Size (Half with a cup of soup) is not keto friendly. Corned beef is high in carbohydrates and the soup is likely to contain additional carbohydrates."
+    },
+    {
+        "1. dish name": "Roast Beef Full size 4.5 oz",
+        "2. dish description": "Freshly carved BN ranch roast beef layered on your choice of bread",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Roast beef is a great source of protein, but the bread it is served on is high in carbohydrates, making it not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Roast Beef (Half2oz)",
+        "2. dish description": "",
+        "3. AI's answer on keto": "Yes, roast beef (half2oz) can be part of a keto diet. Roast beef is a great source of healthy fats and protein, and when served in a smaller portion size, it can fit into a keto diet."
+    },
+    {
+        "1. dish name": "Roast Beef (With hafl a cup of soup)",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Roast Beef with half a cup of soup is not keto friendly. The roast beef is a good source of healthy fats and protein, but the soup is likely to contain high-carb ingredients such as potatoes, carrots, and other"
+    },
+    {
+        "1. dish name": "Braised Brisket Sandwich 3oz",
+        "2. dish description": "BN ranch beef brisket on a toasted acme roll with mustard, horseradish cream, roasted onion and arugula",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The brisket is a good source of healthy fats and protein, but the Acme roll and other condiments add too many carbs to make this dish keto friendly."
+    },
+    {
+        "1. dish name": "Braised Brisket Sandwich 6oz",
+        "2. dish description": "BN ranch beef brisket on a toasted acme roll with mustard, horseradish cream, roasted onion and arugula",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The brisket is a good source of healthy fats and protein, but the Acme roll and other condiments add too many carbs to make this dish keto friendly."
+    },
+    {
+        "1. dish name": "Saul's Famous Chopped Liver Half",
+        "2. dish description": "Traditional chopped chicken liver with tomato and caramelized onion",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Chopped chicken liver is high in fat, but it is also high in carbohydrates due to the tomato and caramelized onion."
+    },
+    {
+        "1. dish name": "Saul's Famous Chopped Liver",
+        "2. dish description": "Traditional chopped chicken liver with tomato and caramelized onion, half with a cup of soup",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Chopped liver is high in carbohydrates due to the tomato and caramelized onion, and the cup of soup will add additional carbohydrates."
+    },
+    {
+        "1. dish name": "Egg Salad Half",
+        "2. dish description": "Made fresh from cage free eggs. Served with lettuce and tomato on toasted challah",
+        "3. AI's answer on keto": "No, egg salad half is not keto friendly. The challah bread and the lettuce and tomato add too many carbohydrates to make this dish keto friendly."
+    },
+    {
+        "1. dish name": "Egg Salad",
+        "2. dish description": "Made fresh from cage free eggs. Served with lettuce and tomato on toasted challah half with a cup of soup",
+        "3. AI's answer on keto": "No, egg salad served with lettuce and tomato on toasted challah is not keto friendly. The challah bread is high in carbohydrates, which would make this dish not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Albacore Tuna Salad",
+        "2. dish description": "Line caught tuna salad with lettuce and tomato",
+        "3. AI's answer on keto": "Yes. Albacore tuna is a great source of healthy fats and protein, and lettuce and tomato are both low-carb vegetables."
+    },
+    {
+        "1. dish name": "Albacore Tuna Salad Half",
+        "2. dish description": "",
+        "3. AI's answer on keto": "Yes, albacore tuna salad can be part of a keto diet. Albacore tuna is a great source of healthy fats and protein, and when served with a low-carb dressing, it can be a great keto-"
+    },
+    {
+        "1. dish name": "Albacore Tuna Salad",
+        "2. dish description": "Half with a cup of soup",
+        "3. AI's answer on keto": "Yes, albacore tuna salad can be part of a keto diet. Albacore tuna is a great source of healthy fats and protein, and when served with a cup of low-carb soup, it can provide a balanced meal"
+    },
+    {
+        "1. dish name": "Beef Salami",
+        "2. dish description": "Hard Dried Salami add $1.00 salami and chedda ro swwss choice of bread full size 4.5oz",
+        "3. AI's answer on keto": "No, beef salami is not keto friendly. Salami is usually high in carbohydrates and sodium, and the addition of cheese and bread makes it even less keto friendly."
+    },
+    {
+        "1. dish name": "Beef Salami Half",
+        "2. dish description": "Hard Dried Salami add $1.00 salami and chedda ro swwss choice of bread full size 4.5oz",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Salami is high in carbohydrates and the bread adds even more carbohydrates, making it unsuitable for a keto diet."
+    },
+    {
+        "1. dish name": "Beef Salami Half",
+        "2. dish description": "Half with a cup of soup",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Beef salami is high in carbohydrates and the cup of soup likely contains additional carbohydrates, making this dish not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Turkey Full Rack 4.5oz",
+        "2. dish description": "BN Ranch turkey then thinly slice the breast meat and stack on your choice of bread",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Turkey is a great source of protein, but the bread and other toppings add too many carbs to make this dish keto-friendly."
+    },
+    {
+        "1. dish name": "Turkey Full Rack 4.5oz Half 2oz",
+        "2. dish description": "",
+        "3. AI's answer on keto": "Yes, turkey is keto friendly. Turkey is a lean source of protein and is low in carbohydrates, making it a great choice for a keto diet."
+    },
+    {
+        "1. dish name": "Turkey Full Rack 4.5oz Half with a cup of soup",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Turkey is a lean protein, but the full rack 4.5oz half portion is likely to be high in carbohydrates due to the added sauces and seasonings. The cup of soup is also likely"
+    },
+    {
+        "1. dish name": "Chicken Sandwich",
+        "2. dish description": "Swiss cheese, avocado, sauteed kale and mustard on a sweet deli roll",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The sweet deli roll is high in carbohydrates, and the avocado and Swiss cheese are also high in carbohydrates. The saut\u00e9ed kale is a low-carb vegetable, but the overall dish is"
+    },
+    {
+        "1. dish name": "Hot Dog",
+        "2. dish description": "Beef frank served with sauerkraut",
+        "3. AI's answer on keto": "Yes, a hot dog can be keto friendly. Beef franks are a great source of healthy fats and protein, and sauerkraut is a low-carb vegetable."
+    },
+    {
+        "1. dish name": "Half and Half",
+        "2. dish description": "Ounces and 3 ounces, choose any two: pastrami, corned beef, turkey, roast beef, salami, chopped liver, egg salad",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. While some of the meats may be high in protein and healthy fats, the other ingredients such as egg salad and chopped liver are high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Pastrami Ruskie",
+        "2. dish description": "3 Ounces pastrami, coleslaw, roasted onions, swiss and russian on grilled acme rye",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Pastrami is high in carbohydrates, as is the Acme rye bread. The coleslaw and roasted onions also contain carbohydrates, making this dish not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Pastrami Alvarado",
+        "2. dish description": "3 Ounces pastrami, coleslaw, swiss and russian on warm acme rye",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Pastrami is high in carbohydrates, and the Acme rye bread is also high in carbohydrates. The coleslaw and Russian dressing also contain added sugars, which are not allowed on a keto"
+    },
+    {
+        "1. dish name": "Corned Beef and Kraut",
+        "2. dish description": "3 Ounces corned beef layered sauerkraut, swiss and russian on warm acme rye",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Corned beef is high in carbohydrates, and the rye bread and sauerkraut are also high in carbohydrates."
+    },
+    {
+        "1. dish name": "Roast Beef Royale",
+        "2. dish description": "3 Ounces bn ranch roast beef, lettuce, avocado, swiss, horseradish and mayonnaise on acme sourdough",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The roast beef is a good source of protein and healthy fats, but the sourdough bread, lettuce, avocado, swiss, horseradish and mayonnaise all contain carbohydrates which would make"
+    },
+    {
+        "1. dish name": "Saul's Dip",
+        "2. dish description": "4.5 ounces roast beef or 3 ounces pastrami, sweet pickled onions, swiss and chopped lettuce on a sweet deli roll. Served au jus",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The deli roll and sweet pickled onions are high in carbohydrates, making this dish not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Turkey Schmurky",
+        "2. dish description": "3 Ounces bn ranch turkey, lettuce, avocado, swiss, horseradish and mayonnaise on acme sourdough",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The turkey is a good source of protein, but the sourdough bread, mayonnaise, and horseradish all contain carbohydrates, making this dish too high in carbs for a keto diet"
+    },
+    {
+        "1. dish name": "Falafel Pita Sandwich",
+        "2. dish description": "Tahini, harissa, pickles and romaine. Served with mixed green salad",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Falafel is made from chickpeas, which are high in carbohydrates, and the pita bread is also high in carbohydrates. The tahini, harissa, pickles, and"
+    },
+    {
+        "1. dish name": "Eggplant Schnitzel",
+        "2. dish description": "Harissa, eggplant aioli, avocado, roasted peppers, roasted onion and arugula on a sweet deli roll",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Eggplant schnitzel is usually breaded and fried, which adds a lot of carbs. The sweet deli roll also adds a lot of carbs, as do the roasted peppers and onion"
+    },
+    {
+        "1. dish name": "Grass Fed Beef Burger",
+        "2. dish description": "Cooked just the way you like! On an acme roll with lettuce, tomato and onion. Served with fries",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The acme roll, lettuce, tomato, onion, and fries are all high-carb ingredients that would not fit into a keto diet."
+    },
+    {
+        "1. dish name": "BN Ranch Turkey Burger",
+        "2. dish description": "On an Acme roll with lettuce, tomato, onion and zhoug. Served with fries",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The Acme roll, fries, and zhoug all contain carbohydrates, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Reuben",
+        "2. dish description": "Your choice of corned beef, pastrami or turkey with swiss sauerkraut and russian on grilled acme rye. full 4.5 ounce",
+        "3. AI's answer on keto": "No, a Reuben is not keto friendly. The corned beef, pastrami, and turkey are all high in protein, but the Acme rye bread and sauerkraut are both high in carbohydrates, making this dish not"
+    },
+    {
+        "1. dish name": "Reuben",
+        "2. dish description": "Retro old style big 6oz",
+        "3. AI's answer on keto": "No, a Reuben is not keto friendly. It typically consists of corned beef, Swiss cheese, sauerkraut, and Thousand Island dressing, all of which are high in carbohydrates."
+    },
+    {
+        "1. dish name": "Reuben",
+        "2. dish description": "Half 2oz",
+        "3. AI's answer on keto": "No, a Reuben is not keto friendly. It is typically made with rye bread, which is high in carbohydrates, and contains other ingredients such as sauerkraut and Thousand Island dressing, which are also high in carbohydrates."
+    },
+    {
+        "1. dish name": "Reuben",
+        "2. dish description": "With with a cup of soup",
+        "3. AI's answer on keto": "No, a Reuben is not keto friendly. The sandwich is made with rye bread, which is high in carbohydrates, and the soup is likely to be high in carbohydrates as well."
+    },
+    {
+        "1. dish name": "Turkey Melt",
+        "2. dish description": "3 Ounces bn ranch turkey with mushrooms, swiss and harissa on grilled acme sourdough",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The Acme sourdough bread is high in carbohydrates, and the harissa sauce is also high in carbs."
+    },
+    {
+        "1. dish name": "Turkey Melt Half",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, the Turkey Melt Half is not keto friendly. This dish typically consists of turkey, cheese, and bread, which are all high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Turkey Melt Half with a Cup Soup",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Turkey Melt Half is usually served with bread, which is high in carbohydrates, and the cup of soup is likely to contain high-carb ingredients such as potatoes, beans, and other vegetables."
+    },
+    {
+        "1. dish name": "Tuna Melt Half",
+        "2. dish description": "Our oregon line caught albacore tuna salad grilled with cheddar or swiss on acme rye",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The tuna salad is likely high in carbohydrates due to the addition of mayonnaise, and the Acme rye bread is also high in carbohydrates."
+    },
+    {
+        "1. dish name": "Tuna Melt Half",
+        "2. dish description": "Our oregon line caught albacore tuna salad grilled with cheddar or swiss on acme half with cup of soup",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The tuna salad is likely made with mayonnaise, which is high in carbs, and the Acme half is a bread product, which is also high in carbs."
+    },
+    {
+        "1. dish name": "Patty Melt",
+        "2. dish description": "On grilled acme rye with cheese & sauteed onions, served with french fries or green salad",
+        "3. AI's answer on keto": "No, Patty Melt is not keto friendly. The acme rye bread and french fries are high in carbohydrates, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Grilled Cheese V",
+        "2. dish description": "Cheddar or swiss with a parmesan crust",
+        "3. AI's answer on keto": "No, grilled cheese is not keto friendly. The cheese and parmesan crust contain too many carbohydrates to be considered keto."
+    },
+    {
+        "1. dish name": "Corned Tongue Platter",
+        "2. dish description": "4.5 Ounces served open face with coleslaw, potato salad, two slices bread, capers, sumac onion, lettuce, horseradish, oil and vinegar",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Corned tongue is high in carbohydrates, and the potato salad, bread, and coleslaw are all high in carbohydrates as well. The oil and vinegar, capers, sumac onion,"
+    },
+    {
+        "1. dish name": "Corned Tongue Platter",
+        "2. dish description": "Half platter 2oz",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Corned tongue is high in carbohydrates, and the platter also includes potatoes, which are also high in carbohydrates."
+    },
+    {
+        "1. dish name": "Kid's French Toast",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, French toast is not keto friendly because it is made with bread, which is high in carbohydrates."
+    },
+    {
+        "1. dish name": "Kid's Pancake",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Kid's Pancake is not keto friendly. Pancakes are usually made with flour, which is high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "One Egg & Toast",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, One Egg & Toast is not keto friendly. Toast is made from grains, which are high in carbohydrates, and therefore not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Bagel & Butter",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Bagel & Butter is not keto friendly. Bagels are high in carbohydrates and contain very little protein or fat, making them not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Bagel & Cream Cheese",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Bagel & Cream Cheese is not keto friendly. Bagels are high in carbohydrates and contain very little protein or fat, making them not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Lox, Bagel & Cream Cheese",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Lox is a type of smoked salmon, which is high in protein and healthy fats, but the bagel and cream cheese are both high in carbohydrates, making this dish not suitable for a ket"
+    },
+    {
+        "1. dish name": "Cup of Fruit Salad",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, cup of fruit salad is not keto friendly. Fruits are high in natural sugars and carbohydrates, which can be difficult to fit into a keto diet."
+    },
+    {
+        "1. dish name": "Apple Sauce",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, apple sauce is not keto friendly. Apples are high in carbohydrates and sugar, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Just Turkey",
+        "2. dish description": "",
+        "3. AI's answer on keto": "Yes, turkey is keto friendly. Turkey is a lean source of protein and is low in carbohydrates, making it a great choice for a keto diet."
+    },
+    {
+        "1. dish name": "Just Sliced Cheese",
+        "2. dish description": "",
+        "3. AI's answer on keto": "Yes, sliced cheese can be part of a keto diet. Cheese is a great source of healthy fats and protein, and it is low in carbs."
+    },
+    {
+        "1. dish name": "Plain Noodles",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Plain Noodles are not keto friendly. Noodles are high in carbohydrates and are not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Parmesan Noodles",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Parmesan Noodles are not keto friendly. Noodles are typically made from wheat flour, which is high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Seasonal Veggies & Dip",
+        "2. dish description": "",
+        "3. AI's answer on keto": "Yes, this dish is keto friendly. Seasonal vegetables are typically low in carbohydrates and high in fiber, making them a great choice for a keto diet. The dip can also be keto friendly if it is made with healthy fats such"
+    },
+    {
+        "1. dish name": "Potato Salad",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Potato Salad is not keto friendly. Potatoes are high in carbohydrates, which can make it difficult to stay in ketosis."
+    },
+    {
+        "1. dish name": "Hot Dog",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, a hot dog is not keto friendly. Hot dogs are usually made with processed meats, which are high in carbohydrates and unhealthy fats. Additionally, they are usually served with a bun, which adds even more carbohydrates."
+    },
+    {
+        "1. dish name": "Peanut Butter & Jelly Sandwich",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Peanut Butter & Jelly Sandwich is not keto friendly. Peanut butter is high in carbohydrates and sugar, and jelly is also high in sugar, making this dish not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Mini Moo (Grilled Cheese) Half",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Mini Moo (Grilled Cheese) Half is not keto friendly. Grilled cheese is usually made with bread, which is high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Mini Moo (Grilled Cheese) Whole",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Mini Moo (Grilled Cheese) Whole is not keto friendly. Grilled cheese is typically made with bread, which is high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Half Turkey Sandwich",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, a half turkey sandwich is not keto friendly. Turkey is a lean protein, but the bread it is served on is high in carbohydrates, making it not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Half Egg Salad Sandwich",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Egg salad is high in carbohydrates due to the mayonnaise and bread used to make the sandwich."
+    },
+    {
+        "1. dish name": "Chicken of the Day",
+        "2. dish description": "",
+        "3. AI's answer on keto": "It depends on the preparation of the dish. If the chicken is served with a high-carb side dish such as mashed potatoes or pasta, then it would not be keto-friendly. However, if the chicken is served with a low"
+    },
+    {
+        "1. dish name": "Mashed Potatoes",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Mashed Potatoes are not keto friendly. Potatoes are high in carbohydrates, which can make them difficult to fit into a keto diet."
+    },
+    {
+        "1. dish name": "Falafel Salad & Pita",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Falafel Salad & Pita is not keto friendly. Falafel is made from chickpeas, which are high in carbohydrates, and pita bread is also high in carbohydrates."
+    },
+    {
+        "1. dish name": "Soup",
+        "2. dish description": "Matzo ball soup cup",
+        "3. AI's answer on keto": "No, Matzo ball soup is not keto friendly because matzo balls are made from wheat flour, which is high in carbohydrates."
+    },
+    {
+        "1. dish name": ".",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No dish was provided, so it is not possible to answer this question."
+    },
+    {
+        "1. dish name": "Sauls New York Cheesecake",
+        "2. dish description": "Baked in house and served with seasonal sauce",
+        "3. AI's answer on keto": "No, because cheesecake is high in carbohydrates and sugar, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Half and Slice",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Half and Slice is not keto friendly. Half and Slice is a type of pizza, which is typically made with a high-carb crust and topped with high-carb ingredients such as cheese, sauce, and vegetables. Therefore"
+    },
+    {
+        "1. dish name": "Carrot Cake",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Carrot Cake is not keto friendly. Carrots are high in carbohydrates, and the cake itself is usually made with flour, sugar, and other high-carb ingredients, making it unsuitable for a keto diet."
+    },
+    {
+        "1. dish name": "Chocolate Ganache",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Chocolate Ganache is not keto friendly. Chocolate is high in sugar and carbohydrates, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Roatating Puddings",
+        "2. dish description": "Tapioca, rice or butterstocth",
+        "3. AI's answer on keto": "No, because tapioca, rice and butterstocth are all high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Chocolate Pudding",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Chocolate Pudding is not keto friendly. Chocolate pudding is usually made with sugar and other high-carb ingredients, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Russian Tea",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Russian tea is not keto friendly. Russian tea is usually made with sugar, which is high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Black and White",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Black and White is not keto friendly. This dish is likely a dessert, which typically contains high amounts of sugar and carbohydrates, making it not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Macaroon",
+        "2. dish description": "Plain and choc dipped",
+        "3. AI's answer on keto": "No, macaroons are not keto friendly. Macaroons are made with sugar and flour, which are both high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Linzer",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Linzer is not keto friendly. Linzer is a type of pastry that is made with flour, sugar, and butter, which are all high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Pecan Bar",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Pecan Bar is not keto friendly. Pecans are high in carbohydrates and contain a lot of sugar, which makes them unsuitable for a keto diet."
+    },
+    {
+        "1. dish name": "Rugelach",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Rugelach is not keto friendly. Rugelach is a pastry made with flour, sugar, and butter, which are all high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Sugar Cookie",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Sugar Cookie is not keto friendly. Sugar is a high-carbohydrate food and is not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Brownie",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, brownies are not keto friendly. Brownies are typically made with high-carb ingredients such as flour, sugar, and chocolate, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Coffee",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, coffee is not keto friendly. Coffee itself does not contain any carbs, but many people add milk, cream, sugar, or other sweeteners to their coffee, which can add carbs to the beverage."
+    },
+    {
+        "1. dish name": "Cappuccino",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, cappuccino is not keto friendly. Cappuccino is made with espresso, steamed milk, and foam, all of which are high in carbohydrates."
+    },
+    {
+        "1. dish name": "Esrepsso",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, espresso is not keto friendly. Espresso is a high-caffeine beverage that contains very few calories and no fat, protein, or carbohydrates."
+    },
+    {
+        "1. dish name": "Latte",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Latte is not keto friendly. A latte is typically made with milk, which is high in carbohydrates and sugar."
+    },
+    {
+        "1. dish name": "Au Lait",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Au Lait is not keto friendly. Au Lait is a coffee-based drink that is usually made with milk and sugar, which are both high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Mocha",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Mocha is not keto friendly. Mocha typically contains high amounts of sugar and carbohydrates, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Small Hot Chocolate",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, a small hot chocolate is not keto friendly. Hot chocolate is usually made with milk, sugar, and cocoa powder, all of which are high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Large Hot Chocolate",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, a large hot chocolate is not keto friendly. Hot chocolate is typically made with milk, sugar, and cocoa powder, all of which are high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Steamed Strauss Darily Milk",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, steamed Strauss Darily Milk is not keto friendly. Dairy milk is high in carbohydrates and sugar, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "English Brefast",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, English breakfast is not keto friendly. English breakfast typically includes items such as bacon, sausage, eggs, toast, and beans, which are all high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Earl Gray",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Earl Gray is not keto friendly. Earl Gray is a type of tea that contains caffeine and sugar, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Green",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Green is too vague to determine if it is keto friendly. More information is needed to make an accurate assessment."
+    },
+    {
+        "1. dish name": "Chamomile",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Chamomile is not keto friendly. Chamomile is a type of herbal tea, which is high in carbohydrates and does not contain any healthy fats or proteins."
+    },
+    {
+        "1. dish name": "Mint",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, mint is not keto friendly. Mint is a high-carb food, containing about 8 grams of carbohydrates per serving."
+    },
+    {
+        "1. dish name": "Strasu Family Creamery Organci Ice Cream",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Ice cream is high in sugar and carbohydrates, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Signle Scoop",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Single Scoop is not keto friendly. Single scoop typically refers to a single scoop of ice cream, which is high in sugar and carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Double Scoop",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Double Scoop is not keto friendly. Double Scoop is usually a dessert that consists of two scoops of ice cream, which is high in sugar and carbohydrates."
+    },
+    {
+        "1. dish name": "Babka Sundae",
+        "2. dish description": "Banka with straus vanill ice cream, chocolate sauce and whipped cream",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Babka is a sweet bread that is high in carbohydrates, and the ice cream, chocolate sauce, and whipped cream are all high in sugar."
+    },
+    {
+        "1. dish name": "Sauls East Bay Mud",
+        "2. dish description": "House made brownie with strasu vanilla ice cream, chocolate sauce, whipped cream and toasted almonds",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Brownies are high in carbohydrates and sugar, and the ice cream, chocolate sauce, whipped cream and toasted almonds all add additional carbohydrates and sugar."
+    },
+    {
+        "1. dish name": "Our Sundae",
+        "2. dish description": "Two scoops of and whipped cream with a shot of esrepssp on the side",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Ice cream and whipped cream are high in sugar and carbohydrates, which are not allowed on a keto diet. The espresso shot may be low in carbs, but it is not enough to make this dish"
+    },
+    {
+        "1. dish name": "Classic Sarasaparila Floats",
+        "2. dish description": "Most popular made with cannmano bros, sasaparilla",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. The classic sarsaparilla floats are made with cane sugar syrup, which is high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Two Strictly Fresh Eggs",
+        "2. dish description": "Any style",
+        "3. AI's answer on keto": "Yes, two strictly fresh eggs can be part of a keto diet. Eggs are a great source of healthy fats and protein, and they are low in carbs."
+    },
+    {
+        "1. dish name": "Two Strictly Fresh Eggs",
+        "2. dish description": "With grilled niman ranch pastrami or sausage",
+        "3. AI's answer on keto": "Yes. Eggs are a great source of healthy fats and protein, and the grilled niman ranch pastrami or sausage is a low-carb option."
+    },
+    {
+        "1. dish name": "Eggs and Onions",
+        "2. dish description": "Scrambled eggs and onions",
+        "3. AI's answer on keto": "Yes. Eggs and onions are both low-carb foods, making them a great choice for a keto-friendly meal. Eggs are a great source of protein and healthy fats, while onions are a low-carb vegetable."
+    },
+    {
+        "1. dish name": "Leo",
+        "2. dish description": "The classic, lox eggs and onions",
+        "3. AI's answer on keto": "Yes. Lox is a great source of healthy fats and protein, and eggs and onions are both low-carb vegetables."
+    },
+    {
+        "1. dish name": "Peo",
+        "2. dish description": "Same as above sub 3 ounces pastrami",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Pastrami is high in carbohydrates and is not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Teo",
+        "2. dish description": "Same as above sub 3 ounce smoked trout",
+        "3. AI's answer on keto": "Yes. Smoked trout is a great source of healthy fats and protein, and when served without a bun, it can be part of a keto diet."
+    },
+    {
+        "1. dish name": "Plain Omelette",
+        "2. dish description": "Add $1.00 for each additiolan ingredient sauteed onions, mushrooms tomatoes or spinach. Add $1.50 for cheese swiss cheese, cheddar or feta, $2.75 for meat, pastrami or chicken apple sausage",
+        "3. AI's answer on keto": "Yes. Plain omelettes are a great keto-friendly option as they are high in protein and healthy fats. Adding additional ingredients such as sauteed vegetables, cheese, and meat can also make the omelette more keto-"
+    },
+    {
+        "1. dish name": "Sozzie's Deli Omelette",
+        "2. dish description": "With pastrami, corned beef and salami, served pancake style",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. While the meats are a good source of protein and healthy fats, the pancake style omelette is likely made with flour, which is high in carbohydrates and not suitable for a keto diet"
+    },
+    {
+        "1. dish name": "Salami & Eggs",
+        "2. dish description": "Scrambled eggs and salami",
+        "3. AI's answer on keto": "Yes. Salami is a great source of healthy fats and protein, and eggs are a low-carb food. This dish is a great option for a keto diet."
+    },
+    {
+        "1. dish name": "Kippers & Eggs",
+        "2. dish description": "Half kipper, two eggs any style and grilled onions",
+        "3. AI's answer on keto": "Yes. Kippers are a type of fish that is high in healthy fats and protein, and eggs are a great source of protein. The grilled onions are low in carbs, making this a keto-friendly dish."
+    },
+    {
+        "1. dish name": "Backyard Omelette",
+        "2. dish description": "Chef's choice of seasonal vegetables and cheese. Served with a mixed green salad",
+        "3. AI's answer on keto": "Yes. Omelettes are a great option for a keto diet, as they are high in protein and healthy fats. The vegetables and cheese provide additional nutrients, while the mixed green salad is a low-carb option."
+    },
+    {
+        "1. dish name": "Morning Salad",
+        "2. dish description": "Mixed greens, vinaigrette, 2 oz grilled pastrami, a soft poached egg, tomato and chive",
+        "3. AI's answer on keto": "Yes, this dish is keto friendly. The mixed greens and vinaigrette provide a low-carb base, while the pastrami and egg provide healthy fats and protein. The tomato and chive add flavor without adding too many carbs"
+    },
+    {
+        "1. dish name": "Morning Salad",
+        "2. dish description": "With smoked salmon",
+        "3. AI's answer on keto": "Yes. Smoked salmon is a great source of healthy fats and protein, and when combined with a low-carb vegetable like arugula, it can make a great keto-friendly meal."
+    },
+    {
+        "1. dish name": "With smoked trout",
+        "2. dish description": "",
+        "3. AI's answer on keto": "Yes, smoked trout is keto friendly. Trout is a great source of healthy fats and protein, and it is low in carbohydrates."
+    },
+    {
+        "1. dish name": "Morning Salad",
+        "2. dish description": "With kippered salmon",
+        "3. AI's answer on keto": "Yes, a morning salad with kippered salmon can be keto friendly. Kippered salmon is a great source of healthy fats and protein, and when combined with low-carb vegetables like lettuce, spinach, and cucumber, it can"
+    },
+    {
+        "1. dish name": "Morning Salad",
+        "2. dish description": "With sable",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Sable is a type of fish that is high in carbohydrates, which makes it unsuitable for a keto diet."
+    },
+    {
+        "1. dish name": "Shakshouka",
+        "2. dish description": "One egg baked in a rich spicy cumin tomato sauce, oregano and parsley. Served with potatoes, dipping bread and mixed green salad",
+        "3. AI's answer on keto": "No, Shakshouka is not keto friendly because potatoes and bread are high in carbohydrates."
+    },
+    {
+        "1. dish name": "Shakshouka",
+        "2. dish description": "With grilled salami",
+        "3. AI's answer on keto": "No, Shakshouka is not keto friendly because salami is high in carbohydrates and fat."
+    },
+    {
+        "1. dish name": "Smoked Salmon and Eggs",
+        "2. dish description": "Freshly sliced smoked salmon with lemon and capers, served with two eggs any style, choice of toast and a mixed green salad",
+        "3. AI's answer on keto": "Yes. Smoked salmon is a great source of healthy fats and protein, and eggs are a low-carb food. The toast and mixed green salad can be omitted to make the meal keto-friendly."
+    },
+    {
+        "1. dish name": "Smoked Salmon and Eggs",
+        "2. dish description": "With kippered salmon",
+        "3. AI's answer on keto": "Yes. Smoked salmon is a great source of healthy fats and protein, and eggs are a low-carb food. Kippered salmon is also a good source of healthy fats and protein."
+    },
+    {
+        "1. dish name": "Smoked Salmon and Eggs",
+        "2. dish description": "With sable",
+        "3. AI's answer on keto": "Yes, smoked salmon and eggs can be part of a keto diet. Salmon is a great source of healthy fats and protein, while eggs are a low-carb food. Sable is also low in carbs, making this dish a great ket"
+    },
+    {
+        "1. dish name": "Mrs. Anderman's Matzo Brei",
+        "2. dish description": "Fried matzo and eggs with a touch of sweet onions. Served with your choice of house made applesauce and sour cream or cinnamon and brown sugar.",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Matzo is a type of unleavened bread made from wheat flour, which is high in carbohydrates. The eggs and onions are keto-friendly, but the applesauce and sour cream"
+    },
+    {
+        "1. dish name": "Challah French Toast One",
+        "2. dish description": "Thick cut and famous",
+        "3. AI's answer on keto": "No, Challah French Toast is not keto friendly. Challah is a type of bread that is high in carbohydrates, making it not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Challah French Toast Two",
+        "2. dish description": "Thick cut and famous",
+        "3. AI's answer on keto": "No, Challah French Toast Two is not keto friendly. Challah bread is high in carbohydrates and sugar, making it not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Buttermilk Pancakes One",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Buttermilk Pancakes are not keto friendly. Pancakes are typically made with flour, which is high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Buttermilk Pancakes Three",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Buttermilk Pancakes Three are not keto friendly. Pancakes are high in carbohydrates and sugar, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Yeast Raised Waffle",
+        "2. dish description": "Served with maple syrup, additional side of maple syrup $2.00, with fresh fruit add $2.00, the works one egg and chicken apple sausage or house smoked pastrami add $5.25",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Yeast raised waffles are high in carbohydrates and sugar, and the additional toppings such as maple syrup and fresh fruit will add even more carbohydrates to the dish."
+    },
+    {
+        "1. dish name": "Waffle, Pancake or French Toast Special",
+        "2. dish description": "Whipped cream and your choice of pecans, walnuts or almonds with waffle",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. While the nuts are a good source of healthy fats, the waffle and whipped cream are high in carbohydrates and sugar, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Pancake",
+        "2. dish description": "With one ",
+        "3. AI's answer on keto": "No, pancakes are not keto friendly. Pancakes are usually made with flour, which is high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Pancake Three",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Pancake Three is not keto friendly. Pancakes are typically made with flour, sugar, and other high-carb ingredients, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "French Toast One",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, French Toast One is not keto friendly. French toast is typically made with bread, which is high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "French Toast Two",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, French Toast Two is not keto friendly. French toast is typically made with bread, which is high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Hot Whole Grain Cereal Cup",
+        "2. dish description": "Multi grain with natural brans and fibers. Choose two sides: warm milk, brown sugar, butter, dried fruit or almonds",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Whole grains are high in carbohydrates, and the sides offered are also high in carbohydrates, making this dish not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "Hot Whole Grain Cereal Bowl",
+        "2. dish description": "Multi grain with natural brans and fibers. Choose two sides: warm milk, brown sugar, butter, dried fruit or almonds",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Whole grains are high in carbohydrates, and the sides of warm milk, brown sugar, butter, dried fruit, and almonds all contain carbohydrates, making this dish not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "House made Granola Cup",
+        "2. dish description": "Served with greek yogurt seasonal fruit and honey",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Granola is high in carbohydrates, and the addition of greek yogurt, seasonal fruit, and honey make it even higher in carbs."
+    },
+    {
+        "1. dish name": "House made Granola Bowl",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Granola is typically high in carbohydrates, making it unsuitable for a keto diet."
+    },
+    {
+        "1. dish name": "Malawach Yemeni Pancake",
+        "2. dish description": "Fresh tomato, labne yogurt cheese, zhoug, harissa and a poached egg",
+        "3. AI's answer on keto": "No, this dish is not keto friendly. Malawach is a type of flatbread made with wheat flour, which is high in carbohydrates. Additionally, the labne yogurt cheese, zhoug, harissa and poached egg are all"
+    },
+    {
+        "1. dish name": "Malawach Yemeni Pancake",
+        "2. dish description": "With shawarma",
+        "3. AI's answer on keto": "No, Malawach Yemeni Pancake with shawarma is not keto friendly. Shawarma is usually made with a combination of meats, which are high in carbohydrates and fats. Additionally, the pancake itself is made with flour, which"
+    },
+    {
+        "1. dish name": "Eggs Benedict with Seasonal Vegetables",
+        "2. dish description": "Two poached eggs on toasted challah roll with hollandaise, fresh fruit and zataar labne yogurt cheese",
+        "3. AI's answer on keto": "No, Eggs Benedict with Seasonal Vegetables is not keto friendly. The challah roll and hollandaise sauce are high in carbohydrates, and the fresh fruit and zataar labne yogurt cheese are also high in sugar."
+    },
+    {
+        "1. dish name": "Eggs Benedict with Seasonal Vegetables",
+        "2. dish description": "With pastrami",
+        "3. AI's answer on keto": "No, Eggs Benedict with Seasonal Vegetables is not keto friendly. The pastrami is high in carbohydrates and the hollandaise sauce is also high in carbohydrates."
+    },
+    {
+        "1. dish name": "Eggs Benedict with Smoked Salmon",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Eggs Benedict with Smoked Salmon is not keto friendly. The eggs and smoked salmon are both good sources of protein and healthy fats, but the hollandaise sauce and English muffin are high in carbohydrates and not suitable for a"
+    },
+    {
+        "1. dish name": "A Cage Free Egg",
+        "2. dish description": "",
+        "3. AI's answer on keto": "Yes, a cage free egg is keto friendly. Eggs are a great source of healthy fats and protein, and they are low in carbs."
+    },
+    {
+        "1. dish name": "Organic Egg Whites",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, egg whites are not keto friendly. Egg whites are mostly protein and contain very little fat, which is an important macronutrient for a keto diet."
+    },
+    {
+        "1. dish name": "Potatoes or Latke",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, potatoes or latkes are not keto friendly. Potatoes are high in carbohydrates and should be avoided on a keto diet."
+    },
+    {
+        "1. dish name": "Toast",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, toast is not keto friendly. Toast is made from grains, which are high in carbohydrates and not suitable for a keto diet."
+    },
+    {
+        "1. dish name": "House Smoked Pastrami",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, House Smoked Pastrami is not keto friendly. Pastrami is usually made with cured and smoked beef, which is high in sodium and carbohydrates."
+    },
+    {
+        "1. dish name": "Grilled Chicken Apple Sausage",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Grilled Chicken Apple Sausage is not keto friendly. The apple in the sausage adds carbohydrates, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Fruit Salad",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, fruit salad is not keto friendly. Fruits are high in natural sugars and carbohydrates, which can be difficult to fit into a keto diet."
+    },
+    {
+        "1. dish name": "Warm Babka",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, Warm Babka is not keto friendly. Babka is a sweet bread that is high in carbohydrates and sugar, which are not allowed on a keto diet."
+    },
+    {
+        "1. dish name": "Blintz",
+        "2. dish description": "",
+        "3. AI's answer on keto": "No, blintz is not keto friendly. Blintzes are usually made with a crepe-like batter that is high in carbohydrates, making them not suitable for a keto diet."
     }
 ]

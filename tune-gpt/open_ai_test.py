@@ -6,8 +6,9 @@ import os
 import openai
 from dotenv import load_dotenv
 from pprint import pprint
-import ipdb
+# import ipdb
 import json
+from time import sleep
 
 load_dotenv()  # take environment variables from .env.
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -106,6 +107,7 @@ with open('sauls_menu.json', 'r') as fp:
 # ipdb> sauls_menu[0]
 # {'name': 'Hummus or Eggplant Appetizer', 'description': 'With tahini, parsley and pita'}
 for idx in range(len(sauls_menu)):
+    sleep(1)
     print(idx)
 
     dish_name = sauls_menu[idx]['name']
@@ -144,9 +146,9 @@ for idx in range(len(sauls_menu)):
             "2. dish description": dish_description,
             "3. AI's answer on keto": answer,
         })
-    #ipdb.set_trace()
-    #if idx > 3:
-    #    break
+    # ipdb.set_trace()
+    # if idx > 3:
+    #     break
 
 with open('sauls_keto_menu.json', 'w') as fp:
     json.dump(
