@@ -9,6 +9,11 @@ Two new situations
 - AI as a service - fine-tuning GPT-3 models
 - Programmatic labeling analysis as a service - Snorkle
 
+## Caveats
+
+
+This is for design thinking and use case exploration to spur innovation.
+
 ## TLDR
 
 If your AI feature is based on a text classification model, consider making a
