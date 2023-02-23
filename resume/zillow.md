@@ -14,11 +14,21 @@
 
 ## Zillow's eight values mapped to my mental model
 
-1. - [ ] Customers Are Our North Star - Avoid XY problem, question ROI on the customer
-2. - [ ] Turn On the Lights - Avoid XY problem, think big picture
-3. - [ ] Do the Right Thing - ethics
-4. - [ ] Own It - autonomy and accountability
-5. - [ ] Include and Empower - ???
-6. - [ ] Think Big, Move Fast -- choose low-hanging business fruit 
-7. - [ ] Deliver Quality on Time, Every Time -- hand-offs with low cognitive load 
-8. - [x] Better Together -- Interdependence
+Protocol for ROI judgement calls
+
+- [ ] Turn On the Lights - Avoid XY problem, think big picture
+- [ ] Customers Are Our North Star - Avoid XY problem, question ROI on the customer
+- [ ] Think Big, Move Fast -- choose low-hanging business fruit 
+
+
+Ethics at the individual level
+
+- [ ] Own It - autonomy and accountability
+- [ ] Do the Right Thing - ethics
+- [ ] Deliver Quality on Time, Every Time -- hand-offs with low cognitive load 
+
+
+Treat others with a balance of individualism and team work
+
+- [x] Include and Empower - fairness, diversity, individualism, no tyranny of the masses
+- [x] Better Together -- Interdependence, Team work
