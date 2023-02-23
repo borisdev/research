@@ -26,6 +26,10 @@ html = '''
     </html>
     '''
 
+
+output = []
+
+
 logger.add("sauls_menu.log", format="{time} {message}")
 with open("allmenus_sauls.html", "r") as f:
     sauls_html_page = f.read()
@@ -58,4 +62,9 @@ with open("allmenus_sauls.html", "r") as f:
                 description = description.replace("&amp;amp;", "&")
                 # print("name:", name)
                 # print("description:", description)
-                logger.debug(f"{name} {description}")
+                output.append({"name": name, "description": description})
+                # logger.debug(f"{name} {description}")
+
+
+with open('sauls_menu.json', 'w') as fp:
+    json.dump(output, fp)

@@ -1,0 +1,27 @@
+[
+    {
+        "1. dish_name": "Hummus or Eggplant Appetizer",
+        "2. dish_description": "With tahini, parsley and pita",
+        "3. answer": "No, hummus and eggplant appetizer is not keto friendly. While tahini and parsley are low-carb, the pita bread is not, and it would add too many carbs to the dish to make it keto friendly."
+    },
+    {
+        "1. dish_name": "Hummus with Mushrooms & Onions Appetizer",
+        "2. dish_description": "Hummus with caramelized onions, sauteed mushrooms,  parsley and pita",
+        "3. answer": "No, this dish is not keto friendly. Hummus is high in carbohydrates, and the pita bread adds even more carbs. The mushrooms and onions are low-carb, but not enough to make this dish keto-friendly."
+    },
+    {
+        "1. dish_name": "Labne Zataar Appetizer",
+        "2. dish_description": "With pine, nuts, olive oil and pita",
+        "3. answer": "No, this dish is not keto friendly. Labne Zataar contains pita, which is a high-carb food, as well as pine nuts and olive oil, which are both high in fat but also contain some carbohydrates."
+    },
+    {
+        "1. dish_name": "Falafel Platter",
+        "2. dish_description": "Hummus, tabouleh, babaganouj, tahini, feta, olives and pita with falafel balls and house made pickles",
+        "3. answer": "No, this dish is not keto friendly. While some of the components, such as hummus, tabouleh, babaganouj, tahini, feta, and olives are low in carbs, the pita and falafel balls are high in carbs and"
+    },
+    {
+        "1. dish_name": "Knish",
+        "2. dish_description": "Baked in a house made crust with chefs filling",
+        "3. answer": "No, a knish is not keto friendly. The crust is usually made with flour, which is high in carbohydrates, and the filling is usually made with potatoes, which are also high in carbohydrates."
+    }
+]
