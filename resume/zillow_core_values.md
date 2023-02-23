@@ -1,5 +1,11 @@
 # Zillow in a nutshell
 
+## References
+
+- [story](https://www.zillowgroup.com/about-us/story)
+- [values](https://www.zillow.com/careers/our-values/)
+
+
 ## Two phase history of product
 
 - Phase 1:  Zestimate real estate prediction valuation service. Customer Journey starts with the Home search.
