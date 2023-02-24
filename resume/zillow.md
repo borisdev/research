@@ -6,6 +6,16 @@
 - [values](https://www.zillow.com/careers/our-values/)
 
 
+## Distilling Zillow's 8 Core Values into three parts
+
+1. The view - Purpose - customer
+2. The practice - have an open state of mind - put on the light - use all information
+3. The conduct - two balancing trilemmas
+  a. balance - trilemna - speed, quality, ethics
+  b. balance - autonomy, interdependence, individuality 
+  
+
+
 ## Two phase history of product
 
 Customer journey starts with the Home search and ends with closing.

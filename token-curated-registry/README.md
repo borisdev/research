@@ -47,3 +47,9 @@ Monetization is through big food enterprise company's paying to get certified fo
 - [Kleros is a decentralized arbitration service for the disputes of the new economy.](https://kleros.io/)
 - Stake $ on your opinion/review
 - Build a reputation - write a defense
+
+
+## Shawn's notes
+
+- ask Berkeley restaurants: How much would you pay to have a dish labeled as "keto", "humane", "gluten free", etc??
+

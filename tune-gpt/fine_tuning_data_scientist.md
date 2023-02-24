@@ -1,3 +1,18 @@
+# Writing
+
+- [Write for Towards Data Science](https://towardsdatascience.com/questions-96667b06af5)
+- [Can You Co-Author a Medium Story?](https://medium.com/menlo-office/can-you-co-author-a-medium-story-6b7422e877ca)
+
+
+# Ideas
+
+- Domain Driven Design
+- The data science new role of the LLM fine-tuner will depend DDD.
+-
+
+
+
+
 # Use GPT-3 to jump start your AI text classifier, and save your company money
 
 - Rethinking the costs of developing an NLP AI classification feature: Speculating on the impact of GTP-3 and Snorkle

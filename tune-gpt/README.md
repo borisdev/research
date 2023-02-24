@@ -5,11 +5,21 @@
 pip install -r requirements.txt
 python open_ai_test.py
 ```
+# Mics ideas
 
+- Food match
+- Diet match
+- Dish score
+- Keto score
+- Your diet, your food
+- my food
+- Search for food that matches your special dietary requirements
+- Search for restaurants that matches your special dietary requirements
 
 # TODOs
 
-- [ ] [Menu's in Google Business Profile API](https://developers.google.com/my-business/reference/rest/v4/FoodMenus)
+- [ ] Lookup file of all grass-fed beef producers
+- [ ] Apply to affiliate programs (Re-apply to GrubHub)
 
 # Examples
 

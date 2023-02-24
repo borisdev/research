@@ -16,3 +16,6 @@
 ## References
 
 - [Prediction Markets in Cryptocurrency: A Beginner’s Guide](https://medium.com/geekculture/prediction-markets-in-cryptocurrency-a-beginners-guide-f113a0c824f7)
+- [DeFi Options Trading Is Powerful!](https://twitter.com/Panoptic_xyz/status/1628530117118169088)
+
+
