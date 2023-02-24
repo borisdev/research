@@ -1,6 +1,16 @@
-# Can a Token Curated Registry (TCR) certify food better than what exists?
+# foodcert.eth
 
-## References
+Will a decentralized food certifier be superior to the existing centralized food certifiers?
+
+A decentralized food certifier can be built using the concept of a Token Curated Registry (TCR).
+
+Applications, such as the dishscores.com (ketoscore) would use the certs to replace or correct AI predictions.
+
+Dishscores.com and other Dapps would be the interface by which people can both find certified dishes as well as challenge the certification.
+
+Monetization is through big food enterprise company's paying to get certified food, and thus raising the token price.
+
+## TCR References
 
 - Best, 20m read [Token-Curated Registries 1.0](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7)
 - Basic, 5m read [When Can Token Curated Registries Actually Work?](https://medium.com/@alex.tabarrok/when-can-token-curated-registries-actually-work-%C2%B9-2ad908653aaf)
