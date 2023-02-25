@@ -61,9 +61,8 @@ Customer journey starts with the Home search and ends with closing.
 ## Data scientists bespoke forecasting, analysis, and EDA for business decisions
 
 - tools: Snowflake and Looker, pre-canned SQL queries into models that make metrics....organize this
-- Boris's idea : use dtb,  [Setting up dbt, Connecting to Snowflake, and Creating Your First dbt Model](https://medium.com/learning-sql/setting-up-dbt-connecting-to-snowflake-and-creating-your-first-dbt-model-c0d5691b4200)
 
-# The business goal
+## Continuous improvement on Business goals
 
 - high conversion rates
 - predict high propensity to close contacts
@@ -71,7 +70,9 @@ Customer journey starts with the Home search and ends with closing.
 - track follow-up of agent
 - observability of customer experience on the site
 
-# Automation required to fulfill the new mission of the Analytics Team  
+## Depends on automation of analytics team processes
+
+## How analytics team fits into bigger picture of continuous improvement
 
 - Growth ie. Growth hacking experiments
 - Data driven product development, What's the next thing to make, What the smallest next intervention
@@ -82,6 +83,8 @@ Customer journey starts with the Home search and ends with closing.
   - what are product analysts looking for?
   - what are business analysts looking for?
 
+## Boris's ideas on implementation details
+
+- [Setting up dbt, Connecting to Snowflake, and Creating Your First dbt Model](https://medium.com/learning-sql/setting-up-dbt-connecting-to-snowflake-and-creating-your-first-dbt-model-c0d5691b4200)
 - MLFLow, Weights and Biases app: log changes, log rationales, log experimental results
 - version control analytics code, datasets, reproducibility
-
