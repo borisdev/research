@@ -16,3 +16,9 @@ challenge[2][3].
 - https://www.machinedesign.com/automation-iiot/article/21834328/inside-the-sikorsky-prizewinning-humanpowered-helicopter
 - https://www.cnn.com/2013/12/17/tech/innovation/ideas-aerovelo-human-power/index.html
 - https://interestingengineering.com/innovation/aerovelos-human-powered-helicopter-wins-250000-prize
+
+
+# Python
+
+- [Peter Lamut's blog](https://blog.peterlamut.com/)
+  - [How Python computes 2 + 5 under the hood (part 1)](https://blog.peterlamut.com/2018/02/04/how-python-computes-2-5-under-the-hood-part-1/)
