@@ -3,6 +3,7 @@
 - [Five whys](https://en.wikipedia.org/wiki/Five_whys)
 - [Six Myths of Product Development](https://hbr.org/2012/05/six-myths-of-product-development)
 - [Super Chicken - Margaret Heffernan TED Talk](https://www.youtube.com/watch?v=udiTaS2wTAM)
+- [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)
 
 ## Agile engineering to win the human powered helicopter flight challenge?
 
