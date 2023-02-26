@@ -9,41 +9,12 @@
 
 # Names
 
-
-- Dish 2 Diet
-- Dish to Diet
-- Dish Scores
+- Meal Score(s)
+- Dish Score(s)
+- Alpha Score(s)
+- Geo Score(s)
 - Keto Score
-- Diet to Dish
-- D2D.eth
 
-```
-Give me a list of potential app names for an app that matches prepared food to people's special diet needs.
-```
-
-```
-
-- DietMatch
-- MealMingle
-- CustomEats
-- FitFoodie
-- AllergyAlly
-- EatRight
-- DietDine
-- NutriMatch
-- SpecialSavvy
-- MyMealMate
-- CuisineComply
-- HealthyHelp
-- NutriNourish
-- SavorSafe
-- DietDuo
-- MealMate+
-- FoodFindr
-- FreshFit
-- SpecialBites
-- CleanCuisine
-```
 
 # TODOs
 
