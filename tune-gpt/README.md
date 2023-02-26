@@ -16,6 +16,45 @@ python open_ai_test.py
 - Search for food that matches your special dietary requirements
 - Search for restaurants that matches your special dietary requirements
 
+```
+Give me a list of potential app names for an app that matches prepared food to people's special diet needs.
+```
+
+```
+Sure! Here are some potential app names for an app that matches prepared food to people's special diet needs:
+
+DietMatch
+MealMingle
+CustomEats
+FitFoodie
+AllergyAlly
+EatRight
+DietDine
+NutriMatch
+SpecialSavvy
+MyMealMate
+CuisineComply
+HealthyHelp
+NutriNourish
+SavorSafe
+DietDuo
+MealMate+
+FoodFindr
+FreshFit
+SpecialBites
+CleanCuisine
+```
+
+Boris
+
+```
+Dish Scores
+Keto Score
+Dish Match
+Food Match
+
+```
+
 # TODOs
 
 - [ ] Lookup file of all grass-fed beef producers
