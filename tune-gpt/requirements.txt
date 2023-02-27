@@ -4,3 +4,4 @@ python-dotenv
 pyjwt
 scrapy
 loguru
+langchain
