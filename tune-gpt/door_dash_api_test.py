@@ -13,7 +13,7 @@ load_dotenv()  # take environment variables from .env.
 accessKey = {
     "developer_id": os.getenv("DOOR_DASH_DEVOPER_ID"),
     "key_id": os.getenv("DOOR_DASH_KEY_ID"),
-    "signing_secret": os.getenv("DOOR_DASH_SIGNING_SECRET")
+    "signing_secret": os.getenv("DOOR_DASH_SIGNING_SECRET"),
 }
 token = jwt.encode(
     {
@@ -25,6 +25,7 @@ token = jwt.encode(
     },
     jwt.utils.base64url_decode(accessKey["signing_secret"]),
     algorithm="HS256",
-    headers={"dd-ver": "DD-JWT-V1"})
+    headers={"dd-ver": "DD-JWT-V1"},
+)
 
 print(token)

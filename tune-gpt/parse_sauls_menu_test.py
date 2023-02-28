@@ -4,11 +4,12 @@ https://docs.scrapy.org/en/latest/topics/selectors.html
 from loguru import logger
 from scrapy.selector import Selector
 import json
+
 # from pprint import pprint
 # import ipdb
 
 
-html = '''
+html = """
     <!DOCTYPE html>
     <html lang="en">
 
@@ -24,7 +25,7 @@ html = '''
     <body>
     </body>
     </html>
-    '''
+    """
 
 
 output = []
@@ -33,27 +34,27 @@ output = []
 logger.add("sauls_menu.log", format="{time} {message}")
 with open("allmenus_sauls.html", "r") as f:
     sauls_html_page = f.read()
-    result = Selector(text=sauls_html_page).xpath('//script/text()').get()
+    result = Selector(text=sauls_html_page).xpath("//script/text()").get()
     result = result.strip().lstrip().replace("\n", "").replace(",}", "}")
     result = json.loads(result)
-    for menu in result['hasMenu']:
-        menu_name = menu['name']
+    for menu in result["hasMenu"]:
+        menu_name = menu["name"]
         # SKIP BREAKFAST FOR NOW
         # if menu_name.lower != "dinner":
         #    continue
-        menu_section = menu.get('hasMenuSection', False)
+        menu_section = menu.get("hasMenuSection", False)
         if not menu_section:
             continue
         for section in menu_section:
-            section_description = section['description']
-            menu_items = section.get('hasMenuItem', False)
+            section_description = section["description"]
+            menu_items = section.get("hasMenuItem", False)
             if not menu_items:
                 continue
             for item in menu_items:
                 # print("menu name:", menu_name)
                 # print("section description:", section_description)
-                name = item['name']
-                description = item['description']
+                name = item["name"]
+                description = item["description"]
                 name = name.replace("&amp;comma;", ",")
                 name = name.replace("&amp;amp;", "&")
                 name = name.replace("&#39;", "'")
@@ -66,5 +67,5 @@ with open("allmenus_sauls.html", "r") as f:
                 # logger.debug(f"{name} {description}")
 
 
-with open('sauls_menu.json', 'w') as fp:
+with open("sauls_menu.json", "w") as fp:
     json.dump(output, fp)

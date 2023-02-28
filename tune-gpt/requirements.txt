@@ -5,3 +5,6 @@ pyjwt
 scrapy
 loguru
 langchain
+# Developer tools
+black[jupyter]
+pynvim

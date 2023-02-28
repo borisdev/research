@@ -6,6 +6,7 @@ import os
 import openai
 from dotenv import load_dotenv
 from pprint import pprint
+
 # import ipdb
 import json
 from time import sleep
@@ -13,25 +14,9 @@ from time import sleep
 load_dotenv()  # take environment variables from .env.
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-response = openai.Completion.create(
-    model="text-davinci-003",
-    prompt="Say this is a test",
-    temperature=0,
-    max_tokens=7
-)
-
-pprint(response.to_dict_recursive)
-
-"""
-response = openai.Completion.create(
-    model="text-davinci-003",
-    prompt="Is salmon and arugula a keto dish?",
-    temperature=0,
-    max_tokens=40
-)
-pprint(response.to_dict_recursive)
-
-PROMPT = '''
+prompts = [
+    "Is salmon and arugula a keto dish?",
+    """
         Decide whether a dish is keto, and then give your rationale.
 
         Dish: salmon and argula
@@ -41,18 +26,8 @@ PROMPT = '''
         Dish: bagel and argula
         Keto:
         Rationale:
-        '''
-
-response = openai.Completion.create(
-    model="text-davinci-003",
-    prompt=PROMPT,
-    temperature=0,
-    max_tokens=40
-)
-pprint(response.to_dict_recursive)
-
-
-PROMPT = '''
+    """,
+    """
         Decide whether a dish is keto, and then give your rationale.
 
         Dish: salmon and argula
@@ -62,17 +37,8 @@ PROMPT = '''
         Dish: Grass-fed hamburger
         Keto:
         Rationale:
-        '''
-
-response = openai.Completion.create(
-    model="text-davinci-003",
-    prompt=PROMPT,
-    temperature=0,
-    max_tokens=40
-)
-pprint(response.to_dict_recursive)
-
-PROMPT = '''
+    """,
+    """
         Decide whether a dish is keto friendly, and then give your rationale.
 
         Dish: salmon and argula
@@ -89,71 +55,81 @@ PROMPT = '''
         Description: With tahini, parsley and pita
         Keto:
         Rationale:
-        '''
+    """,
+    """
+        Given a dish and its ingredients, list the ingredients that are substitutable and not
+        substitutable in the dish.
 
-response = openai.Completion.create(
-    model="text-davinci-003",
-    prompt=PROMPT,
-    temperature=0,
-    max_tokens=60
-)
-pprint(response.to_dict_recursive)
-"""
+        Dish: hamburger and fries
+        Ingredients: beef patty, bun, fries
+        Substitutable: bun, fries
+        Not substitutable: beef patty
 
-sauls_keto_menu = []
-with open('sauls_menu.json', 'r') as fp:
-    sauls_menu = json.load(fp)
+        Dish: fish and chips
+        Ingredients: Fish fillet, potatoes, oil for frying
+        Substitutable: potatoes
+        Not substitutable: Fish fillet, oil for frying
 
-# ipdb> sauls_menu[0]
-# {'name': 'Hummus or Eggplant Appetizer', 'description': 'With tahini, parsley and pita'}
-for idx in range(len(sauls_menu)):
-    sleep(1)
-    print(idx)
+        Dish: {dish}
+        Ingredients: {ingredients}
+        Substitutable:
+        Not substitutable:
+    """,
+]
 
-    dish_name = sauls_menu[idx]['name']
-    dish_description = sauls_menu[idx]['description']
+# FAILED EXPERIMENT --> What ingredients in the dish are removable?
 
-    PROMPT = f'''
-            Decide whether a dish is keto friendly, and then give your rationale.
+prompt = """
+        What ingredients in the dish can be subsituted out?
 
-            Dish: salmon and argula
-            Description:
-            Keto: yes
-            Rationale: Because salmon is a great source of healthy fats and protein, while arugula is a low-carb vegetable.
+        Dish: hamburger and fries
+        Ingredients: beef patty, bun, fries
+        Removable: bun, fries
 
-            Dish: Saul's Burger
-            Description: Grass-fed hamburger
-            Keto: yes
-            Rationale: a grass-fed hamburger can be part of a keto diet. Grass-fed beef is a great source of healthy fats and protein, and when served without a bun, it
+        Dish: fish and chips
+        Ingredients: Fish fillet, potatoes, oil for frying
+        Removable: potatoes
 
-            Dish: {dish_name}
-            Description: {dish_description}
-            Keto:
-            Rationale:
-            '''
+        Dish: Plain Pizza
+        Ingredients: bread, cheese, tomato sauce
+        Removable: none
 
+        Dish: {dish}
+        Ingredients: {ingredients}
+        Removable:
+        """
+
+
+class Meal:
+    def __init__(self, dish, ingredients):
+        self.dish = dish
+        self.ingredients = ingredients
+
+    def __repr__(self):
+        return f"meal(dish={self.dish}, ingredients={self.ingredients})"
+
+
+# split on AND
+
+meals = [
+    Meal("Cheese Pizza", "bread, cheese, tomato sauce"),
+    Meal("Chicken Parmesan", "chicken, bread, tomato sauce, cheese"),
+    Meal("Chicken and Waffles", "chicken, waffles, syrup"),
+    Meal("Hot dog", "hot dog, bun"),
+    Meal("Fries", "potatoes, oil for frying"),
+    Meal("Pizza", "bread, cheese, tomato sauce"),
+]
+
+for meal in meals:
     response = openai.Completion.create(
         model="text-davinci-003",
-        prompt=PROMPT,
+        prompt=prompt.format(dish=meal.dish, ingredients=meal.ingredients),
         temperature=0,
-        max_tokens=50
+        max_tokens=60,
     )
-    # pprint(response.to_dict_recursive)
-    answer = response.choices[0]['text'].strip()
-    sauls_keto_menu.append(
-        {
-            "1. dish name": dish_name,
-            "2. dish description": dish_description,
-            "3. AI's answer on keto": answer,
-        })
-    # ipdb.set_trace()
-    # if idx > 3:
-    #     break
+    answer = response.choices[0]["text"].strip()
 
-with open('sauls_keto_menu.json', 'w') as fp:
-    json.dump(
-        sauls_keto_menu,
-        fp,
-        sort_keys=True,
-        indent=4
-    )
+    print("=========")
+    print("dish:", meal.dish)
+    print("ingredients:", meal.ingredients)
+    print("answer:", answer)

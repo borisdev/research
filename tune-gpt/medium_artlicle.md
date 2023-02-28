@@ -8,9 +8,7 @@
 
 - Domain Driven Design
 - The data science new role of the LLM fine-tuner will depend DDD.
--
-
-
+- programatic labeling is like fine-tuning a LLM with prompt modification
 
 # Searched "Towards Data Science AND domain driven design"
 

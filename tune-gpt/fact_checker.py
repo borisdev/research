@@ -12,8 +12,10 @@ import sys
 from dotenv import load_dotenv
 import openai
 import os
+
 load_dotenv()  # take environment variables from .env.
 openai.api_key = os.getenv("OPENAI_API_KEY")
+
 
 def fact_check(question):
     llm = OpenAI(temperature=0.7)
@@ -33,16 +35,22 @@ def fact_check(question):
     prompt_template = PromptTemplate(input_variables=["assertions"], template=template)
     fact_checker_chain = LLMChain(llm=llm, prompt=prompt_template)
 
-    template = """In light of the above facts, how would you answer the question '{}'""".format(question)
+    template = """In light of the above facts, how would you answer the question '{}'""".format(
+        question
+    )
     template = """{facts}\n""" + template
     prompt_template = PromptTemplate(input_variables=["facts"], template=template)
     answer_chain = LLMChain(llm=llm, prompt=prompt_template)
 
-    overall_chain = SimpleSequentialChain(chains=[question_chain, assumptions_chain, fact_checker_chain, answer_chain], verbose=True)
+    overall_chain = SimpleSequentialChain(
+        chains=[question_chain, assumptions_chain, fact_checker_chain, answer_chain],
+        verbose=True,
+    )
 
     return overall_chain.run(question)
 
-if __name__=="__main__":
+
+if __name__ == "__main__":
     if len(sys.argv) > 1:
         question = sys.argv[1]
     else:

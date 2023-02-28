@@ -17,6 +17,12 @@
 - acyclical DAG and spatial W matric in a spatial regression
 - Geo-political institional factors as RCE (randomized control experiment, Pima Indians, Schools, Federated places)
 
+# Dissertation's Spatial inequality is another version of Simpson's Paradox 
+
+- both are aggregation problem where we looses information by aggregating across the key partitioning 
+- because the causal relationship happens within the partitioning
+
+
 # Bayes
 
 ChatGPT geometric proof
