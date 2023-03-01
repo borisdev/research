@@ -34,7 +34,7 @@ The technical reason it takes too much time to render is because the Vendor's DB
 of two types for 17s.
 
 The technical reason the developer/data scientists expends too much cognitive
-energy is because the data has not been modeled ad transformed in a manner that matches her
+energy is because the data has not been modeled and transformed in a manner that matches her
 mental model.
 
 
