@@ -151,9 +151,9 @@ of two types for 17s.
 5. How much do you pay for each query result?
 6. Is iterating fast to experiment with new features relating to new reports
    critical for the business? If so we can transform the data into a relation
-   DB, which might give you a powerful tool to accelerate development, ie. spit
-   out more reports with less cognitive load?
-7. Is latency a factor, if so a DB will additionally, allow you to filter data
+   DB (or non-relational), which might give you a powerful tool to accelerate
+   development, ie. More analytic experiments with less cognitive load.
+7. Is latency a factor, if so a DB will additionally act like a cache, and allow you to filter data
    using a narrow time filter to www.indexing.co to speed things up a lot ie.
    you just need to query the vendor API for the most recent blocks? At the
    same, maybe having the user wait 10s is not such a big deal, and less of an
