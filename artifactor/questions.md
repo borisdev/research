@@ -141,3 +141,16 @@ payload is a list of 4000 tokens
    }
 ]
 ```
+
+questions 
+
+- can we break down the meaning of this togther?
+- what is the response to the above query?
+- does the DB allow you to cache results?
+- how much do you pay for each query result?
+
+At first glance it, I am wondering if you should save all the data to your own
+DB so you cann use a narrow time filter to speed things up a lot ie. just need to query the vendor API for the most recent blocks?
+
+At the same, maybe having the use wait 10s is not such a big deal, and less of
+an issue or business cost than adding a new DB? 
