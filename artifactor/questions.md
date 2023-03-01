@@ -154,21 +154,21 @@ mental model.
 
 1. Can we break down the meaning of this above query together?
 2. What is the response to the above query?
-3. Can I get a smaller query to play with?
+3. Can I get a smaller query to play with? I want to play around with a smaller
+   version of the second query. I wonder if you can set me up with the same sort
+   of env but with a smaller artists?
 4. Does the DB allow you to cache results?
 5. How much do you pay for each query result?
 6. Is iterating fast to experiment with new features relating to new reports
-   critical for the business? If so we can transform the data into a relation
-   DB (or non-relational), which might give you a powerful tool to accelerate
+   critical for the business? If so we can transform the data into a relation DB
+   (or non-relational), which might give you a powerful tool to accelerate
    development, ie. More analytic experiments with less cognitive load.
-7. Is latency a factor, if so a DB will additionally act like a cache, and allow you to filter data
-   using a narrow time filter to www.indexing.co to speed things up a lot ie.
-   you just need to query the vendor API for the most recent blocks? At the
-   same, maybe having the user wait 10s is not such a big deal, and less of an
-   issue or business cost than adding a new DB? 
-8. I want to play around with a smaller version of the second query. I wonder if
-   you can set me up with the same sort of env but with a smaller artists?
-9. Perhaps you can send the query to www.indexing.co customer service?
+7. Is latency a factor, if so a DB will additionally act like a cache, and allow
+   you to filter data using a narrow time filter to www.indexing.co to speed
+   things up a lot ie. you just need to query the vendor API for the most recent
+   blocks? At the same, maybe having the user wait 10s is not such a big deal,
+   and less of an issue or business cost than adding a new DB? 
+8. Perhaps you can send the query to www.indexing.co customer service?
 
 ## TODOs for me
 
