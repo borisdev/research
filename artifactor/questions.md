@@ -9,7 +9,7 @@ Source text: [Artifactor Labs on LinkedIn](https://www.linkedin.com/company/arti
 
 ## High-level product questions
 
-1. After the user connects with a MetaMask wallet what do people spend their tokens for?
+1. After the artist-creator user connects with a MetaMask wallet what would she spend her tokens on in your app?
 2. Who is the main customer the artist or the collector?
 3. Is the main goal of our current project NFT transaction analytics for the creators of the NFT?
 4. What are examples of different platforms that you "build strong relationships
