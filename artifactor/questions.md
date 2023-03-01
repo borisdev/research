@@ -24,10 +24,18 @@ The objective of this product feature is to show an NFT artists all her collecto
 
 This [vercel dashboard](https://mvp-git-boris-demo-artifactor.vercel.app/dashboard) is a report to one NFT artist displaying the collector's of her NFT art works.
 
-Your problem for Ari is that to create this report takes too much time. 
+I see two potential problems.
 
-The reason it takes too much time is because the Vendor's DB works on 5 queries
+1. The user waits too much time to see the report (table).
+2. The developer/data scientist expends too much cognitive energy to experiment with new
+   analytic features.
+
+The technical reason it takes too much time to render is because the Vendor's DB works on 5 queries
 of two types for 17s.
+
+The technical reason the developer/data scientists expends too much cognitive
+energy is because the data has not been modeled ad transformed in a manner that matches her
+mental model.
 
 
 ## query `ArtistTokens` 
