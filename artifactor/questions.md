@@ -7,39 +7,35 @@ Source text: [Artifactor Labs on LinkedIn](https://www.linkedin.com/company/arti
 - "build strong relationships across platforms"
 - "a suite of engagement and discovery tools engagement and discovery tools"
 
-# Questions
+## High-level product questions
 
-- After the user connects with a MetaMask wallet what do people spend their tokens for?
-- Who is the main customer the artist or the collector?
-- Is the main goal of our current project NFT transaction analytics for the creators of the NFT?
-- What are examples of different platforms that you "build strong relationships
+1. After the user connects with a MetaMask wallet what do people spend their tokens for?
+2. Who is the main customer the artist or the collector?
+3. Is the main goal of our current project NFT transaction analytics for the creators of the NFT?
+4. What are examples of different platforms that you "build strong relationships
   across"?
-- What are examples of the product's discovery tool?
-- What are examples of the product's engagement tool?
+5. What are examples of the product's discovery tool?
+6. What are examples of the product's engagement tool?
 
 
+## Defining the problem
+
+The objective of this product feature is to show an NFT artists all her collectors.
+
+This [vercel dashboard](https://mvp-git-boris-demo-artifactor.vercel.app/dashboard) is a report to one NFT artist displaying the collector's of her NFT art works.
+
+Your problem for Ari is that to create this report takes too much time. 
+
+The reason it takes too much time is because the Vendor's DB works on 5 queries
+of two types for 17s.
 
 
-Objective: Get all the collectors of the NFT artist
-- get all the NFT tokens of the NFT artist
-- for each NFT token and generate a query to pull all of its transactions. 
-- Q2: Get all the collectors of each NFT token
+## query `ArtistTokens` 
 
-This [vercel dashboard](https://mvp-git-boris-demo-artifactor.vercel.app/dashboard) is a report to one NFT artist on who are the collector's of his many NFT works.
+- duration: 10s
+- description: given an artists public ethereum key get all her created NFT tokens [10s = pagination 4 x 2.5] 
 
-Your problem is that to create this report takes too much time? 17s?
-
-Your approach is as follows.
-
-
-queries 
-
-`ArtistTokens` 
-
-10s - 
-given an artists public ethereum key get all her created NFT tokens [10s = pagination 4 x 2.5] 
-
-Request
+**Request**
 
 ```
 {
@@ -53,15 +49,19 @@ Request
    "operationName":"ArtistToken"
 }
 ```
-Response
+
+**Response**
+
+?
 
 
+## query `NFTTransfers` 
 
-`NFTTransfers` 
+- duration: 7s
+- description: ?
+- payload is a list of 4000 tokens
 
-7s
-
-payload is a list of 4000 tokens
+**Request**
 
 ```
 [
@@ -142,15 +142,25 @@ payload is a list of 4000 tokens
 ]
 ```
 
-questions 
+## Technical questions 
 
-- can we break down the meaning of this togther?
-- what is the response to the above query?
-- does the DB allow you to cache results?
-- how much do you pay for each query result?
+1. Can we break down the meaning of this above query together?
+2. What is the response to the above query?
+3. Can I get a smaller query to play with?
+4. Does the DB allow you to cache results?
+5. How much do you pay for each query result?
+
+## Some thoughts 
 
 At first glance it, I am wondering if you should save all the data to your own
-DB so you cann use a narrow time filter to speed things up a lot ie. just need to query the vendor API for the most recent blocks?
+DB so then you only need to fetch a small amount of data using a narrow time filter to speed things up a lot ie. just need to query the vendor API for the most recent blocks?
 
-At the same, maybe having the use wait 10s is not such a big deal, and less of
+At the same, maybe having the user wait 10s is not such a big deal, and less of
 an issue or business cost than adding a new DB? 
+
+I still have not worked out how to optimize the query or the logic.
+
+I want to play around with a smaller version of the second query and then think
+through the logic and see if we can find low hanging fruit changes.
+
+Perhaps you can send the query to their customer service?
