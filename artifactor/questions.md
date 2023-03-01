@@ -149,18 +149,21 @@ of two types for 17s.
 3. Can I get a smaller query to play with?
 4. Does the DB allow you to cache results?
 5. How much do you pay for each query result?
+6. Is iterating fast to experiment with new features relating to new reports
+   critical for the business? If so we can transform the data into a relation
+   DB, which might give you a powerful tool to accelerate development, ie. spit
+   out more reports with less cognitive load?
+7. Is latency a factor, if so a DB will additionally, allow you to filter data
+   using a narrow time filter to www.indexing.co to speed things up a lot ie.
+   you just need to query the vendor API for the most recent blocks? At the
+   same, maybe having the user wait 10s is not such a big deal, and less of an
+   issue or business cost than adding a new DB? 
+8. I want to play around with a smaller version of the second query. I wonder if
+   you can set me up with the same sort of env but with a smaller artists?
+9. Perhaps you can send the query to www.indexing.co customer service?
 
-## Some thoughts 
+## TODOs for me
 
-At first glance it, I am wondering if you should save all the data to your own
-DB so then you only need to fetch a small amount of data using a narrow time filter to speed things up a lot ie. just need to query the vendor API for the most recent blocks?
-
-At the same, maybe having the user wait 10s is not such a big deal, and less of
-an issue or business cost than adding a new DB? 
-
-I still have not worked out how to optimize the query or the logic.
-
-I want to play around with a smaller version of the second query and then think
-through the logic and see if we can find low hanging fruit changes.
-
-Perhaps you can send the query to their customer service?
+- [ ] I still have not worked out how to optimize the query or the logic.
+- [ ] I still need to make a domain model of the data ie. understand your mental
+  model of all the data and relationships and what is the most relevant stuff

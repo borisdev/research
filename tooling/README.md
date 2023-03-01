@@ -1,9 +1,22 @@
 ## Tooling to research
 
+## Priority tools
+
+- [ ] [GitHub Pages](https://docs.github.com/en/pages/quickstart)
+- [ ] [DoWhy is a Python library for causal inference](https://github.com/py-why/dowhy)
+- [ ] [MLFLow](https://github.com/mlflow/mlflow) [Start](https://mlflow.org/docs/latest/quickstart.html)
+
+
+### Dev tools
+
+- [ ] [Warp AI Terminal](https://www.warp.dev/)
+- [ ] Codex 
+
+
+### Technologist tools
+
 - [ ] [GitHub Pages](https://docs.github.com/en/pages/quickstart)
 - [ ] Twitter newspaper without ads
-- [ ] [DoWhy is a Python library for causal inference](https://github.com/py-why/dowhy)
-- [ ] Codex 
 - [ ] GraphGPT and DAG
 - [ ] Snorkle Flow
 - [ ] Obsidian
@@ -19,7 +32,6 @@
   - [Data Science Ideas With Excalidraw](https://towardsdatascience.com/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c)
   - [Excalidraw Libraries](https://libraries.excalidraw.com/?theme=light&sort=default)
 - [ ] [Research Faster with Rose](https://rose.ai/)
-- [ ] [MLFLow](https://github.com/mlflow/mlflow) [Start](https://mlflow.org/docs/latest/quickstart.html)
 
 
 
