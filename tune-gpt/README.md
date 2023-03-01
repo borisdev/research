@@ -1,5 +1,19 @@
 # Fine-tune GPT
 
+
+[Boris labeled Saul's menu as keto](https://docs.google.com/spreadsheets/d/17y8m5SHEQEgGIT9oIT7wgaZf3awpnnzao-ajDgxuiM4/edit?usp=sharing)
+
+
+# A chain three AI prompts and two computes
+
+- compute final formula = percentage of calories from healthy fats of plated items - percent from high glycemic carbs
+- query AI nutritional breakdown - get calories of each item, fat of each item, carbs of each item
+- compute list of plated non carb meal items = initial meal - removed high carb meal items
+- query AI what is removable as a list
+- query AI get all items on plate as a list
+
+
+
 ## Mission
 
 - Your diet, your food
@@ -10,6 +24,7 @@
 # Ideas 
 
 - Train a model for each customer using [Steamship](https://medium.com/steamship/steamship-heroku-for-language-ai-9c7dd70cd25a)
+
 # Names
 
 - Meal Score(s)
