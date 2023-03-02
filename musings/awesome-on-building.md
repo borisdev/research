@@ -18,6 +18,10 @@ challenge[2][3].
 - https://www.cnn.com/2013/12/17/tech/innovation/ideas-aerovelo-human-power/index.html
 - https://interestingengineering.com/innovation/aerovelos-human-powered-helicopter-wins-250000-prize
 
+# Interesting readings
+
+- [Are You Solving the Right Problem?](https://hbr.org/2012/09/are-you-solving-the-right-problem)
+
 
 # Python
 
