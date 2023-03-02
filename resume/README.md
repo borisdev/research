@@ -6,6 +6,6 @@
 
 # Build
 
-```
+```console
 pandoc resume.md -s -o resume.pdf
 ```
