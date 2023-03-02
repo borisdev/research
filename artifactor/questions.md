@@ -47,7 +47,39 @@ mental model.
 
 ```
 {
-   "query":"query ArtistToken($artistAddressSet: [String!], $artistAddress: String, $after: String, $tokenId: String, $contractAddress: String) {\n  artistTokens(\n    filters: {artistAddressSet: $artistAddressSet, artistAddress: $artistAddress, tokenId: $tokenId, contractAddress: $contractAddress}\n    pagination: {after: $after, limit: 1000}\n  ) {\n    tokenId\n    contractAddress\n    projectName\n    artistAddress\n    platform\n    chain\n    owners {\n      owner\n      tokenId\n      balance\n    }\n    metadata {\n      name\n      description\n      image\n    }\n    _cursor\n  }\n}",
+   "query":"query 
+        ArtistToken(
+            $artistAddressSet: [String!], 
+            $artistAddress: String, 
+            $after: String, 
+            $tokenId: String, 
+            $contractAddress: String) 
+            {\n  artistTokens(
+                \n    filters: {
+                    artistAddressSet: $artistAddressSet,
+                    artistAddress: $artistAddress, 
+                    tokenId: $tokenId, 
+                    contractAddress: $contractAddress}
+                    \n    
+                    pagination: {after: $after, limit: 1000}\n  ) 
+                    {\n    
+                        tokenId\n    
+                        contractAddress\n    
+                        projectName\n    
+                        artistAddress\n    
+                        platform\n    
+                        chain\n    
+                        owners {\n      
+                            owner\n      
+                            tokenId\n      
+                            balance\n}
+                            \n    
+                            metadata {
+                                \n
+                                name\n      
+                                description\n      
+                                image\n    }
+                                \n    _cursor\n  }\n}",
    "variables":{
       "artistAddressSet":[
          "0x7d42611012FDbE366Bf4A0481FC0E1aBf15E245A"
