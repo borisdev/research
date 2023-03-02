@@ -12,6 +12,16 @@
 - [ ] [Warp AI Terminal](https://www.warp.dev/)
 - [ ] Codex 
 
+### Libraries 
+
+- [ ] dbt (SQL)
+- [ ] airflow
+- [ ] snowflake
+- [ ] pyramid over django
+- [ ] dramatiq over celery
+- [ ] timescaleDB
+- [ ] Svelte over React
+- [ ] [fast.ai](https://www.fast.ai/)
 
 ### Technologist tools
 
@@ -20,14 +30,7 @@
 - [ ] GraphGPT and DAG
 - [ ] Snorkle Flow
 - [ ] [Sketch: A Promising AI Library to Help With Pandas Dataframes Directly in Jupyter](https://towardsdatascience.com/sketch-a-promising-ai-library-to-help-with-pandas-dataframes-directly-in-jupyter-5162c32c66ef)
-- [ ] dbt (SQL)
-- [ ] airflow
-- [ ] snowflake
-- [ ] pyramid over django
-- [ ] dramatiq over celery
-- [ ] timescaleDB
-- [ ] Svelte over React
-- [ ] https://excalidraw.com/ 
+- [ ] [Excalidraw](https://excalidraw.com/)
   - [Data Science Ideas With Excalidraw](https://towardsdatascience.com/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c)
   - [Excalidraw Libraries](https://libraries.excalidraw.com/?theme=light&sort=default)
 - [ ] [Research Faster with Rose](https://rose.ai/)

@@ -1,6 +1,0 @@
-# Pre-requisites: Jupyter Notebook and PostgreSQL
-# brew install postgresql
-jupyterlab
-ipython-sql
-sqlalchemy
-psycopg2
