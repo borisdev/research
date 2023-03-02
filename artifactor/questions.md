@@ -170,6 +170,19 @@ mental model.
    and less of an issue or business cost than adding a new DB? 
 8. Perhaps you can send the query to www.indexing.co customer service?
 
+## Just curious, more questions on AI
+
+Would your users ever be interested in asking these style of questions using an
+AI prompt:
+
+9. List my top 10 fans by money they spent on my NFTs?
+10. What are my most profitable collections?
+11. Plot how much money I made on this NFT since I created it?
+
+
+The above would also require store the data in a special structure outside of
+your indexer service.
+
 ## TODOs for me
 
 - [ ] I still have not worked out how to optimize the query or the logic.
