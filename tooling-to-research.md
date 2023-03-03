@@ -35,6 +35,11 @@
   - [Excalidraw Libraries](https://libraries.excalidraw.com/?theme=light&sort=default)
 - [ ] [Research Faster with Rose](https://rose.ai/)
 
+# Python
+
+- [Peter Lamut's blog](https://blog.peterlamut.com/)
+  - [How Python computes 2 + 5 under the hood (part 1)](https://blog.peterlamut.com/2018/02/04/how-python-computes-2-5-under-the-hood-part-1/)
+
 
 # Done 
 

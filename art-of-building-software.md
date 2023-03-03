@@ -1,4 +1,24 @@
-# S.O.L.I.D
+# Awesome
+
+- [Five whys](https://en.wikipedia.org/wiki/Five_whys)
+- [Six Myths of Product Development](https://hbr.org/2012/05/six-myths-of-product-development)
+- [Super Chicken - Margaret Heffernan TED Talk](https://www.youtube.com/watch?v=udiTaS2wTAM)
+- [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)
+
+## Agile engineering to win the human powered helicopter flight challenge?
+
+The whole helicopter was built like a house of cards, so when one
+thing went wrong, the entire thing fell apart[2]. AeroVelo Inc. used agile
+engineering to design parts that could easily be put back together after
+breaking[2]. This helped them win the human-powered helicopter flight
+challenge[2][3].
+
+
+- https://www.machinedesign.com/automation-iiot/article/21834328/inside-the-sikorsky-prizewinning-humanpowered-helicopter
+- https://www.cnn.com/2013/12/17/tech/innovation/ideas-aerovelo-human-power/index.html
+- https://interestingengineering.com/innovation/aerovelos-human-powered-helicopter-wins-250000-prize
+
+# My take on S.O.L.I.D principles
 
 - Single-responsibility principle - no stepping on toes when fixing two issues
 - Open–closed - OO inheritance and composition mixins
@@ -98,3 +118,47 @@ Python tools for doing this:
 [Reasons to Follow the Interface Segregation Principle](https://reflectoring.io/interface-segregation-principle/)
 
 #### Dependency inversion principle - swap out low level services by using an interface layer
+
+# Interesting readings
+
+- [Are You Solving the Right Problem?](https://hbr.org/2012/09/are-you-solving-the-right-problem)
+
+# cognitive load theory and making software
+
+- extraneous cognitive load versus other types
+- confusing extraneous cognitive load for intrinsic load to learn
+- naming to reduce
+- interface to reduce
+- always putting our fire, can't make the design leap
+- hidden scripts
+- layers of abstraction that obfuscate 
+- No reward for tiny actions to reduce load versus being system debugging hero
+- Design documentation
+- Communication with same language
+- The "craft" of software
+
+
+# Data side versus algorithm side 
+
+
+- finding alpha - economic value from re-conceptualizing what the data means
+- risky (engineering) versus frisky (data side)
+- represent info value via data structure - simplification 
+- enormous cognitive load up front to reduce long term load ...the sorting for BIG O problem for the human brain... 
+- ROI
+- Data design to reduce cognitive load and scale humans
+- A computational model of human cognitive load
+
+## References 
+
+- Cognitive load during problem solving: Effects on learning
+- Cognitive load measurement as a means to advance cognitive load theory
+- Cognitive load while learning to use a computer program
+- Evidence for cognitive load theory
+
+## The dilemma 
+
+- questioning will come at the cost of the perception of execution speed at the
+  benefit of avoiding the XY problem and making a Rube Goldeberg machine -- this
+  will be hard without circumventing the conventional hierarchy that instills
+  fear to keep the perception of execution speeds high.
