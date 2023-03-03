@@ -49,17 +49,17 @@ flowchart TB
 - [ ] Customers Are Our North Star - Avoid XY problem, question ROI on the customer
 - [ ] Turn On the Lights - Information to Avoid waste. XY problem, think big picture
 
-#### Balance speed and quality and whats right -- tri-lemma
+#### Trilemma: Balance speed, quality and whats right (ethics)
 
 - [ ] Think Big, Move Fast -- choose low-hanging business fruit 
 - [ ] Do the Right Thing - ethics
 - [ ] Deliver Quality on Time, Every Time -- balance speed and quality for customer 
 
 
-#### Balance of individualism and team work
+#### Trilemma: Balance of autonomy, team work, and individualism (diversity)
 
-- [x] Include and Empower - fairness, diversity, individualism, no tyranny of the masses
-- [x] Better Together -- Interdependence, Team work
+- [ ] Include and Empower - fairness, diversity, individualism, no tyranny of the masses
+- [ ] Better Together -- Interdependence, Team work
 - [ ] Own It - autonomy and accountability
 
 ### Leadership guide
