@@ -29,8 +29,8 @@ Customer journey starts with the Home search and ends with closing.
 flowchart TB
     V(("View <br> '1. Customers are our North Star'"))-- customer problem -->P(("Practice (pause) <br> '2. Turn on the lights'"))
     P-- knowledge -->C(("Balanced Conduct"))
-    C-- balance -->T(("Team <br> How socially?"))
-    C-- balance -->W(("Work <br> What action?"))
+    C-- balance -->T(("Team <br> How do we work together?"))
+    C-- balance -->W(("Work <br> What action do we take?"))
     T-- balance -->ID(("3. Interdependence"))
     T-- balance -->A(("4. Autonomy"))
     T-- balance -->I(("5. Individuality"))
