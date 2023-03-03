@@ -17,11 +17,13 @@ Customer journey starts with the Home search and ends with closing.
 
 ### Distilling Zillow's eight core values into three parts
 
+The below three way split was inspired Buddhism.
+
 1. The View - Purpose - customer
 2. The Practice - have an open state of mind - put on the light - use all information
 3. The Conduct - two balancing trilemmas
-    a. balance - trilemna - speed, quality, ethics
-    b. balance - autonomy, interdependence, individuality 
+    a. trilemma to balance -> speed, quality, ethics
+    b. trilemma to balance -> autonomy, interdependence, individuality 
   
 ### Distilling Zillow's eight core values into a flow chart diagram
 
