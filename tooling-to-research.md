@@ -1,5 +1,10 @@
 ## Tooling to research
 
+## Critical tools
+
+- [ ] [Summ: Transcript Search and Summarization](https://www.markiewagner.com/summ)
+- [ ] [langchain](https://github.com/hwchase17/langchain)
+
 ## Priority tools
 
 - [ ] [GitHub Pages](https://docs.github.com/en/pages/quickstart)
