@@ -18,7 +18,9 @@ challenge[2][3].
 - https://www.cnn.com/2013/12/17/tech/innovation/ideas-aerovelo-human-power/index.html
 - https://interestingengineering.com/innovation/aerovelos-human-powered-helicopter-wins-250000-prize
 
-# My take on S.O.L.I.D principles
+## My take on S.O.L.I.D principles
+
+### S.O.L.I.D principles  
 
 - Single-responsibility principle - no stepping on toes when fixing two issues
 - Open–closed - OO inheritance and composition mixins
@@ -26,9 +28,15 @@ challenge[2][3].
 - Interface segregation principle (ISP)
 - Dependency inversion principle
 
-# Alternatives
+### Distilling S.O.L.I.D down to "interface design principles'
 
-## Boris's - assume future failure will need CI, so reduce extraneous cognitive load for CI 
+Design your interface for a near future of continuous improvement 
+
+Assume future failure that will need continuous improvement (CI), so upfront invest in reducing the growth of extraneous cognitive load so you have a clear road to the anticipated CI ...."its not the distance, its the pebble in your shoe" 
+
+Christopher Alexander "A Pattern Language" on Interface
+
+Principles of good interface design
 
 - Interface layer - CI design
   - Stable - Liskov substitution - (generalize customer interaction) - Mix and Match
@@ -41,11 +49,11 @@ No-technical synonyms
 
 Mix and Match - Creativity space and the cost of execution speed - Counter factual reasoning - lower the cost of experimenting - dont trap yourself in a golden jail - opening chess move 
 
-## Others 
+### Others 
 
 - [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/minibooks/reexamining-microservices/)
 
-## Single-responsibility principle - don't step on each other's toes
+### Single-responsibility principle - don't step on each other's toes
 
 [wiki: Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
 
@@ -59,7 +67,7 @@ have two classes instead of one, even though its tempting to consolidate them
 because they look alike.
 
 
-## Nail down your interface
+### Nail down your interface
 
 The Open-closed principle is an implementation pattern for the Liskov design principle.
 
@@ -121,6 +129,8 @@ Python tools for doing this:
 
 # Interesting readings
 
+- Loonshots
+- Innovation Stack 
 - [Are You Solving the Right Problem?](https://hbr.org/2012/09/are-you-solving-the-right-problem)
 
 # cognitive load theory and making software
@@ -149,14 +159,16 @@ Python tools for doing this:
 - Data design to reduce cognitive load and scale humans
 - A computational model of human cognitive load
 
-## References 
+# References 
 
 - Cognitive load during problem solving: Effects on learning
 - Cognitive load measurement as a means to advance cognitive load theory
 - Cognitive load while learning to use a computer program
 - Evidence for cognitive load theory
 
-## The dilemma 
+# The dilemma 
+
+Make a link to Loonshot book's theory
 
 - questioning will come at the cost of the perception of execution speed at the
   benefit of avoiding the XY problem and making a Rube Goldeberg machine -- this
