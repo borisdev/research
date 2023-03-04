@@ -10,6 +10,12 @@ Dishscores.com and other Dapps would be the interface by which people can both f
 
 Monetization is through big food enterprise company's paying to get certified food, and thus raising the token price.
 
+## Test to check for collusion
+
+The TCR can be tested by an outside org to ensure these is no collusion
+amongst the judges. 
+
+
 ## TCR References
 
 - Best, 20m read [Token-Curated Registries 1.0](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7)

@@ -1,9 +1,14 @@
 # Awesome
 
-- [Five whys](https://en.wikipedia.org/wiki/Five_whys)
+- [Five whys](https://en.wikipedia.org/wiki/Five_whys) and [The XY Problem](https://xyproblem.info/)
 - [Six Myths of Product Development](https://hbr.org/2012/05/six-myths-of-product-development)
 - [Super Chicken - Margaret Heffernan TED Talk](https://www.youtube.com/watch?v=udiTaS2wTAM)
 - [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)
+- [What Great Data Analysts Do — and Why Every Organization Needs Them](https://hbr.org/2018/12/what-great-data-analysts-do-and-why-every-organization-needs-them)
+- [Ideas as Art](https://hbr.org/2006/10/ideas-as-art)
+- [The Idea of Smart Contracts by Nick Szabo 1997](https://nakamotoinstitute.org/the-idea-of-smart-contracts/)
+
+
 
 ## Agile engineering to win the human powered helicopter flight challenge?
 
@@ -18,120 +23,17 @@ challenge[2][3].
 - https://www.cnn.com/2013/12/17/tech/innovation/ideas-aerovelo-human-power/index.html
 - https://interestingengineering.com/innovation/aerovelos-human-powered-helicopter-wins-250000-prize
 
-## My take on S.O.L.I.D principles
 
-### S.O.L.I.D principles  
-
-- Single-responsibility principle - no stepping on toes when fixing two issues
-- Open–closed - OO inheritance and composition mixins
-- Liskov substitution - stick the client interface
-- Interface segregation principle (ISP)
-- Dependency inversion principle
-
-### Distilling S.O.L.I.D down to "interface design principles'
-
-Design your interface for a near future of continuous improvement 
-
-Assume future failure that will need continuous improvement (CI), so upfront invest in reducing the growth of extraneous cognitive load so you have a clear road to the anticipated CI ...."its not the distance, its the pebble in your shoe" 
-
-Christopher Alexander "A Pattern Language" on Interface
-
-Principles of good interface design
-
-- Interface layer - CI design
-  - Stable - Liskov substitution - (generalize customer interaction) - Mix and Match
-  - flexible (generalize classes - extend classes over changing code) - Mix and Match
-  - ISP or minimal clean interface for customer to understand - Mix and Match
-  - Swap out low level service using an interface layer - Mix and Match
-- CI process (ABC): split classes/services or decouple jobs (divide and conquer), scale human cognition, reduce extraneous cognitive loads
-
-No-technical synonyms
-
-Mix and Match - Creativity space and the cost of execution speed - Counter factual reasoning - lower the cost of experimenting - dont trap yourself in a golden jail - opening chess move 
-
-### Others 
-
-- [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/minibooks/reexamining-microservices/)
-
-### Single-responsibility principle - don't step on each other's toes
-
-[wiki: Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
-
-Your television and your computer screen have different jobs, they serve
-different roles.
-
-You don't want the person improving your television to be stepping on the toes
-of the person improving your computer screen. You don't want a bug or regression
-in your television to spillover and break your computer screen. Therefore, you
-have two classes instead of one, even though its tempting to consolidate them
-because they look alike.
-
-
-### Nail down your interface
-
-The Open-closed principle is an implementation pattern for the Liskov design principle.
-
-### Liskov substitution principle
-
-The dilemma is that want to continuously improve your service, but you don't
-want to deal with its expensive implications of continuously changing the clients of your
-service because your changes break its interface.
-
-Starbucks continuously makes new drinks for its customers, but each new drink
-has the same packaging interface so customers never get confused.
-
-ChatGPT: "liskov substitution principle python" returned ...
-
-```
-class Animal:
-    def __init__(self):
-        pass
-
-class Dog(Animal):
-    def bark(self):
-        print("Woof!")
-
-class Cat(Animal):
-    def meow(self):
-        print("Meow!")
-
-def make_noise(animal):
-    animal.bark()
-    animal.meow()
-
-dog = Dog()
-cat = Cat()
-
-make_noise(dog) # Woof!
-make_noise(cat) # Meow!
-```
-
-
-#### Open–closed principle - continuously improve but never change interface
-
-
-[wiki Open–closed principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
-
-Design your class so you can extend it easily instead rather than change its code. In other words,
-build a nice primitive in anticipation of future changes. 
-
-Python tools for doing this:
-
-- Abstract Bases Classes
-- Inheritance
-- Mixing features with Mixin Classes
-
-#### ISP - Interface Segregation Principle - minimalism to reduce client's cognitive load - class composition  
-
-[Reasons to Follow the Interface Segregation Principle](https://reflectoring.io/interface-segregation-principle/)
-
-#### Dependency inversion principle - swap out low level services by using an interface layer
 
 # Interesting readings
 
 - Loonshots
 - Innovation Stack 
 - [Are You Solving the Right Problem?](https://hbr.org/2012/09/are-you-solving-the-right-problem)
+
+# My notes
+
+- [My take on S.O.L.I.D principles](solid_principles.md)
 
 # cognitive load theory and making software
 
@@ -174,3 +76,16 @@ Make a link to Loonshot book's theory
   benefit of avoiding the XY problem and making a Rube Goldeberg machine -- this
   will be hard without circumventing the conventional hierarchy that instills
   fear to keep the perception of execution speeds high.
+
+# Raymond's lessons
+
+Raymond's lessons for creating good open source software[[edit](https://en.wikipedia.org/w/index.php?title=The_Cathedral_and_the_Bazaar&action=edit&section=2 "Edit section: Lessons for creating good open source software")]
+
+1.  Every good work of software starts by scratching a developer's personal itch.
+2.  If you have the right attitude, interesting problems will find you.
+3.  Often, the most striking and innovative solutions come from realizing that your concept of the problem was wrong.
+4.  To solve an interesting problem, start by finding a problem that is interesting to you.
+
+
+_**The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary**_ (abbreviated _**CatB**_) is an essay, and later a book, by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond "Eric S. Raymond") on [software engineering](https://en.wikipedia.org/wiki/Software_engineering "Software engineering") methods
+
