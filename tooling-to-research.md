@@ -30,6 +30,7 @@
 
 ### Technologist tools
 
+- [ ] [Why Arweave over IPFS?](https://arweave.news/nfts-storage-arweave-vs-ipfs/)
 - [ ] [GitHub Pages](https://docs.github.com/en/pages/quickstart)
 - [ ] Twitter newspaper without ads
 - [ ] GraphGPT and DAG
