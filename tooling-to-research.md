@@ -19,6 +19,7 @@
 
 ### Libraries 
 
+- [ ] [Promptable AI is one interface to many LLMs](https://github.com/cfortuner/promptable)
 - [ ] dbt (SQL)
 - [ ] airflow
 - [ ] snowflake
