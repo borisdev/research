@@ -1,9 +1,46 @@
 ## Tooling to research
 
-## Critical tools
+# Critical tools for fine-tuning GPT
 
 - [ ] [Summ: Transcript Search and Summarization](https://www.markiewagner.com/summ)
 - [ ] [langchain](https://github.com/hwchase17/langchain)
+
+## OpenAI docs
+
+- [prompt design](https://platform.openai.com/docs/guides/completion/prompt-design)
+- [OpenAI Libraries](https://platform.openai.com/docs/libraries)
+- [openai-cookbook](https://github.com/openai/openai-cookbook)
+
+- Vector databases - pinecone
+- GPT-3
+  - [Guide: How to work with large language models](https://github.com/openai/openai-cookbook/blob/main/how_to_work_with_large_language_models.md)
+  - [Techniques to improve reliability](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md)
+  - How to use a multi-step prompt to write unit tests
+
+- Embeddings
+  - Text comparison examples
+  - How to get embeddings
+  - Question answering using embeddings
+
+- Fine-tuning GPT-3
+  - Guide: best practices for fine-tuning GPT-3 to classify text
+  - Fine-tuned classification
+
+## Other references
+
+- GPT's open source competitor BLOOM [BLOOM 176B — how to run a real LARGE language model in your own cloud?](https://medium.com/mlearning-ai/bloom-176b-how-to-run-a-real-large-language-model-in-your-own-cloud-e5f6bdfb3bb1)
+- MLFlow [How to Efficiently Fine-Tune your Machine Learning Models](https://towardsdatascience.com/how-to-fine-tune-your-machine-learning-models-with-ease-8ca62d1217b1)
+- [OPT by Meta AI](https://huggingface.co/docs/transformers/model_doc/opt)
+
+## Prompt Best Practices
+
+- end question prompt with a ### to ensure the model does not predict a continuation 
+- 'Say "I don't know" if you do not know the answer'
+- high quality, diverse examples
+- "The following answer is correct, high-quality, and written by an expert."
+- "Let's think step by step" and "Give an  explanation of your reasoning before
+  the final answer"
+
 
 ## Priority tools
 
@@ -31,6 +68,7 @@
 
 ### Technologist tools
 
+- [ ] Train a model for each customer using [Steamship](https://medium.com/steamship/steamship-heroku-for-language-ai-9c7dd70cd25a)
 - [ ] [Why Arweave over IPFS?](https://arweave.news/nfts-storage-arweave-vs-ipfs/)
 - [ ] [GitHub Pages](https://docs.github.com/en/pages/quickstart)
 - [ ] Twitter newspaper without ads
