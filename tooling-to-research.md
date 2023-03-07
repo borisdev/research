@@ -85,6 +85,9 @@
 - [Peter Lamut's blog](https://blog.peterlamut.com/)
   - [How Python computes 2 + 5 under the hood (part 1)](https://blog.peterlamut.com/2018/02/04/how-python-computes-2-5-under-the-hood-part-1/)
 
+# CS
+
+- [Node.js animated: Event Loop](https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62)
 
 # Done 
 
